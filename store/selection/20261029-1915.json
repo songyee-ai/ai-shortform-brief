@@ -1,0 +1,144 @@
+{
+  "tools": {
+    "batches": [
+      {
+        "batch": 1,
+        "size": 12,
+        "passed": [
+          "Tiny Desk AI – Turn yourself and friends into an \"Outstanding\" meme video",
+          "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+          "Build specialized multimodal models with LFM3",
+          "Google opens Android development to third-party AI agents and unveils new Gemini APIs"
+        ],
+        "dropped": [
+          "Our newest AI Quest: Mapping the human brain",
+          "Higgsfield AI vs OpenArt 2026: Features and Pricing Compared",
+          "Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board",
+          "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+          "Shigeru Miyamoto explains why AI won't make human creativity obsolete",
+          "Higgsfield AI vs Magnific 2026: Features and Pricing Compared",
+          "Google AI gets cagey when asked who won the 2020 elections",
+          "Can we trust LLMs to judge whether a research idea is novel?"
+        ]
+      },
+      {
+        "batch": 2,
+        "size": 12,
+        "passed": [
+          "Oracle unveils its first in-house Image/Video Models",
+          "Nvidia's open Nemotron 3.5 Transcribe combines transcription, translation, and speaker recognition",
+          "OpenAI teases Dots for Europe, but its Berlin DevDay was really about building a platform",
+          "Claude for Legal now verifies sources automatically, then hands the file to a lawyer"
+        ],
+        "dropped": [
+          "How to Generate AI Videos in Claude With the Higgsfield MCP Connector (2026)",
+          "Show HN: The New Way to Make AI UGC Ads in 2026",
+          "5 Best Platforms to Access Kling 4.0 in 2026",
+          "David Bianchi: Directing for a Top 10 Global DJ on Higgsfield",
+          "Show HN: Sectr – Serverless backend platform for easy deployment of AI agents",
+          "Higgsfield Cinema Studio 4.0: Complete Guide",
+          "New Artificial Analysis index widens the gap between open and closed models",
+          "Show HN: Deepswapp Browser: browser the browser with another browser"
+        ]
+      },
+      {
+        "batch": 3,
+        "size": 10,
+        "passed": [
+          "Create and edit images with a collection of easy-to-use AI tools",
+          "Show HN: Gifup – GIF tools that run in the browser (ffmpeg.wasm)",
+          "MAI Image 2.7 debuts above GPT Image 2.5 Flare on Artificial Analysis",
+          "With AI writing the code, entrepreneurial thinking is now what counts most for newcomers at Anthropic"
+        ],
+        "dropped": [
+          "6 Best AI Video Tools for Realistic Human Motion in 2026 (Tested and Compared)",
+          "Show HN: Interview your analysts instead of auto-generating a semantic layer",
+          "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+          "Show HN: Formstep, Request information from customers without the back-and-forth",
+          "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+          "Image generation has come a long way since August 2022"
+        ]
+      }
+    ],
+    "survivors": 12,
+    "final_skipped": [
+      {
+        "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "Nvidia's open Nemotron 3.5 Transcribe combines transcription, translation, and speaker recognition",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "Oracle unveils its first in-house Image/Video Models",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "Build specialized multimodal models with LFM3",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "OpenAI teases Dots for Europe, but its Berlin DevDay was really about building a platform",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Claude for Legal now verifies sources automatically, then hands the file to a lawyer",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "MAI Image 2.7 debuts above GPT Image 2.5 Flare on Artificial Analysis",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "With AI writing the code, entrepreneurial thinking is now what counts most for newcomers at Anthropic",
+        "why": "본선 탈락"
+      }
+    ],
+    "chosen": [
+      {
+        "title": "Create and edit images with a collection of easy-to-use AI tools",
+        "event": "AI 이미지 생성 및 편집 도구 출시",
+        "reason": "무료 또는 저렴한 AI 이미지 생성 및 편집 도구 소개로, AI 숏폼 영상 제작에 바로 활용 가능하여 개인 창작자에게 유용함."
+      },
+      {
+        "title": "Tiny Desk AI – Turn yourself and friends into an \"Outstanding\" meme video",
+        "event": "밈 영상 생성 도구 출시",
+        "reason": "Tiny Desk AI를 통해 자신과 친구들을 'Outstanding' 밈 영상으로 변환하는 기능은 숏폼 영상 콘텐츠 제작에 즉시 활용할 수 있는 재미있는 도구임."
+      },
+      {
+        "title": "Show HN: Gifup – GIF tools that run in the browser (ffmpeg.wasm)",
+        "event": "브라우저 기반 GIF 편집 도구 출시",
+        "reason": "브라우저에서 실행되는 GIF 편집 도구 Gifup는 별도 설치 없이 쉽게 GIF를 제작·편집할 수 있어 숏폼 영상 제작에 도움됨."
+      }
+    ]
+  },
+  "trend": {
+    "prelim": 0,
+    "labels": []
+  },
+  "checks": [
+    {
+      "title": "Create and edit images with a collection of easy-to-use AI tools",
+      "source": "Hacker News",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "Tiny Desk AI – Turn yourself and friends into an \"Outstanding\" meme video",
+      "source": "Hacker News",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "Show HN: Gifup – GIF tools that run in the browser (ffmpeg.wasm)",
+      "source": "Hacker News",
+      "first_ok": true,
+      "first_problems": []
+    }
+  ]
+}

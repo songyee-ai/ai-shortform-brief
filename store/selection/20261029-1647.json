@@ -1,0 +1,306 @@
+{
+  "tools": {
+    "batches": [
+      {
+        "batch": 1,
+        "size": 12,
+        "passed": [
+          "How to Generate AI Videos in Claude With the Higgsfield MCP Connector (2026)",
+          "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+          "Build specialized multimodal models with LFM3",
+          "Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board"
+        ],
+        "dropped": [
+          "Our newest AI Quest: Mapping the human brain",
+          "Can we trust LLMs to judge whether a research idea is novel?",
+          "Higgsfield AI vs OpenArt 2026: Features and Pricing Compared",
+          "Higgsfield AI vs Magnific 2026: Features and Pricing Compared",
+          "5 Best Platforms to Access Kling 4.0 in 2026",
+          "David Bianchi: Directing for a Top 10 Global DJ on Higgsfield",
+          "Higgsfield Cinema Studio 4.0: Complete Guide",
+          "6 Best AI Video Tools for Realistic Human Motion in 2026 (Tested and Compared)"
+        ]
+      },
+      {
+        "batch": 2,
+        "size": 12,
+        "passed": [
+          "Tiny Desk AI – Turn yourself and friends into an \"Outstanding\" meme video",
+          "Nvidia's open Nemotron 3.5 Transcribe combines transcription, translation, and speaker recognition",
+          "OpenAI teases Dots for Europe, but its Berlin DevDay was really about building a platform",
+          "Claude for Legal now verifies sources automatically, then hands the file to a lawyer"
+        ],
+        "dropped": [
+          "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
+          "New Artificial Analysis index widens the gap between open and closed models",
+          "With AI writing the code, entrepreneurial thinking is now what counts most for newcomers at Anthropic",
+          "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+          "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+          "Google AI gets cagey when asked who won the 2020 elections",
+          "Shigeru Miyamoto explains why AI won't make human creativity obsolete",
+          "Show HN: The New Way to Make AI UGC Ads in 2026"
+        ]
+      },
+      {
+        "batch": 3,
+        "size": 10,
+        "passed": [
+          "Create and edit images with a collection of easy-to-use AI tools",
+          "Oracle unveils its first in-house Image/Video Models",
+          "Show HN: Gifup – GIF tools that run in the browser (ffmpeg.wasm)",
+          "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT"
+        ],
+        "dropped": [
+          "Show HN: Sectr – Serverless backend platform for easy deployment of AI agents",
+          "Show HN: Deepswapp Browser: browser the browser with another browser",
+          "Show HN: Interview your analysts instead of auto-generating a semantic layer",
+          "MAI Image 2.7 debuts above GPT Image 2.5 Flare on Artificial Analysis",
+          "Show HN: Formstep, Request information from customers without the back-and-forth",
+          "Image generation has come a long way since August 2022"
+        ]
+      }
+    ],
+    "survivors": 12,
+    "final_skipped": [
+      {
+        "title": "Show HN: Gifup – GIF tools that run in the browser (ffmpeg.wasm)",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "How to Generate AI Videos in Claude With the Higgsfield MCP Connector (2026)",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "OpenAI teases Dots for Europe, but its Berlin DevDay was really about building a platform",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Build specialized multimodal models with LFM3",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Claude for Legal now verifies sources automatically, then hands the file to a lawyer",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Oracle unveils its first in-house Image/Video Models",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+        "why": "본선 탈락"
+      }
+    ],
+    "chosen": [
+      {
+        "title": "Tiny Desk AI – Turn yourself and friends into an \"Outstanding\" meme video",
+        "event": "Tiny Desk AI meme video tool release",
+        "reason": "Tiny Desk AI는 사용자가 자신과 친구들을 'Outstanding' 밈 영상으로 변환할 수 있는 도구로, AI 숏폼 영상 제작에 바로 활용 가능해 창작자에게 유용하다."
+      },
+      {
+        "title": "Nvidia's open Nemotron 3.5 Transcribe combines transcription, translation, and speaker recognition",
+        "event": "Nvidia Nemotron 3.5 Transcribe release",
+        "reason": "Nvidia Nemotron 3.5 Transcribe는 텍스트 프롬프트로 제어 가능한 다기능 음성 인식 모델로, 영상 자막 생성과 다국어 번역에 활용할 수 있어 숏폼 영상 제작에 도움된다."
+      },
+      {
+        "title": "Create and edit images with a collection of easy-to-use AI tools",
+        "event": "Easy-to-use AI image tools collection",
+        "reason": "쉽게 사용할 수 있는 AI 이미지 생성 및 편집 도구 모음은 영상 제작에 필요한 이미지 자산을 빠르게 만들고 편집하는 데 유용해 바로 써먹기 좋다."
+      }
+    ]
+  },
+  "trend": {
+    "prelim": 30,
+    "unlabeled": 0,
+    "labels": [
+      {
+        "title": "결혼식 날 시어머니를 무시한 며느리에게 시아버지가 한 말 #Ai가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "views": 1273761,
+        "genre": "작품",
+        "reason": "#Ai가상인물 태그가 있으나 AI 제작에 대한 직접 언급이 없어 작품으로 판단"
+      },
+      {
+        "title": "지갑 잃어버린 할머니에게 만 원을 건넨 대학생 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "views": 1142548,
+        "genre": "작품",
+        "reason": "#AI가상인물 태그 있으나 AI 제작 명확 언급 없음, 작품으로 분류"
+      },
+      {
+        "title": "조종사가 기절하자 AI가 한 소름돋는 선택",
+        "views": 975713,
+        "genre": "AI 뉴스·해설",
+        "reason": "조종사가 기절한 상황에서 AI가 한 선택에 대한 설명으로 AI 뉴스·해설에 해당"
+      },
+      {
+        "title": "평생 김밥을 공짜로 나눠주던 할머니, 10년 뒤 돌아온 은혜 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "views": 888218,
+        "genre": "작품",
+        "reason": "#AI가상인물 태그 있으나 AI 제작 명확 언급 없음, 작품으로 분류"
+      },
+      {
+        "title": "아들 결혼식에 나타나 난동 부리는 줄 알았던 전처의 반전 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "views": 682089,
+        "genre": "작품",
+        "reason": "#AI가상인물 태그 있으나 AI 제작 명확 언급 없음, 작품으로 분류"
+      },
+      {
+        "title": "세상에서 가장 똑똑한 AI는 무엇일까",
+        "views": 641738,
+        "genre": "무관",
+        "reason": "AI 관련 언급 없고 일반 정보성 영상으로 판단됨"
+      },
+      {
+        "title": "우리할머니 무시하면 용서안해 #강아지 #dog #ai강아지 #비숑프리제 #bichonfrise",
+        "views": 620336,
+        "genre": "AI 뉴스·해설",
+        "reason": "설명에 AI 기술 활용해 만든 영상임을 명확히 밝힘"
+      },
+      {
+        "title": "노기술자 뺨 때린 공장장… 알고 보니 그룹 회장이었다! 😱",
+        "views": 618309,
+        "genre": "작품",
+        "reason": "AI 관련 언급 없고 일반 드라마로 판단됨"
+      },
+      {
+        "title": "상견례 자리에서 사돈 무시했다가 제대로 참교육당한 시어머니 #사이다 #드라마",
+        "views": 565413,
+        "genre": "작품",
+        "reason": "AI 관련 언급 없고 일반 드라마로 판단됨"
+      },
+      {
+        "title": "찌개를 쏟은 식당 아주머니가 건넨 정장, 면접장에서 벌어진 일 #숏드라마 #shortvideo",
+        "views": 513481,
+        "genre": "AI 뉴스·해설",
+        "reason": "설명에 AI로 제작된 가상 인물 영상임을 명확히 밝힘"
+      },
+      {
+        "title": "AI로 오염된 쿠팡 구매후기들🚀.jpg",
+        "views": 461250,
+        "genre": "무관",
+        "reason": "AI 관련 언급 없고 일반 게임 영상으로 판단됨"
+      },
+      {
+        "title": "이혼 서류를 내민 아내… 남편이 정말 서명하자 모든 게 무너졌다 #시니어사연",
+        "views": 382126,
+        "genre": "작품",
+        "reason": "AI 관련 언급 없고 일반 드라마로 판단됨"
+      },
+      {
+        "title": "칼국수 한 그릇 먹던 할머니가 남긴 것 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "views": 356266,
+        "genre": "작품",
+        "reason": "#AI가상인물 태그 있으나 AI 제작 명확 언급 없음, 작품으로 분류"
+      },
+      {
+        "title": "내 자식처럼 키웠는데… 아들 결혼식에서 남 취급받은 새엄마",
+        "views": 350668,
+        "genre": "작품",
+        "reason": "AI 관련 언급 없고 일반 드라마로 판단됨"
+      },
+      {
+        "title": "\"5.18은 거절했어야! 불매\".. 또 배우 향한 '선넘는 공격' #Shorts (MBC뉴스)",
+        "views": 300493,
+        "genre": "무관",
+        "reason": "뉴스 영상으로 AI 제작 관련 언급 없음"
+      },
+      {
+        "title": "아빠의 몸매 유지 비결 #서울패밀리 #AI드라마 #AI시트콤",
+        "views": 167321,
+        "genre": "AI 뉴스·해설",
+        "reason": "#AI드라마 태그와 AI 시트콤 명시로 AI로 만든 영상임을 확인"
+      },
+      {
+        "title": "대기업 갑질에 맞선 중소기업의 반격",
+        "views": 166126,
+        "genre": "AI 뉴스·해설",
+        "reason": "설명에 AI로 제작한 숏드라마임을 명확히 밝힘"
+      },
+      {
+        "title": "역대급 고양이 밈 | 영화 바람 서면시장 패싸움 고양이 버전 #영화바람 #고양이 #쇼츠",
+        "views": 164454,
+        "genre": "AI 뉴스·해설",
+        "reason": "AI 기술 활용해 만든 영상임을 설명에 명시"
+      },
+      {
+        "title": "＂저 언니 무서워＂강애심의 집에서 기억을 잃은 척하는 박유나 [사랑이 온다] | KBS 261024 방송",
+        "views": 157321,
+        "genre": "무관",
+        "reason": "드라마 영상으로 AI 제작 관련 언급 없음"
+      },
+      {
+        "title": "유머 대충대충 #웃음맛집 #웃긴영상 #ai영상 #ai #ai유머 #감동 #반전  #40대공감 #50대공감 #60대공감 #공감영상 #꿀잼 #공감 #훈훈 #재미 #시니어 #쇼츠",
+        "views": 154393,
+        "genre": "AI 뉴스·해설",
+        "reason": "설명에 AI 기술로 만든 창작 영상임을 명확히 밝힘"
+      },
+      {
+        "title": "의외라는 아이찡 행동 #쇼츠 #shorts",
+        "views": 139072,
+        "genre": "무관",
+        "reason": "AI 관련 언급 없고 일반 유머 영상으로 판단됨"
+      },
+      {
+        "title": "택배를 훔쳐가면 안되는 이유 #ai #shorts #action #seedance",
+        "views": 131188,
+        "genre": "AI 뉴스·해설",
+        "reason": "#ai 태그와 AI 관련 영상임을 설명에서 확인"
+      },
+      {
+        "title": "🌙 전썰의 고향 | 아들을 살릴 방법을 들은 어머니의 선택은? 여우구슬 2부 완결",
+        "views": 127663,
+        "genre": "AI 뉴스·해설",
+        "reason": "#AI드라마 태그와 AI로 만든 이야기임을 설명에서 확인"
+      },
+      {
+        "title": "💛FOYEGE 말포이TS 랭킹 TOP7 3탄",
+        "views": 123222,
+        "genre": "AI 뉴스·해설",
+        "reason": "#AI영상 태그와 팬메이드 영상임을 설명에서 확인"
+      },
+      {
+        "title": "이세돌 | 알파고를 이긴 단 한 사람, 은퇴 7년 뒤 찾아 나선 일",
+        "views": 113480,
+        "genre": "무관",
+        "reason": "AI 관련 언급 없고 일반 다큐멘터리 영상으로 판단됨"
+      },
+      {
+        "title": "[백묵숏츠] 과도한 실험이 낳은 결과 #백수묵시록 #meme #밈 #병맛 #과학 #과학이야기 #실험",
+        "views": 112874,
+        "genre": "작품",
+        "reason": "AI 생성 이미지 일부 사용되었으나 AI 제작 명확 언급 없어 작품으로 분류"
+      },
+      {
+        "title": "100만뷰 나온 영상, 과연 AI였을까? #H2 #핫투데이",
+        "views": 111608,
+        "genre": "무관",
+        "reason": "AI 관련 언급 없고 일반 영상으로 판단됨"
+      },
+      {
+        "title": "최근 AI 때문에 난리난 게임 업계ㄷㄷ",
+        "views": 99456,
+        "genre": "AI 뉴스·해설",
+        "reason": "AI 때문에 난리난 게임 업계에 대한 설명으로 AI 뉴스·해설에 해당"
+      },
+      {
+        "title": "조회수 1억짜리 영상 만드는 AI들 ㅎ;",
+        "views": 99272,
+        "genre": "무관",
+        "reason": "AI 관련 언급 없고 일반 영상으로 판단됨"
+      },
+      {
+        "title": "\"엄마 자격 함량 미달이야!\"엄마 청문회#shorts #shortsvideo #AI #shortstory #ViralShorts #AIDrama #funny #funnyvideo",
+        "views": 96473,
+        "genre": "AI 뉴스·해설",
+        "reason": "#AI 태그와 AI 드라마 관련 설명이 있어 AI로 만든 영상임을 확인"
+      }
+    ]
+  }
+}

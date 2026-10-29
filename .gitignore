@@ -1,0 +1,5 @@
+.env
+.venv/
+__pycache__/
+# 마지막 수집 결과(개발용 --reuse 캐시). 실행마다 바뀌고 기사 발췌가 통째로 들어 있다
+store/collected-latest.json

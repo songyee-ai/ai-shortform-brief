@@ -1,0 +1,144 @@
+{
+  "tools": {
+    "batches": [
+      {
+        "batch": 1,
+        "size": 12,
+        "passed": [
+          "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+          "Build specialized multimodal models with LFM3",
+          "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
+          "Tiny Desk AI – Turn yourself and friends into an \"Outstanding\" meme video"
+        ],
+        "dropped": [
+          "Our newest AI Quest: Mapping the human brain",
+          "Higgsfield AI vs OpenArt 2026: Features and Pricing Compared",
+          "Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board",
+          "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+          "Shigeru Miyamoto explains why AI won't make human creativity obsolete",
+          "Higgsfield AI vs Magnific 2026: Features and Pricing Compared",
+          "Google AI gets cagey when asked who won the 2020 elections",
+          "Can we trust LLMs to judge whether a research idea is novel?"
+        ]
+      },
+      {
+        "batch": 2,
+        "size": 12,
+        "passed": [
+          "OpenAI teases Dots for Europe, but its Berlin DevDay was really about building a platform",
+          "Oracle unveils its first in-house Image/Video Models",
+          "Nvidia's open Nemotron 3.5 Transcribe combines transcription, translation, and speaker recognition",
+          "Claude for Legal now verifies sources automatically, then hands the file to a lawyer"
+        ],
+        "dropped": [
+          "How to Generate AI Videos in Claude With the Higgsfield MCP Connector (2026)",
+          "Show HN: The New Way to Make AI UGC Ads in 2026",
+          "5 Best Platforms to Access Kling 4.0 in 2026",
+          "David Bianchi: Directing for a Top 10 Global DJ on Higgsfield",
+          "Show HN: Sectr – Serverless backend platform for easy deployment of AI agents",
+          "Higgsfield Cinema Studio 4.0: Complete Guide",
+          "New Artificial Analysis index widens the gap between open and closed models",
+          "Show HN: Deepswapp Browser: browser the browser with another browser"
+        ]
+      },
+      {
+        "batch": 3,
+        "size": 10,
+        "passed": [
+          "Create and edit images with a collection of easy-to-use AI tools",
+          "Show HN: Gifup – GIF tools that run in the browser (ffmpeg.wasm)",
+          "MAI Image 2.7 debuts above GPT Image 2.5 Flare on Artificial Analysis",
+          "Image generation has come a long way since August 2022"
+        ],
+        "dropped": [
+          "6 Best AI Video Tools for Realistic Human Motion in 2026 (Tested and Compared)",
+          "With AI writing the code, entrepreneurial thinking is now what counts most for newcomers at Anthropic",
+          "Show HN: Interview your analysts instead of auto-generating a semantic layer",
+          "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+          "Show HN: Formstep, Request information from customers without the back-and-forth",
+          "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT"
+        ]
+      }
+    ],
+    "survivors": 12,
+    "final_skipped": [
+      {
+        "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+        "why": "같은 사건(Nvidia Nemotron 3.5 Transcribe 출시)"
+      },
+      {
+        "title": "Build specialized multimodal models with LFM3",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "Oracle unveils its first in-house Image/Video Models",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "Tiny Desk AI – Turn yourself and friends into an \"Outstanding\" meme video",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "OpenAI teases Dots for Europe, but its Berlin DevDay was really about building a platform",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Claude for Legal now verifies sources automatically, then hands the file to a lawyer",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "MAI Image 2.7 debuts above GPT Image 2.5 Flare on Artificial Analysis",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Image generation has come a long way since August 2022",
+        "why": "본선 탈락"
+      }
+    ],
+    "chosen": [
+      {
+        "title": "Nvidia's open Nemotron 3.5 Transcribe combines transcription, translation, and speaker recognition",
+        "event": "Nvidia Nemotron 3.5 Transcribe 출시",
+        "reason": "Nvidia의 Nemotron 3.5 Transcribe는 텍스트 프롬프트로 지시할 수 있는 다기능 음성 인식 모델로, 녹음된 음성의 전사, 번역, 화자 인식까지 한 번에 처리해 AI 숏폼 영상 제작에 바로 활용 가능하다. 무료 공개 모델이라 개인 창작자에게 유용하다."
+      },
+      {
+        "title": "Create and edit images with a collection of easy-to-use AI tools",
+        "event": "쉬운 AI 이미지 생성 및 편집 도구 공개",
+        "reason": "브라우저에서 바로 사용할 수 있는 쉬운 AI 이미지 생성 및 편집 도구 모음이 공개되어, 별도 설치 없이 빠르게 영상용 이미지를 만들고 수정할 수 있다. 무료 또는 저렴한 도구로 활용 가능하다."
+      },
+      {
+        "title": "Show HN: Gifup – GIF tools that run in the browser (ffmpeg.wasm)",
+        "event": "Gifup 브라우저 GIF 편집 도구 공개",
+        "reason": "Gifup은 브라우저 내에서 ffmpeg.wasm을 활용해 GIF를 만들고 편집할 수 있는 도구로, 별도 프로그램 없이 짧은 영상 클립을 GIF로 변환해 숏폼 콘텐츠에 활용하기 좋다."
+      }
+    ]
+  },
+  "trend": {
+    "prelim": 0,
+    "labels": []
+  },
+  "checks": [
+    {
+      "title": "Nvidia's open Nemotron 3.5 Transcribe combines transcription, translation, and speaker recognition",
+      "source": "The Decoder",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "Create and edit images with a collection of easy-to-use AI tools",
+      "source": "Hacker News",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "Show HN: Gifup – GIF tools that run in the browser (ffmpeg.wasm)",
+      "source": "Hacker News",
+      "first_ok": true,
+      "first_problems": []
+    }
+  ]
+}

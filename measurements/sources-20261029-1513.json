@@ -1,0 +1,260 @@
+{
+  "measured_at": "2026-10-29T06:13:39.752136+00:00",
+  "min_body": 600,
+  "results": [
+    {
+      "name": "Google AI 블로그",
+      "url": "https://blog.google/technology/ai/rss/",
+      "kind": "rss",
+      "lang": "en",
+      "tier": 1,
+      "status": 200,
+      "entries": 20,
+      "recent_7d": 1,
+      "newest_hours": 62,
+      "rss_summary_avg": 123,
+      "body_ok": "3/3",
+      "body_lengths": [
+        2308,
+        4779,
+        15664
+      ],
+      "topic_ratio": 0.25,
+      "robots": true,
+      "seconds": 3.4
+    },
+    {
+      "name": "Hugging Face 블로그",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "kind": "rss",
+      "lang": "en",
+      "tier": 1,
+      "status": 200,
+      "entries": 891,
+      "recent_7d": 6,
+      "newest_hours": 15,
+      "rss_summary_avg": 0,
+      "body_ok": "3/3",
+      "body_lengths": [
+        16445,
+        18772,
+        10805
+      ],
+      "topic_ratio": 0.12,
+      "robots": true,
+      "seconds": 1.5
+    },
+    {
+      "name": "OpenAI 뉴스",
+      "url": "https://openai.com/news/rss.xml",
+      "kind": "rss",
+      "lang": "en",
+      "tier": 1,
+      "status": 200,
+      "entries": 1334,
+      "recent_7d": 18,
+      "newest_hours": 17,
+      "rss_summary_avg": 122,
+      "body_ok": "0/3",
+      "body_lengths": [
+        0,
+        0,
+        0
+      ],
+      "topic_ratio": 0.12,
+      "robots": true,
+      "seconds": 0.3
+    },
+    {
+      "name": "NVIDIA 블로그",
+      "url": "https://blogs.nvidia.com/feed/",
+      "kind": "rss",
+      "lang": "en",
+      "tier": 1,
+      "status": 200,
+      "entries": 18,
+      "recent_7d": 5,
+      "newest_hours": 15,
+      "rss_summary_avg": 338,
+      "body_ok": "3/3",
+      "body_lengths": [
+        9877,
+        5382,
+        7861
+      ],
+      "topic_ratio": 0.06,
+      "robots": true,
+      "seconds": 0.3
+    },
+    {
+      "name": "Stability AI 뉴스",
+      "url": "https://stability.ai/news?format=rss",
+      "kind": "rss",
+      "lang": "en",
+      "tier": 1,
+      "status": 200,
+      "entries": 0,
+      "recent_7d": 0,
+      "newest_hours": null,
+      "rss_summary_avg": 0,
+      "body_ok": "0/0",
+      "body_lengths": [],
+      "topic_ratio": 0.0,
+      "robots": null,
+      "seconds": 1.1
+    },
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/feed/",
+      "kind": "rss",
+      "lang": "en",
+      "tier": 2,
+      "status": 200,
+      "entries": 10,
+      "recent_7d": 10,
+      "newest_hours": 11,
+      "rss_summary_avg": 533,
+      "body_ok": "3/3",
+      "body_lengths": [
+        7158,
+        6982,
+        3672
+      ],
+      "topic_ratio": 0.2,
+      "robots": true,
+      "seconds": 6.8
+    },
+    {
+      "name": "VentureBeat AI",
+      "url": "https://venturebeat.com/category/ai/feed/",
+      "kind": "rss",
+      "lang": "en",
+      "tier": 2,
+      "status": null,
+      "error": "HTTPError",
+      "seconds": 0.1
+    },
+    {
+      "name": "Ars Technica AI",
+      "url": "https://arstechnica.com/ai/feed/",
+      "kind": "rss",
+      "lang": "en",
+      "tier": 2,
+      "status": 200,
+      "entries": 20,
+      "recent_7d": 13,
+      "newest_hours": 11,
+      "rss_summary_avg": 72,
+      "body_ok": "3/3",
+      "body_lengths": [
+        1808,
+        1711,
+        9438
+      ],
+      "topic_ratio": 0.1,
+      "robots": true,
+      "seconds": 5.2
+    },
+    {
+      "name": "블로터",
+      "url": "https://www.bloter.net/rss/allArticle.xml",
+      "kind": "rss",
+      "lang": "ko",
+      "tier": 2,
+      "status": 200,
+      "entries": 50,
+      "recent_7d": 50,
+      "newest_hours": -9,
+      "rss_summary_avg": 299,
+      "body_ok": "3/3",
+      "body_lengths": [
+        2200,
+        1564,
+        1486
+      ],
+      "topic_ratio": 0.08,
+      "robots": true,
+      "seconds": 0.2
+    },
+    {
+      "name": "디지털투데이",
+      "url": "https://www.digitaltoday.co.kr/rss/allArticle.xml",
+      "kind": "rss",
+      "lang": "ko",
+      "tier": 2,
+      "status": 200,
+      "entries": 50,
+      "recent_7d": 50,
+      "newest_hours": -9,
+      "rss_summary_avg": 300,
+      "body_ok": "3/3",
+      "body_lengths": [
+        999,
+        1466,
+        2996
+      ],
+      "topic_ratio": 0.0,
+      "robots": true,
+      "seconds": 0.3
+    },
+    {
+      "name": "Reddit r/aivideo",
+      "url": "https://www.reddit.com/r/aivideo/.rss",
+      "kind": "rss",
+      "lang": "en",
+      "tier": 3,
+      "status": 200,
+      "entries": 25,
+      "recent_7d": 23,
+      "newest_hours": 0,
+      "rss_summary_avg": 6501,
+      "body_ok": "0/3",
+      "body_lengths": [
+        0,
+        0,
+        0
+      ],
+      "topic_ratio": 0.16,
+      "robots": false,
+      "seconds": 1.0
+    },
+    {
+      "name": "Hacker News 검색 API",
+      "url": "https://hn.algolia.com/api/v1/search_by_date?query=AI%20video&tags=story&hitsPerPage=50",
+      "kind": "hn",
+      "lang": "en",
+      "tier": 2,
+      "status": 200,
+      "entries": 49,
+      "recent_7d": 49,
+      "newest_hours": 13,
+      "rss_summary_avg": 0,
+      "body_ok": "1/3",
+      "body_lengths": [
+        3918,
+        274,
+        274
+      ],
+      "topic_ratio": 0.8,
+      "robots": true,
+      "seconds": 2.7
+    },
+    {
+      "name": "arXiv cs.CV",
+      "url": "https://rss.arxiv.org/rss/cs.CV",
+      "kind": "rss",
+      "lang": "en",
+      "tier": 1,
+      "status": 200,
+      "entries": 0,
+      "recent_7d": 0,
+      "newest_hours": null,
+      "rss_summary_avg": 0,
+      "body_ok": "0/0",
+      "body_lengths": [],
+      "topic_ratio": 0.0,
+      "robots": null,
+      "seconds": 0.1
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "measured_at": "2026-10-29T06:42:50.051483+00:00",
+  "min_body": 600,
+  "min_text": 100,
+  "results": [
+    {
+      "name": "Google AI 블로그",
+      "url": "https://blog.google/technology/ai/rss/",
+      "kind": "rss",
+      "lang": "en",
+      "tier": 1,
+      "section": null,
+      "status": 200,
+      "entries": 20,
+      "recent_7d": 1,
+      "newest_hours": 63,
+      "topic_ratio": 0.25,
+      "rss_summary_avg": 123,
+      "body_ok": "3/3",
+      "body_lengths": [
+        2308,
+        4779,
+        15664
+      ],
+      "robots": true,
+      "seconds": 3.5
+    },
+    {
+      "name": "Hugging Face 블로그",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "kind": "rss",
+      "lang": "en",
+      "tier": 1,
+      "section": null,
+      "status": 200,
+      "entries": 891,
+      "recent_7d": 6,
+      "newest_hours": 16,
+      "topic_ratio": 0.12,
+      "rss_summary_avg": 0,
+      "body_ok": "3/3",
+      "body_lengths": [
+        16445,
+        18772,
+        10805
+      ],
+      "robots": true,
+      "seconds": 1.6
+    },
+    {
+      "name": "OpenAI 뉴스",
+      "url": "https://openai.com/news/rss.xml",
+      "kind": "rss",
+      "lang": "en",
+      "tier": 1,
+      "section": null,
+      "status": 200,
+      "entries": 1334,
+      "recent_7d": 18,
+      "newest_hours": 17,
+      "topic_ratio": 0.12,
+      "rss_summary_avg": 122,
+      "body_ok": "0/3",
+      "body_lengths": [
+        0,
+        0,
+        0
+      ],
+      "robots": true,
+      "seconds": 0.4
+    },
+    {
+      "name": "NVIDIA 블로그",
+      "url": "https://blogs.nvidia.com/feed/",
+      "kind": "rss",
+      "lang": "en",
+      "tier": 1,
+      "section": null,
+      "status": 200,
+      "entries": 18,
+      "recent_7d": 5,
+      "newest_hours": 16,
+      "topic_ratio": 0.06,
+      "rss_summary_avg": 338,
+      "body_ok": "3/3",
+      "body_lengths": [
+        9877,
+        5382,
+        7861
+      ],
+      "robots": true,
+      "seconds": 0.5
+    },
+    {
+      "name": "Stability AI 뉴스",
+      "url": "https://stability.ai/news?format=rss",
+      "kind": "rss",
+      "lang": "en",
+      "tier": 1,
+      "section": null,
+      "status": 200,
+      "entries": 0,
+      "recent_7d": 0,
+      "newest_hours": null,
+      "topic_ratio": 0.0,
+      "rss_summary_avg": 0,
+      "body_ok": "0/0",
+      "body_lengths": [],
+      "robots": null,
+      "seconds": 1.0
+    },
+    {
+      "name": "The Decoder",
+      "url": "https://the-decoder.com/feed/",
+      "kind": "rss",
+      "lang": "en",
+      "tier": 2,
+      "section": null,
+      "status": 200,
+      "entries": 10,
+      "recent_7d": 10,
+      "newest_hours": 11,
+      "topic_ratio": 0.2,
+      "rss_summary_avg": 533,
+      "body_ok": "3/3",
+      "body_lengths": [
+        7158,
+        6982,
+        3672
+      ],
+      "robots": true,
+      "seconds": 6.5
+    },
+    {
+      "name": "VentureBeat AI",
+      "url": "https://venturebeat.com/category/ai/feed/",
+      "kind": "rss",
+      "lang": "en",
+      "tier": 2,
+      "section": null,
+      "status": null,
+      "error": "HTTPError 429",
+      "seconds": 0.0
+    },
+    {
+      "name": "Ars Technica AI",
+      "url": "https://arstechnica.com/ai/feed/",
+      "kind": "rss",
+      "lang": "en",
+      "tier": 2,
+      "section": null,
+      "status": 200,
+      "entries": 20,
+      "recent_7d": 13,
+      "newest_hours": 12,
+      "topic_ratio": 0.1,
+      "rss_summary_avg": 72,
+      "body_ok": "3/3",
+      "body_lengths": [
+        1808,
+        1711,
+        9438
+      ],
+      "robots": true,
+      "seconds": 5.1
+    },
+    {
+      "name": "블로터",
+      "url": "https://www.bloter.net/rss/allArticle.xml",
+      "kind": "rss",
+      "lang": "ko",
+      "tier": 2,
+      "section": null,
+      "status": 200,
+      "entries": 50,
+      "recent_7d": 50,
+      "newest_hours": -9,
+      "topic_ratio": 0.08,
+      "rss_summary_avg": 300,
+      "body_ok": "3/3",
+      "body_lengths": [
+        807,
+        1814,
+        1929
+      ],
+      "robots": true,
+      "seconds": 0.2
+    },
+    {
+      "name": "디지털투데이",
+      "url": "https://www.digitaltoday.co.kr/rss/allArticle.xml",
+      "kind": "rss",
+      "lang": "ko",
+      "tier": 2,
+      "section": null,
+      "status": 200,
+      "entries": 50,
+      "recent_7d": 50,
+      "newest_hours": -9,
+      "topic_ratio": 0.0,
+      "rss_summary_avg": 300,
+      "body_ok": "3/3",
+      "body_lengths": [
+        849,
+        2889,
+        1690
+      ],
+      "robots": true,
+      "seconds": 0.3
+    },
+    {
+      "name": "Reddit r/aivideo",
+      "url": "https://www.reddit.com/r/aivideo/.rss",
+      "kind": "rss",
+      "lang": "en",
+      "tier": 3,
+      "section": null,
+      "status": 200,
+      "entries": 25,
+      "recent_7d": 23,
+      "newest_hours": 0,
+      "topic_ratio": 0.12,
+      "rss_summary_avg": 6501,
+      "body_ok": "0/3",
+      "body_lengths": [
+        0,
+        0,
+        0
+      ],
+      "robots": false,
+      "seconds": 1.5
+    },
+    {
+      "name": "Hacker News 검색 API",
+      "url": "https://hn.algolia.com/api/v1/search_by_date?query=AI%20video&tags=story&hitsPerPage=50",
+      "kind": "hn",
+      "lang": "en",
+      "tier": 2,
+      "section": null,
+      "status": 200,
+      "entries": 49,
+      "recent_7d": 49,
+      "newest_hours": 13,
+      "topic_ratio": 0.8,
+      "rss_summary_avg": 0,
+      "body_ok": "1/3",
+      "body_lengths": [
+        3918,
+        274,
+        274
+      ],
+      "robots": true,
+      "seconds": 2.6
+    },
+    {
+      "name": "arXiv cs.CV",
+      "url": "https://rss.arxiv.org/rss/cs.CV",
+      "kind": "rss",
+      "lang": "en",
+      "tier": 1,
+      "section": null,
+      "status": 200,
+      "entries": 0,
+      "recent_7d": 0,
+      "newest_hours": null,
+      "topic_ratio": 0.0,
+      "rss_summary_avg": 0,
+      "body_ok": "0/0",
+      "body_lengths": [],
+      "robots": null,
+      "seconds": 0.1
+    },
+    {
+      "name": "YouTube AI video",
+      "url": "https://www.googleapis.com/youtube/v3/search",
+      "kind": "youtube",
+      "lang": "en",
+      "tier": 3,
+      "section": "trend",
+      "status": 200,
+      "entries": 50,
+      "recent_7d": 50,
+      "newest_hours": 15,
+      "topic_ratio": 0.68,
+      "text_avg": 505,
+      "text_ok": "30/50",
+      "ai_mark_ratio": 0.82,
+      "popularity_median": 613674,
+      "popularity_top": 30923683,
+      "top3": [
+        {
+          "title": "Red Bull and Black Bull AI Video #comedy #indianfamily #familycomedy #ytshorts #",
+          "url": "https://www.youtube.com/watch?v=qVzHsRxhVAs",
+          "popularity": 30923683
+        },
+        {
+          "title": "Karvachauth special comedy video 🤣 #funny #shorts #ai #brajeshpandit",
+          "url": "https://www.youtube.com/watch?v=czlcGPrWQ9s",
+          "popularity": 12231824
+        },
+        {
+          "title": "Ai se Video Banna Bhadi pad Gaya 🔥#shorts #news #facts #NirajRtez",
+          "url": "https://www.youtube.com/watch?v=LtiIcPSKWKg",
+          "popularity": 3731966
+        }
+      ],
+      "robots": "API",
+      "seconds": 0.8
+    },
+    {
+      "name": "YouTube AI 영상(한국)",
+      "url": "https://www.googleapis.com/youtube/v3/search",
+      "kind": "youtube",
+      "lang": "ko",
+      "tier": 3,
+      "section": "trend",
+      "status": 200,
+      "entries": 50,
+      "recent_7d": 50,
+      "newest_hours": 9,
+      "topic_ratio": 1.0,
+      "text_avg": 398,
+      "text_ok": "34/50",
+      "ai_mark_ratio": 0.76,
+      "popularity_median": 22582,
+      "popularity_top": 970564,
+      "top3": [
+        {
+          "title": "조종사가 기절하자 AI가 한 소름돋는 선택",
+          "url": "https://www.youtube.com/watch?v=FpBtF2NCJ1M",
+          "popularity": 970564
+        },
+        {
+          "title": "TS말포이 몰입을 10000% 더 해주는 영상",
+          "url": "https://www.youtube.com/watch?v=kxlbn5ydE28",
+          "popularity": 765677
+        },
+        {
+          "title": "우리할머니 무시하면 용서안해 #강아지 #dog #ai강아지 #비숑프리제 #bichonfrise",
+          "url": "https://www.youtube.com/watch?v=ZwASjwFtnAw",
+          "popularity": 619551
+        }
+      ],
+      "robots": "API",
+      "seconds": 0.7
+    },
+    {
+      "name": "Civitai 인기 영상",
+      "url": "https://civitai.com/api/v1/images",
+      "kind": "civitai",
+      "lang": "en",
+      "tier": 3,
+      "section": "trend",
+      "status": 200,
+      "entries": 50,
+      "recent_7d": 50,
+      "newest_hours": 30,
+      "topic_ratio": 0.62,
+      "text_avg": 1032,
+      "text_ok": "39/50",
+      "ai_mark_ratio": 0.08,
+      "popularity_median": 192,
+      "popularity_top": 503,
+      "top3": [
+        {
+          "title": "Takah0x · MiniMax H3",
+          "url": "https://civitai.com/images/146504602",
+          "popularity": 503
+        },
+        {
+          "title": "1aDD · ?",
+          "url": "https://civitai.com/images/146454527",
+          "popularity": 468
+        },
+        {
+          "title": "Beholder_of_Madness · MiniMax H3",
+          "url": "https://civitai.com/images/146449020",
+          "popularity": 332
+        }
+      ],
+      "robots": "API",
+      "seconds": 1.1
+    }
+  ]
+}

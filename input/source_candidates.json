@@ -1,0 +1,22 @@
+[
+  {"name": "Google AI 블로그", "url": "https://blog.google/technology/ai/rss/", "kind": "rss", "lang": "en", "tier": 1, "note": "Veo·Imagen 같은 영상·이미지 모델 공식 발표"},
+  {"name": "Hugging Face 블로그", "url": "https://huggingface.co/blog/feed.xml", "kind": "rss", "lang": "en", "tier": 1, "note": "공개 생성 모델·도구 공식 발표"},
+  {"name": "OpenAI 뉴스", "url": "https://openai.com/news/rss.xml", "kind": "rss", "lang": "en", "tier": 1, "note": "제외 목록의 OpenAI와 같은 매체(주소만 다름). 비교용으로만 측정"},
+  {"name": "NVIDIA 블로그", "url": "https://blogs.nvidia.com/feed/", "kind": "rss", "lang": "en", "tier": 1, "note": "생성형 AI·영상 처리 도구 공식 발표"},
+  {"name": "Stability AI 뉴스", "url": "https://stability.ai/news?format=rss", "kind": "rss", "lang": "en", "tier": 1, "note": "Stable Diffusion·영상 모델 공식 발표. 피드 주소는 추정"},
+  {"name": "The Decoder", "url": "https://the-decoder.com/feed/", "kind": "rss", "lang": "en", "tier": 2, "note": "AI 전문 매체. 영상·이미지 생성 소식 비중이 높음"},
+  {"name": "VentureBeat AI", "url": "https://venturebeat.com/category/ai/feed/", "kind": "rss", "lang": "en", "tier": 2, "note": "AI 산업 매체"},
+  {"name": "Ars Technica AI", "url": "https://arstechnica.com/ai/feed/", "kind": "rss", "lang": "en", "tier": 2, "note": "기술 매체 AI 섹션"},
+  {"name": "블로터", "url": "https://www.bloter.net/rss/allArticle.xml", "kind": "rss", "lang": "ko", "tier": 2, "note": "국내 IT 매체. 피드 주소는 추정"},
+  {"name": "디지털투데이", "url": "https://www.digitaltoday.co.kr/rss/allArticle.xml", "kind": "rss", "lang": "ko", "tier": 2, "note": "국내 IT 매체. 피드 주소는 추정"},
+  {"name": "Reddit r/aivideo", "url": "https://www.reddit.com/r/aivideo/.rss", "kind": "rss", "lang": "en", "tier": 3, "note": "AI 영상 창작자 커뮤니티"},
+  {"name": "Hacker News 검색 API", "url": "https://hn.algolia.com/api/v1/search_by_date?query=AI%20video&tags=story&hitsPerPage=50", "kind": "hn", "lang": "en", "tier": 2, "note": "공식 API. 'AI video' 검색 결과"},
+  {"name": "Higgsfield 블로그", "url": "https://higgsfield.ai/blog/rss.xml", "kind": "rss", "lang": "en", "tier": 1, "note": "AI 영상 도구 Higgsfield 공식 블로그. 프리셋·기능 발표"},
+  {"name": "arXiv cs.CV", "url": "https://rss.arxiv.org/rss/cs.CV", "kind": "rss", "lang": "en", "tier": 1, "note": "컴퓨터 비전 논문. 창작자에게는 어려울 것으로 예상"},
+  {"name": "YouTube AI video", "url": "https://www.googleapis.com/youtube/v3/search", "kind": "youtube", "lang": "en", "tier": 3, "section": "trend",
+   "params": {"q": "AI video", "videoDuration": "short", "order": "viewCount"}, "note": "최근 7일 짧은 영상 조회수순. AI 제작 여부는 불확실"},
+  {"name": "YouTube AI 영상(한국)", "url": "https://www.googleapis.com/youtube/v3/search", "kind": "youtube", "lang": "ko", "tier": 3, "section": "trend",
+   "params": {"q": "AI 영상", "videoDuration": "short", "order": "viewCount", "regionCode": "KR", "relevanceLanguage": "ko"}, "note": "한국어권 결과 우선"},
+  {"name": "Civitai 인기 영상", "url": "https://civitai.com/api/v1/images", "kind": "civitai", "lang": "en", "tier": 3, "section": "trend",
+   "params": {"type": "video", "sort": "Most Reactions", "period": "Week", "nsfw": "None", "withMeta": "true", "limit": 50}, "note": "AI 생성이 확실한 영상의 주간 반응순. 글은 프롬프트뿐"}
+]

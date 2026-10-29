@@ -1,0 +1,19 @@
+[
+  {"q": "AI 영상", "group": "현재"},
+  {"q": "클링 AI", "group": "현재"},
+  {"q": "힉스필드", "group": "현재"},
+  {"q": "소라 AI", "group": "현재"},
+  {"q": "시댄스", "group": "도구", "note": "ByteDance Seedance 한글 표기"},
+  {"q": "seedance", "group": "도구", "note": "영문 표기도 한국 창작자가 많이 씀"},
+  {"q": "제미나이 영상", "group": "도구", "note": "Gemini로 만든 영상"},
+  {"q": "비오3", "group": "도구", "note": "구글 Veo 3 한글 표기"},
+  {"q": "구글 플로우", "group": "도구", "note": "구글 Flow. 수집 결과에 이미 등장"},
+  {"q": "나노바나나", "group": "도구", "note": "Gemini 이미지 모델 별명. 이미지→영상 유행"},
+  {"q": "그록 이매진", "group": "도구", "note": "xAI Grok Imagine"},
+  {"q": "미드저니 영상", "group": "도구", "note": "Midjourney 영상 기능"},
+  {"q": "런웨이 AI", "group": "도구", "note": "Runway"},
+  {"q": "하이루오", "group": "도구", "note": "MiniMax Hailuo"},
+  {"q": "AI 드라마", "group": "장르", "note": "작품 갈래"},
+  {"q": "AI 밈", "group": "장르", "note": "밈 갈래"},
+  {"q": "AI 쇼츠", "group": "장르", "note": "숏폼 전반"}
+]

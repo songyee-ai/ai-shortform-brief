@@ -1,0 +1,399 @@
+{
+  "measured_at": "2026-10-29T07:27:39.472550+00:00",
+  "window_days": 7,
+  "results": [
+    {
+      "q": "AI 영상",
+      "group": "현재",
+      "total": 25,
+      "korean": 22,
+      "median": 77786,
+      "top": 973970,
+      "top3": [
+        {
+          "title": "조종사가 기절하자 AI가 한 소름돋는 선택",
+          "views": 973970,
+          "url": "https://www.youtube.com/watch?v=FpBtF2NCJ1M"
+        },
+        {
+          "title": "우리할머니 무시하면 용서안해 #강아지 #dog #ai강아지 #비숑프리제 #bichonfrise",
+          "views": 620014,
+          "url": "https://www.youtube.com/watch?v=ZwASjwFtnAw"
+        },
+        {
+          "title": "AI로 오염된 쿠팡 구매후기들🚀.jpg",
+          "views": 461080,
+          "url": "https://www.youtube.com/watch?v=407rw4Y3S_I"
+        }
+      ],
+      "new_vs_current": null
+    },
+    {
+      "q": "클링 AI",
+      "group": "현재",
+      "total": 25,
+      "korean": 3,
+      "median": 2191,
+      "top": 2326,
+      "top3": [
+        {
+          "title": "#Multiverse #RealitySwitch #KlingAI #클링AI",
+          "views": 2326,
+          "url": "https://www.youtube.com/watch?v=3LMm_eRyHg0"
+        },
+        {
+          "title": "시댄스보다 저렴해서 핫해진 Kling4.0 #클링4 #시댄스25",
+          "views": 2191,
+          "url": "https://www.youtube.com/watch?v=ucs7MAr2mGw"
+        },
+        {
+          "title": "AI 숏드라마 만들기, 주먹 한 번이 이렇게 어렵다고? | 제작기 EP.1 #shorts",
+          "views": 1187,
+          "url": "https://www.youtube.com/watch?v=p6JIeG2dWww"
+        }
+      ],
+      "new_vs_current": null
+    },
+    {
+      "q": "힉스필드",
+      "group": "현재",
+      "total": 25,
+      "korean": 25,
+      "median": 1333,
+      "top": 5287,
+      "top3": [
+        {
+          "title": "엄마한테 화난 초4 #힉스필드",
+          "views": 5287,
+          "url": "https://www.youtube.com/watch?v=NnWrbAd3zsQ"
+        },
+        {
+          "title": "VFX팀에 맡기면 몇 주 걸릴 작업, 대화창 하나로 하루 만에 끝냈습니다",
+          "views": 4129,
+          "url": "https://www.youtube.com/watch?v=ZwibyGGxgyA"
+        },
+        {
+          "title": "[힉스필드] A2O Lite 패러디 neon 위염 앤 비염 비염 앤 위염 #비염 #위염 #neon #a2o #a2olite #이수만 #short",
+          "views": 3604,
+          "url": "https://www.youtube.com/watch?v=rm98nh2chWE"
+        }
+      ],
+      "new_vs_current": null
+    },
+    {
+      "q": "소라 AI",
+      "group": "현재",
+      "total": 25,
+      "korean": 1,
+      "median": 112948,
+      "top": 112948,
+      "top3": [
+        {
+          "title": "A2O SOUL - SORA 'SUPERSTAR’ [에이투오소울-소라] [THE SHOW] 261020 방송 [FAN PICK CAM 4K]",
+          "views": 112948,
+          "url": "https://www.youtube.com/watch?v=GR0wz-I0Q3A"
+        }
+      ],
+      "new_vs_current": null
+    },
+    {
+      "q": "시댄스",
+      "group": "도구",
+      "note": "ByteDance Seedance 한글 표기",
+      "total": 22,
+      "korean": 22,
+      "median": 174,
+      "top": 1264,
+      "top3": [
+        {
+          "title": "[세종시댄스학원] 걸스힙합 | 올스타즈댄스학원",
+          "views": 1264,
+          "url": "https://www.youtube.com/watch?v=Dv-QaWWraCU"
+        },
+        {
+          "title": "[세종시댄스학원] 왁킹 | 올스타즈댄스학원",
+          "views": 1243,
+          "url": "https://www.youtube.com/watch?v=oBmXqyNRbQk"
+        },
+        {
+          "title": "[세종시댄스학원] 힙합 | 올스타즈댄스학원",
+          "views": 1201,
+          "url": "https://www.youtube.com/watch?v=cHzQ5Le5iqU"
+        }
+      ],
+      "new_vs_current": 22
+    },
+    {
+      "q": "seedance",
+      "group": "도구",
+      "note": "영문 표기도 한국 창작자가 많이 씀",
+      "total": 25,
+      "korean": 1,
+      "median": 130921,
+      "top": 130921,
+      "top3": [
+        {
+          "title": "택배를 훔쳐가면 안되는 이유 #ai #shorts #action #seedance",
+          "views": 130921,
+          "url": "https://www.youtube.com/watch?v=Qy9iaepVWfg"
+        }
+      ],
+      "new_vs_current": 1
+    },
+    {
+      "q": "제미나이 영상",
+      "group": "도구",
+      "note": "Gemini로 만든 영상",
+      "total": 25,
+      "korean": 24,
+      "median": 2035,
+      "top": 90179,
+      "top3": [
+        {
+          "title": "이재명 '내가 수사를 지휘한다'?! 법제처 두고 제미나이에 법률 물었다? 비판 터졌다 #Shorts",
+          "views": 90179,
+          "url": "https://www.youtube.com/watch?v=AGdJOppB6hM"
+        },
+        {
+          "title": "이재명, AI 답변 들고 나온 대통령 꼬라지 #이재명제미나이",
+          "views": 62561,
+          "url": "https://www.youtube.com/watch?v=9Oi4_utIxJo"
+        },
+        {
+          "title": "잼통령의 SNS 제미나이 발언 논란, 한방에 끝내는 영상 #이재명 #제미나이",
+          "views": 10379,
+          "url": "https://www.youtube.com/watch?v=O7l2VsLdRAQ"
+        }
+      ],
+      "new_vs_current": 24
+    },
+    {
+      "q": "비오3",
+      "group": "도구",
+      "note": "구글 Veo 3 한글 표기",
+      "total": 0,
+      "korean": 0,
+      "median": 0,
+      "top": 0,
+      "top3": [],
+      "new_vs_current": 0
+    },
+    {
+      "q": "구글 플로우",
+      "group": "도구",
+      "note": "구글 Flow. 수집 결과에 이미 등장",
+      "total": 25,
+      "korean": 2,
+      "median": 2435,
+      "top": 4843,
+      "top3": [
+        {
+          "title": "#도요타 미니어처언박싱#구글플로우",
+          "views": 4843,
+          "url": "https://www.youtube.com/watch?v=uwdpoK-x1tk"
+        },
+        {
+          "title": "구글 플로우 사용법｜그림 한 장으로 움직이는 AI 영상 만들기",
+          "views": 27,
+          "url": "https://www.youtube.com/watch?v=B5FWfr_Pom0"
+        }
+      ],
+      "new_vs_current": 2
+    },
+    {
+      "q": "나노바나나",
+      "group": "도구",
+      "note": "Gemini 이미지 모델 별명. 이미지→영상 유행",
+      "total": 25,
+      "korean": 10,
+      "median": 651,
+      "top": 3434,
+      "top3": [
+        {
+          "title": "나노바나나 인물이 너무 정직하게 나온다면⚡이렇게 하면 예쁘게 바뀝니다 (구글 플로우·누구나 무료)",
+          "views": 3434,
+          "url": "https://www.youtube.com/watch?v=xiAOO8Bx8yg"
+        },
+        {
+          "title": "AI 그림 얼굴 안 바뀌게 하는 법 #shorts",
+          "views": 1220,
+          "url": "https://www.youtube.com/watch?v=2Ov3fA5CXjs"
+        },
+        {
+          "title": "챗GPT 사진이 굿즈가 된 이유 #2",
+          "views": 997,
+          "url": "https://www.youtube.com/watch?v=9mis0P__Og8"
+        }
+      ],
+      "new_vs_current": 10
+    },
+    {
+      "q": "그록 이매진",
+      "group": "도구",
+      "note": "xAI Grok Imagine",
+      "total": 3,
+      "korean": 3,
+      "median": 1525,
+      "top": 2416,
+      "top3": [
+        {
+          "title": "놀란 영화 비판하더니 AI 영화 내놓은 머스크 근황 #쇼츠 #이슈",
+          "views": 2416,
+          "url": "https://www.youtube.com/watch?v=0GXF4DN7heM"
+        },
+        {
+          "title": "AI로 만든 오디세이 첫 7분, 그록이 공개했다 #Shorts",
+          "views": 1525,
+          "url": "https://www.youtube.com/watch?v=qGNphMrMBTg"
+        },
+        {
+          "title": "이 전사가 AI? 머스크가 공유한 오디세이 7분 직접 보니",
+          "views": 1,
+          "url": "https://www.youtube.com/watch?v=fXJXXJUeiMk"
+        }
+      ],
+      "new_vs_current": 3
+    },
+    {
+      "q": "미드저니 영상",
+      "group": "도구",
+      "note": "Midjourney 영상 기능",
+      "total": 25,
+      "korean": 22,
+      "median": 152,
+      "top": 1421,
+      "top3": [
+        {
+          "title": "해적에게 \"몸값을 더 불러라\" 했던 청년의 정체 #카이사르 #shorts",
+          "views": 1421,
+          "url": "https://www.youtube.com/watch?v=_TIfR50N_6w"
+        },
+        {
+          "title": "클로드로 숏폼 자동화가 궁금해?",
+          "views": 1188,
+          "url": "https://www.youtube.com/watch?v=ehexTQ-qggE"
+        },
+        {
+          "title": "클로드 오푸스 5.5 미쳤다… 영상 AI 없이 조회수 2,012만",
+          "views": 1148,
+          "url": "https://www.youtube.com/watch?v=z6h0Ok6Y1F4"
+        }
+      ],
+      "new_vs_current": 22
+    },
+    {
+      "q": "런웨이 AI",
+      "group": "도구",
+      "note": "Runway",
+      "total": 25,
+      "korean": 6,
+      "median": 1229,
+      "top": 1982,
+      "top3": [
+        {
+          "title": "AI로판 드라마 | 영애들의 의상실 | 미남들의 축복💖",
+          "views": 1982,
+          "url": "https://www.youtube.com/watch?v=s9FX2hVKweI"
+        },
+        {
+          "title": "녹음실에서 쪼갠 수박, 이 소리는 녹음한 게 아닙니다 #AI소리 #미렐로",
+          "views": 1609,
+          "url": "https://www.youtube.com/watch?v=R_zbTFK9YyE"
+        },
+        {
+          "title": "AI 무용수는 어떻게 만들까? | 김민수(KKUM) 감독",
+          "views": 1253,
+          "url": "https://www.youtube.com/watch?v=ja_YkbHHG4w"
+        }
+      ],
+      "new_vs_current": 6
+    },
+    {
+      "q": "하이루오",
+      "group": "도구",
+      "note": "MiniMax Hailuo",
+      "total": 0,
+      "korean": 0,
+      "median": 0,
+      "top": 0,
+      "top3": [],
+      "new_vs_current": 0
+    },
+    {
+      "q": "AI 드라마",
+      "group": "장르",
+      "note": "작품 갈래",
+      "total": 25,
+      "korean": 15,
+      "median": 509158,
+      "top": 1269751,
+      "top3": [
+        {
+          "title": "결혼식 날 시어머니를 무시한 며느리에게 시아버지가 한 말 #Ai가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+          "views": 1269751,
+          "url": "https://www.youtube.com/watch?v=M5pcrRrAHEI"
+        },
+        {
+          "title": "지갑 잃어버린 할머니에게 만 원을 건넨 대학생 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+          "views": 1141108,
+          "url": "https://www.youtube.com/watch?v=b_SkrjlTlIs"
+        },
+        {
+          "title": "\"너 없어도 회사 잘 굴러가\" 권고사직 당한 에이스  #직장드라마 #kdrama #거자필반",
+          "views": 1049812,
+          "url": "https://www.youtube.com/watch?v=xT7HyTFoIVk"
+        }
+      ],
+      "new_vs_current": 15
+    },
+    {
+      "q": "AI 밈",
+      "group": "장르",
+      "note": "밈 갈래",
+      "total": 25,
+      "korean": 2,
+      "median": 138277,
+      "top": 163799,
+      "top3": [
+        {
+          "title": "역대급 고양이 밈 | 영화 바람 서면시장 패싸움 고양이 버전 #영화바람 #고양이 #쇼츠",
+          "views": 163799,
+          "url": "https://www.youtube.com/watch?v=6HuhZJ0c_Iw"
+        },
+        {
+          "title": "[백묵숏츠] 과도한 실험이 낳은 결과 #백수묵시록 #meme #밈 #병맛 #과학 #과학이야기 #실험",
+          "views": 112756,
+          "url": "https://www.youtube.com/watch?v=p7QkiPilVRE"
+        }
+      ],
+      "new_vs_current": 2
+    },
+    {
+      "q": "AI 쇼츠",
+      "group": "장르",
+      "note": "숏폼 전반",
+      "total": 25,
+      "korean": 9,
+      "median": 163799,
+      "top": 1269751,
+      "top3": [
+        {
+          "title": "결혼식 날 시어머니를 무시한 며느리에게 시아버지가 한 말 #Ai가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+          "views": 1269751,
+          "url": "https://www.youtube.com/watch?v=M5pcrRrAHEI"
+        },
+        {
+          "title": "세상에서 가장 똑똑한 AI는 무엇일까",
+          "views": 641473,
+          "url": "https://www.youtube.com/watch?v=l39G_8zGwfY"
+        },
+        {
+          "title": "AI로 오염된 쿠팡 구매후기들🚀.jpg",
+          "views": 461080,
+          "url": "https://www.youtube.com/watch?v=407rw4Y3S_I"
+        }
+      ],
+      "new_vs_current": 8
+    }
+  ]
+}
