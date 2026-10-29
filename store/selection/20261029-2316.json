@@ -1,0 +1,162 @@
+{
+  "tools": {
+    "batches": [
+      {
+        "batch": 1,
+        "size": 12,
+        "passed": [
+          "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+          "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+          "Granite Switch 4.1.1 — Update models like you update software",
+          "7 Best AI Video Tools for Beginners in 2026"
+        ],
+        "dropped": [
+          "Our newest AI Quest: Mapping the human brain",
+          "US antitrust regulators are scrutinizing Nvidia's Hugging Face deal and sales practices",
+          "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+          "Content creator gets their Facebook hacked. Now Meta's AI is stuck in a loop [video]",
+          "Higgsfield AI vs OpenArt 2026: Features and Pricing Compared",
+          "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
+          "Google AI gets cagey when asked who won the 2020 elections",
+          "Shigeru Miyamoto explains why AI won't make human creativity obsolete"
+        ]
+      },
+      {
+        "batch": 2,
+        "size": 12,
+        "passed": [
+          "How to Generate AI Videos in Claude With the Higgsfield MCP Connector (2026)",
+          "Oracle unveils its first in-house Image/Video Models",
+          "Build specialized multimodal models with LFM3",
+          "Show HN: The New Way to Make AI UGC Ads in 2026"
+        ],
+        "dropped": [
+          "Higgsfield AI vs Magnific 2026: Features and Pricing Compared",
+          "OpenAI's Astra becomes the main target for Chinese AI labs after Anthropic tightens its defenses",
+          "Google's AI search problem finally shows up in the earnings report, some investors believe",
+          "Can we trust LLMs to judge whether a research idea is novel?",
+          "5 Best Platforms to Access Kling 4.0 in 2026",
+          "Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board",
+          "Show HN: Sectr – Serverless backend platform for easy deployment of AI agents",
+          "David Bianchi: Directing for a Top 10 Global DJ on Higgsfield"
+        ]
+      },
+      {
+        "batch": 3,
+        "size": 12,
+        "passed": [
+          "Nvidia's open Nemotron 3.5 Transcribe combines transcription, translation, and speaker recognition",
+          "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
+          "Claude for Legal now verifies sources automatically, then hands the file to a lawyer",
+          "OpenAI teases Dots for Europe, but its Berlin DevDay was really about building a platform"
+        ],
+        "dropped": [
+          "Show HN: Fabivo – Furniture design from a photo to a numbered cut list",
+          "Higgsfield Cinema Studio 4.0: Complete Guide",
+          "Show HN: Interview your analysts instead of auto-generating a semantic layer",
+          "6 Best AI Video Tools for Realistic Human Motion in 2026 (Tested and Compared)",
+          "MAI Image 2.7 debuts above GPT Image 2.5 Flare on Artificial Analysis",
+          "Show HN: Formstep, Request information from customers without the back-and-forth",
+          "New Artificial Analysis index widens the gap between open and closed models",
+          "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT"
+        ]
+      },
+      {
+        "batch": 4,
+        "size": 1,
+        "passed": [
+          "Image generation has come a long way since August 2022"
+        ],
+        "dropped": []
+      }
+    ],
+    "survivors": 13,
+    "final_skipped": [
+      {
+        "title": "Nvidia's open Nemotron 3.5 Transcribe combines transcription, translation, and speaker recognition",
+        "why": "같은 사건(NVIDIA Nemotron 3.5 Transcribe 출시)"
+      },
+      {
+        "title": "Build specialized multimodal models with LFM3",
+        "why": "Hugging Face 하루 상한"
+      },
+      {
+        "title": "Granite Switch 4.1.1 — Update models like you update software",
+        "why": "Hugging Face 하루 상한"
+      },
+      {
+        "title": "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "How to Generate AI Videos in Claude With the Higgsfield MCP Connector (2026)",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "7 Best AI Video Tools for Beginners in 2026",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Oracle unveils its first in-house Image/Video Models",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Claude for Legal now verifies sources automatically, then hands the file to a lawyer",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "OpenAI teases Dots for Europe, but its Berlin DevDay was really about building a platform",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Image generation has come a long way since August 2022",
+        "why": "본선 탈락"
+      }
+    ],
+    "chosen": [
+      {
+        "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+        "event": "NVIDIA Nemotron 3.5 Transcribe 출시",
+        "reason": "NVIDIA Nemotron 3.5 Transcribe는 다국어 음성 인식, 번역, 화자 인식 기능을 텍스트 프롬프트로 조정할 수 있어 AI 숏폼 영상 제작에 바로 활용 가능하다."
+      },
+      {
+        "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+        "event": "AnySpeechRecognizer 및 AnyDecisionModel 출시",
+        "reason": "AnySpeechRecognizer와 AnyDecisionModel은 애플 플랫폼에서 사용할 수 있는 오픈 음성 및 의사결정 모델로, 저렴하게 AI 영상 제작에 활용할 수 있다."
+      },
+      {
+        "title": "Show HN: The New Way to Make AI UGC Ads in 2026",
+        "event": "AI UGC 광고 제작 신기술 공개",
+        "reason": "새로운 AI UGC 광고 제작 방식은 숏폼 영상 제작자들이 AI를 활용해 광고 콘텐츠를 쉽게 만들 수 있는 방법을 제시한다."
+      }
+    ]
+  },
+  "trend": {
+    "prelim": 0,
+    "labels": []
+  },
+  "checks": [
+    {
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "source": "Hugging Face",
+      "first_ok": false,
+      "first_problems": [
+        "요약에 '무료'라는 표현이 있으나 근거에는 '무료'라는 단어가 없고, 공개 여부만 언급되어 있음. 따라서 '무료'라는 사실 주장은 근거에 없음."
+      ],
+      "rewritten": true,
+      "final_ok": true,
+      "final_problems": []
+    },
+    {
+      "title": "Show HN: The New Way to Make AI UGC Ads in 2026",
+      "source": "Hacker News",
+      "first_ok": false,
+      "first_problems": [
+        "요약에 '무료 체험'이라는 표현이 있으나 근거에는 무료 체험에 대한 언급이 없습니다."
+      ],
+      "rewritten": true,
+      "final_ok": true,
+      "final_problems": []
+    }
+  ]
+}
