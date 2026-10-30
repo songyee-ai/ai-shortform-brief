@@ -1,0 +1,152 @@
+{
+  "tools": {
+    "batches": [
+      {
+        "batch": 1,
+        "size": 12,
+        "passed": [
+          "OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up",
+          "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+          "Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",
+          "How to Make AI Videos as a Beginner: A Complete Guide for 2026"
+        ],
+        "dropped": [
+          "Granite Switch 4.1.1 — Update models like you update software",
+          "7 Best AI Video Tools for Beginners in 2026",
+          "Trump declares robot imports a national security threat",
+          "The AI bubble is about to pop [video]",
+          "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+          "7 Best Kling AI Alternatives in 2026",
+          "Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds",
+          "Google admits AI search makes less money, but it's fixing that with more ads"
+        ]
+      },
+      {
+        "batch": 2,
+        "size": 12,
+        "passed": [
+          "Build specialized multimodal models with LFM3",
+          "Oracle unveils its first in-house Image/Video Models",
+          "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+          "Content creator gets their Facebook hacked. Now Meta's AI is stuck in a loop [video]"
+        ],
+        "dropped": [
+          "Paris-based Mistral releases \"Le Chonk,\" a strong coding model that still trails China overall",
+          "Higgsfield for Blender: Features, Installation, and MCP Bridge Setup",
+          "US antitrust regulators are scrutinizing Nvidia's Hugging Face deal and sales practices",
+          "Shigeru Miyamoto explains why AI won't make human creativity obsolete",
+          "Higgsfield AI vs OpenArt 2026: Features and Pricing Compared",
+          "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
+          "Can we trust LLMs to judge whether a research idea is novel?",
+          "Higgsfield AI vs Magnific 2026: Features and Pricing Compared"
+        ]
+      },
+      {
+        "batch": 3,
+        "size": 11,
+        "passed": [
+          "How to Generate AI Videos in Claude With the Higgsfield MCP Connector (2026)",
+          "Higgsfield Cinema Studio 4.0: Complete Guide",
+          "Show HN: Sectr – Serverless backend platform for easy deployment of AI agents",
+          "MAI Image 2.7 debuts above GPT Image 2.5 Flare on Artificial Analysis"
+        ],
+        "dropped": [
+          "OpenAI's Astra becomes the main target for Chinese AI labs after Anthropic tightens its defenses",
+          "Google's AI search problem finally shows up in the earnings report, some investors believe",
+          "Show HN: Fabivo – Furniture design from a photo to a numbered cut list",
+          "5 Best Platforms to Access Kling 4.0 in 2026",
+          "Show HN: Interview your analysts instead of auto-generating a semantic layer",
+          "David Bianchi: Directing for a Top 10 Global DJ on Higgsfield",
+          "Show HN: Formstep, Request information from customers without the back-and-forth"
+        ]
+      }
+    ],
+    "survivors": 12,
+    "final_skipped": [
+      {
+        "title": "Build specialized multimodal models with LFM3",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "How to Make AI Videos as a Beginner: A Complete Guide for 2026",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "How to Generate AI Videos in Claude With the Higgsfield MCP Connector (2026)",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "Content creator gets their Facebook hacked. Now Meta's AI is stuck in a loop [video]",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "Oracle unveils its first in-house Image/Video Models",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Higgsfield Cinema Studio 4.0: Complete Guide",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Show HN: Sectr – Serverless backend platform for easy deployment of AI agents",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "MAI Image 2.7 debuts above GPT Image 2.5 Flare on Artificial Analysis",
+        "why": "본선 탈락"
+      }
+    ],
+    "chosen": [
+      {
+        "title": "OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up",
+        "event": "OpenAI Pro 요금제 사용 한도 확대",
+        "reason": "OpenAI가 Pro 요금제의 사용 한도를 두 배로 늘려, 더 많은 AI 영상 생성 및 편집 작업을 저렴하게 할 수 있게 되었기 때문에 한국 개인 창작자에게 매우 중요한 소식입니다."
+      },
+      {
+        "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+        "event": "Hugging Face Mistral Large 4 출시",
+        "reason": "Hugging Face에 Mistral Large 4 모델이 추가되어, 고성능 AI 영상 및 이미지 생성에 활용할 수 있는 새로운 무료 또는 저렴한 모델이 등장했기 때문에 중요합니다."
+      },
+      {
+        "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+        "event": "Hugging Face AnySpeechRecognizer 및 AnyDecisionModel 공개",
+        "reason": "Hugging Face에서 Apple 플랫폼용 오픈 음성 인식 및 의사결정 모델을 공개해, AI 영상에 자막 생성이나 음성 인식 기능을 쉽게 추가할 수 있어 실용적입니다."
+      }
+    ]
+  },
+  "trend": {
+    "prelim": 0,
+    "labels": []
+  },
+  "checks": [
+    {
+      "title": "OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up",
+      "source": "The Decoder",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "source": "Hugging Face",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "source": "Hugging Face",
+      "first_ok": false,
+      "first_problems": [
+        "요약의 '무료로 제공되는 Parakeet 또는 Qwen3-ASR 모델'이라는 표현은 근거에 명확히 언급되어 있지 않습니다. 근거에는 모델들이 Core ML로 변환되어 허브에 게시되어 있다고만 되어 있으며, 무료 제공 여부에 대한 직접적인 언급이 없습니다."
+      ],
+      "rewritten": true,
+      "final_ok": false,
+      "final_problems": [
+        "다시 쓴 요약이 한국어가 아님"
+      ]
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-🗞️ <b>AI 숏폼 아침 브리핑 · 10월 29일</b>
+🗞️ <b>AI 숏폼 아침 브리핑 · 10월 30일</b>
 
 <b>① 요즘 뜨는 AI 숏폼</b>
 
@@ -6,14 +6,14 @@
 
 <b>② 제작 도구 소식</b>
 
-<b>NVIDIA Nemotron 3.5 Transcribe, 다국어 음성 인식과 화자 구분, 번역, 오디오 질문응답을 하나로 통합한 오픈 모델 출시</b>
-NVIDIA Nemotron 3.5 Transcribe는 40개 언어를 인식하고 31개 언어를 영어와 상호 번역하며, 13개 언어에서 화자 구분을 지원하는 오픈 가중치 모델이다. Hugging Face와 ModelScope에서 공개되었으며, 최대 1시간 길이의 녹음과 최대 8명의 화자를 처리할 수 있다. Granary v2 데이터 파이프라인과 NeMo Speech 미세 조정 도구를 통해 도메인별 어휘와 억양에 맞게 모델을 적응시킬 수 있다. 이 모델은 여러 공개 벤치마크에서 최고 성능을 기록했다.
-👉 오늘 바로 Nemotron 3.5 Transcribe 모델을 Hugging Face에서 확인하고, 자연어 프롬프트로 원하는 형태의 자막이나 번역을 생성해 보세요.
-<a href="https://huggingface.co/blog/nvidia/nemotron-transcribe-granary">Hugging Face</a>
+<b>OpenAI, Pro 요금제 사용 한도 두 배로 확대</b>
+OpenAI가 Pro 100과 Pro 500 요금제의 Work 및 Codex 사용 한도를 두 배로 늘렸으며, Pro 200 요금제는 하한 한도를 두 배로 늘리고 예정된 감축을 철회했다. Plus 요금제는 변경이 없으며, 신규 구독자는 이미 확대된 한도를 적용받고 기존 고객도 자동으로 업데이트된다. 사용량은 모델과 작업 유형에 따라 다르며, OpenAI는 효율성 향상과 더 나은 모델 출시를 통해 사용 가능 용량을 계속 늘릴 계획이다.
+👉 오늘 바로 OpenAI Pro 요금제의 사용 한도 확대 내용을 확인하고, 자신의 작업에 맞는 요금제 업그레이드를 고려해 보세요.
+<a href="https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/">The Decoder</a>
 
-<b>AI 영상 제작 도구로 촬영 없이 제품 홍보 영상 빠르게 제작 가능</b>
-이 도구는 제품 링크, 사진, 또는 간단한 설명만으로 AI 배우와 음성을 선택해 자연스러운 광고 영상을 몇 분 만에 만들 수 있다. 영상은 브라우저에서 바로 제작하고 다운로드할 수 있으며, 다양한 영상 길이와 형식을 지원한다. 제작 전 예상 크레딧 비용을 확인할 수 있고, 실패 시 크레딧이 반환된다.
-👉 제품 사진이나 링크를 활용해 AI 배우와 음성을 선택해 짧은 광고 영상을 직접 만들어 보세요.
-<a href="https://www.aivideosugc.com/ai-video-generation">Hacker News</a>
+<b>Mistral Large 4 (Le Chonk) 공개, 텍스트·이미지 입력 가능한 멀티모달 AI 모델</b>
+Mistral Large 4는 약 1조 파라미터 규모의 멀티모달, 다국어 Mixture-of-Experts 모델로 텍스트와 이미지를 입력받아 텍스트를 생성한다. 사이버보안, 코딩, 멀티모달 이해 등에서 뛰어난 성능을 보이며, 오픈 웨이트 라이선스로 배포되어 자유로운 활용이 가능하다.
+👉 Mistral Large 4의 오픈 웨이트 모델을 활용해 사이버보안 관련 코드 취약점 탐지 및 패치 작업을 직접 시도해 보세요.
+<a href="https://huggingface.co/blog/mistral-large4">Hugging Face</a>
 
 <i>모든 요약은 원문과 AI 대조 검수를 통과했습니다.</i>
