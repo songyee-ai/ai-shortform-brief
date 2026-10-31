@@ -1,19 +1,22 @@
-🗞️ <b>AI 숏폼 아침 브리핑 · 10월 30일</b>
+🗞️ <b>AI 숏폼 아침 브리핑 · 10월 31일</b>
 
 <b>① 요즘 뜨는 AI 숏폼</b>
 
-오늘은 영상을 가져오지 못했습니다(수집 실패).
+<b>지갑을 잃어버린 할머니에게 만 원을 건넨 대학생 이야기</b> [작품]
+한 대학생이 지갑을 잃어버린 할머니에게 만 원을 건네며 벌어지는 시니어 드라마로, 인생 교훈과 세대 간 공감을 담고 있다.
+👉 오늘 주변 어르신에게 작은 도움을 베풀어 보는 행동을 해 보세요.
+<a href="https://www.youtube.com/watch?v=b_SkrjlTlIs">훈작가의 숏드라마 · 조회 1,332,740</a>
+
+<b>대화창 하나로 VFX 작업을 하루 만에 완료한 사례</b> [정보 전달]
+힉스필드 AI 도구를 사용해 기존에 몇 주가 걸리던 VFX 작업을 대화창 하나로 하루 만에 끝냈다는 내용이다. 작업 번호 608번, 크레딧 2,532, 거친 모델 11종을 활용했다.
+👉 힉스필드 AI 도구를 사용해 간단한 대화 입력만으로 복잡한 VFX 작업을 빠르게 처리해 보세요.
+<a href="https://www.youtube.com/watch?v=ZwibyGGxgyA">신동댕동 Shindongdengdong · 조회 4,378</a>
 
 <b>② 제작 도구 소식</b>
 
-<b>OpenAI, Pro 요금제 사용 한도 두 배로 확대</b>
-OpenAI가 Pro 100과 Pro 500 요금제의 Work 및 Codex 사용 한도를 두 배로 늘렸으며, Pro 200 요금제는 하한 한도를 두 배로 늘리고 예정된 감축을 철회했다. Plus 요금제는 변경이 없으며, 신규 구독자는 이미 확대된 한도를 적용받고 기존 고객도 자동으로 업데이트된다. 사용량은 모델과 작업 유형에 따라 다르며, OpenAI는 효율성 향상과 더 나은 모델 출시를 통해 사용 가능 용량을 계속 늘릴 계획이다.
-👉 오늘 바로 OpenAI Pro 요금제의 사용 한도 확대 내용을 확인하고, 자신의 작업에 맞는 요금제 업그레이드를 고려해 보세요.
-<a href="https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/">The Decoder</a>
+<b>Overtone: 한 파일로 다양한 화면 비율에 맞춘 AI 자막 편집 도구</b>
+Overtone은 하나의 .overtone.json 파일에 16:9, 9:16 등 여러 화면 비율에 맞춘 자막 컷을 저장한다. CLI를 통해 기존 자막이나 영상에서 자막을 재편집하거나 생성할 수 있으며, video.js 플러그인으로 적합한 자막을 보여준다. 자막은 단어 단위로 저장되고, 각 화면 비율에 맞게 줄 바꿈과 말하는 사람 구분, 자연스러운 끊김을 적용한다.
+👉 기존 SRT 자막 파일을 Overtone CLI로 재편집해 다양한 화면 비율에 맞는 자막을 만들어 보세요.
+<a href="https://github.com/lonthq/overtone-captions">Hacker News</a>
 
-<b>Mistral Large 4 (Le Chonk) 공개, 텍스트·이미지 입력 가능한 멀티모달 AI 모델</b>
-Mistral Large 4는 약 1조 파라미터 규모의 멀티모달, 다국어 Mixture-of-Experts 모델로 텍스트와 이미지를 입력받아 텍스트를 생성한다. 사이버보안, 코딩, 멀티모달 이해 등에서 뛰어난 성능을 보이며, 오픈 웨이트 라이선스로 배포되어 자유로운 활용이 가능하다.
-👉 Mistral Large 4의 오픈 웨이트 모델을 활용해 사이버보안 관련 코드 취약점 탐지 및 패치 작업을 직접 시도해 보세요.
-<a href="https://huggingface.co/blog/mistral-large4">Hugging Face</a>
-
-<i>모든 요약은 원문과 AI 대조 검수를 통과했습니다.</i>
+<i>영상은 제목·설명만 보고 요약했습니다. 모든 요약은 원문과 AI 대조 검수를 통과했습니다.</i>
