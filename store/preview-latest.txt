@@ -1,22 +1,32 @@
-🗞️ <b>AI 숏폼 아침 브리핑 · 10월 31일</b>
+🗞️ <b>AI 숏폼 아침 브리핑 · 11월 1일</b>
 
 <b>① 요즘 뜨는 AI 숏폼</b>
 
-<b>지갑을 잃어버린 할머니에게 만 원을 건넨 대학생 이야기</b> [작품]
-한 대학생이 지갑을 잃어버린 할머니에게 만 원을 건네며 벌어지는 시니어 드라마로, 인생 교훈과 세대 간 공감을 담고 있다.
-👉 오늘 주변 어르신에게 작은 도움을 베풀어 보는 행동을 해 보세요.
-<a href="https://www.youtube.com/watch?v=b_SkrjlTlIs">훈작가의 숏드라마 · 조회 1,332,740</a>
+<b>면접 직전 찌개를 쏟은 지연에게 식당 아주머니가 낡은 정장을 건넨 이야기</b> [밈]
+면접을 앞둔 지연이 식당에서 찌개를 쏟자, 식당 아주머니가 낡은 정장을 건넵니다. 그 옷을 입고 면접장에 들어간 지연이 어떤 말을 하게 되는지 보여주는 따뜻한 가상의 이야기입니다.
+👉 오늘 짧은 드라마 형식으로 따뜻한 메시지를 담은 영상을 만들어 보세요.
+<a href="https://www.youtube.com/watch?v=jr0H0KTqy_U">인생역전사연집 · 조회 749,859</a>
 
-<b>대화창 하나로 VFX 작업을 하루 만에 완료한 사례</b> [정보 전달]
-힉스필드 AI 도구를 사용해 기존에 몇 주가 걸리던 VFX 작업을 대화창 하나로 하루 만에 끝냈다는 내용이다. 작업 번호 608번, 크레딧 2,532, 거친 모델 11종을 활용했다.
-👉 힉스필드 AI 도구를 사용해 간단한 대화 입력만으로 복잡한 VFX 작업을 빠르게 처리해 보세요.
-<a href="https://www.youtube.com/watch?v=ZwibyGGxgyA">신동댕동 Shindongdengdong · 조회 4,378</a>
+<b>클로드 AI에 힉스필드 MCP를 30초 만에 연결해 영상·이미지 모델을 직접 선택하고 결과 파일을 받을 수 있습니다</b> [정보 전달]
+클로드 AI 설정에서 커넥터를 통해 힉스필드 MCP URL을 추가하면 클로드가 영상과 이미지 모델을 직접 골라 실행하고 결과 파일까지 가져오는 기능이 활성화됩니다. 연결 과정은 30초 내외로 간단합니다.
+👉 클로드 AI 설정에서 힉스필드 MCP 커넥터를 직접 추가해 기능을 바로 사용해 보세요.
+<a href="https://www.youtube.com/watch?v=ZVkUZZmsDj4">신동댕동 Shindongdengdong · 조회 1,472</a>
 
 <b>② 제작 도구 소식</b>
 
-<b>Overtone: 한 파일로 다양한 화면 비율에 맞춘 AI 자막 편집 도구</b>
-Overtone은 하나의 .overtone.json 파일에 16:9, 9:16 등 여러 화면 비율에 맞춘 자막 컷을 저장한다. CLI를 통해 기존 자막이나 영상에서 자막을 재편집하거나 생성할 수 있으며, video.js 플러그인으로 적합한 자막을 보여준다. 자막은 단어 단위로 저장되고, 각 화면 비율에 맞게 줄 바꿈과 말하는 사람 구분, 자연스러운 끊김을 적용한다.
-👉 기존 SRT 자막 파일을 Overtone CLI로 재편집해 다양한 화면 비율에 맞는 자막을 만들어 보세요.
-<a href="https://github.com/lonthq/overtone-captions">Hacker News</a>
+<b>Higgsfield, 7일간 무제한 이미지·영상 생성 보너스 출시</b>
+Higgsfield가 Pro, Plus, Max, Ultra 구독자 대상으로 7일간 Seedream 5.0 Pro, GPT Image 2.5, Nano Banana Pro, Seedance 2.5 모델을 무제한 생성할 수 있는 보너스를 제공한다. 월별·연간 플랜에 따라 지원 모델과 영상 해상도, 길이가 다르며, 무제한 생성 시 동시 실행 제한이 있다.
+👉 Higgsfield 계정에서 무제한 토글을 켜고 지원되는 모델과 해상도로 7일간 이미지 또는 20초 영상 생성을 시도해 보세요.
+<a href="https://higgsfield.ai/blog/higgsfield-7-day-unlimited-bonus">Higgsfield</a>
+
+<b>Granite Switch 4.1.1 업데이트, 소프트웨어처럼 모델을 빠르게 개선</b>
+Granite Switch 4.1.1은 기존 4.1 버전과 완전 호환되는 패치 릴리스로, 새로운 다국어 음성인식 모델과 향상된 의사결정 어댑터를 포함한다. 이 업데이트는 기본 모델을 변경하지 않고 어댑터만 교체해 빠르고 효율적으로 배포할 수 있다.
+👉 새로운 다국어 음성인식 모델과 의사결정 어댑터를 직접 테스트해 보세요.
+<a href="https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1">Hugging Face</a>
+
+<b>Anthropic, 워터마크를 네 개의 클로드 모델에 확대 적용하지만 두 구형 모델에서는 샘플링 매개변수 조정으로 회피 가능</b>
+Anthropic은 Claude Mythos 5, Claude Opus 4.7, Claude Opus 4.6, Claude Sonnet 4.6 모델에 텍스트 워터마크를 적용한다. 다만 Claude Opus 4.6과 Claude Sonnet 4.6에서는 기본 샘플링 설정을 변경하면 워터마크가 적용되지 않는다. 워터마크는 단어 선택에 미세한 패턴을 넣어 의미나 품질에 영향을 주지 않는다고 회사는 설명한다.
+👉 기본 샘플링 매개변수(temperature, top_p, top_k)를 조정해 워터마크 적용 여부를 확인해 보세요.
+<a href="https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/">The Decoder</a>
 
 <i>영상은 제목·설명만 보고 요약했습니다. 모든 요약은 원문과 AI 대조 검수를 통과했습니다.</i>

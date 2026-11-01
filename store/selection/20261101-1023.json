@@ -1,0 +1,514 @@
+{
+  "tools": {
+    "batches": [
+      {
+        "batch": 1,
+        "size": 12,
+        "passed": [
+          "Granite Switch 4.1.1 — Update models like you update software",
+          "How to Make an Anime Series with AI on Higgsfield",
+          "How to Make Product Videos with AI in 2026 (Full Guide)",
+          "Anthropic's watermark rollout leaves a loophole on two older Claude models"
+        ],
+        "dropped": [
+          "nemotron-halloween",
+          "8 Best AI Image Upscalers in 2026 (Free and Paid)",
+          "Anthropic orders AI tool Claude to stop remaking video games",
+          "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits",
+          "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+          "7 Best AI UGC Video Tools for Marketing Agencies in 2026",
+          "Beekeeping tips and wrestling advice can train AI models to sabotage oversight",
+          "Neal Stephenson on AI and What Comes Next [video]"
+        ]
+      },
+      {
+        "batch": 2,
+        "size": 12,
+        "passed": [
+          "7 Best AI Video Tools for Beginners in 2026",
+          "Higgsfield’s New 7-Day Unlimited Bonus: Models, Plans, and Limits",
+          "How Much Does It Cost to Make an AI Video in 2026? Real Cost per Finished Video",
+          "Google Deepmind creates a global map of forests with satellite data and AI"
+        ],
+        "dropped": [
+          "Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams",
+          "Fiber lasts decades, GPUs last three years: the AI boom isn't the dot-com boom [video]",
+          "AI killed my software career [video]",
+          "9 Best AI Filmmaking Tools for Short Films in 2026",
+          "OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite",
+          "The AI bubble is about to pop [video]",
+          "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
+          "Content creator gets their Facebook hacked. Now Meta's AI is stuck in a loop [video]"
+        ]
+      },
+      {
+        "batch": 3,
+        "size": 1,
+        "passed": [
+          "Show HN: Fabivo – Furniture design from a photo to a numbered cut list"
+        ],
+        "dropped": []
+      }
+    ],
+    "survivors": 9,
+    "final_skipped": [
+      {
+        "title": "How Much Does It Cost to Make an AI Video in 2026? Real Cost per Finished Video",
+        "why": "Higgsfield 하루 상한"
+      },
+      {
+        "title": "How to Make an Anime Series with AI on Higgsfield",
+        "why": "Higgsfield 하루 상한"
+      },
+      {
+        "title": "How to Make Product Videos with AI in 2026 (Full Guide)",
+        "why": "Higgsfield 하루 상한"
+      },
+      {
+        "title": "7 Best AI Video Tools for Beginners in 2026",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "Show HN: Fabivo – Furniture design from a photo to a numbered cut list",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "Google Deepmind creates a global map of forests with satellite data and AI",
+        "why": "본선 탈락"
+      }
+    ],
+    "chosen": [
+      {
+        "title": "Higgsfield’s New 7-Day Unlimited Bonus: Models, Plans, and Limits",
+        "event": "Higgsfield 7-Day Unlimited Bonus",
+        "reason": "Higgsfield의 7일 무제한 보너스 제공 소식은 AI 영상 제작을 저렴하게 혹은 무료로 시도해보고 싶은 창작자에게 즉시 활용 가능한 중요한 정보입니다."
+      },
+      {
+        "title": "Granite Switch 4.1.1 — Update models like you update software",
+        "event": "Granite Switch 4.1.1 Update",
+        "reason": "Hugging Face의 Granite Switch 4.1.1 업데이트는 AI 모델을 소프트웨어처럼 쉽게 업데이트할 수 있게 해, 창작자가 최신 모델을 빠르게 활용할 수 있습니다."
+      },
+      {
+        "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
+        "event": "Anthropic Watermark Policy",
+        "reason": "Anthropic의 워터마크 정책 변화는 AI 생성 콘텐츠 표시 의무와 관련된 중요한 플랫폼 정책 변화로, 수익화와 저작권에 영향을 줄 수 있습니다."
+      }
+    ]
+  },
+  "trend": {
+    "prelim": 30,
+    "unlabeled": 0,
+    "meme_rule_fixed": 0,
+    "info_rule_fixed": 1,
+    "chosen": [
+      {
+        "title": "찌개를 쏟은 식당 아주머니가 건넨 정장, 면접장에서 벌어진 일 #숏드라마 #shortvideo",
+        "channel": "인생역전사연집",
+        "views": 749859,
+        "genre": "밈",
+        "reason": "설명에 '#AI동물' 태그가 있고, 고양이들이 춤추는 영상으로 AI가 만든 영상일 가능성이 높습니다."
+      },
+      {
+        "title": "말만 하던 클로드에게 손이 생겼습니다, 힉스필드 MCP 연결은 30초",
+        "channel": "신동댕동 Shindongdengdong",
+        "views": 1472,
+        "genre": "정보 전달",
+        "reason": "설명에 힉스필드 MCP 연결 방법과 AI 영상·이미지 모델 언급이 있어 AI 관련 영상임을 알 수 있습니다."
+      }
+    ],
+    "labels": [
+      {
+        "title": "🎤씹덕 노래 실수로 틀었을 때🎶 (세노 데모 손난쟈 다메) animation #meme #memes #shorts",
+        "channel": "【안드로메다 틈새먼지】 안틈먼",
+        "views": 1238123,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 설명에 'animation'과 '#AI드라마' 등의 태그가 없으며 AI 관련 언급이 없습니다.",
+        "kept": false
+      },
+      {
+        "title": "평생 김밥을 공짜로 나눠주던 할머니, 10년 뒤 돌아온 은혜 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "훈작가의 숏드라마",
+        "views": 1209535,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '이 영상은 AI로 제작된 가상의 이야기이며'라는 문구가 있어 AI로 제작된 영상임을 명확히 밝히고 있습니다.",
+        "kept": false
+      },
+      {
+        "title": "아들 결혼식에 나타나 난동 부리는 줄 알았던 전처의 반전 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "훈작가의 숏드라마",
+        "views": 913834,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '이 영상은 AI로 제작된 가상의 이야기이며'라는 문구가 있어 AI로 제작된 영상임을 명확히 밝히고 있습니다.",
+        "kept": false
+      },
+      {
+        "title": "찌개를 쏟은 식당 아주머니가 건넨 정장, 면접장에서 벌어진 일 #숏드라마 #shortvideo",
+        "channel": "인생역전사연집",
+        "views": 749859,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '#AI동물' 태그가 있고, 고양이들이 춤추는 영상으로 AI가 만든 영상일 가능성이 높습니다.",
+        "kept": true
+      },
+      {
+        "title": "쟤들도 하는데? 우리도 한다!! 😼🔥 #고양이쇼츠 #웃긴고양이 #AI동물 #shorts",
+        "channel": "오늘도 다온하온 | Daon & Haon, Today Too ",
+        "views": 675709,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 드라마 내용이 상세히 적혀 있으나 AI 제작 여부에 대한 언급이 없습니다.",
+        "kept": false
+      },
+      {
+        "title": "상견례 자리에서 사돈 무시했다가 제대로 참교육당한 시어머니 #사이다 #드라마",
+        "channel": "한컷극장",
+        "views": 638727,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI 관련 언급이 없으며 단순 구매후기 영상으로 보입니다.",
+        "kept": false
+      },
+      {
+        "title": "AI로 오염된 쿠팡 구매후기들🚀.jpg",
+        "channel": "똘킹",
+        "views": 506620,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 'AI로 제작한 가상의 이야기'라는 문구가 있어 AI로 제작된 영상임을 명확히 밝히고 있습니다.",
+        "kept": false
+      },
+      {
+        "title": "칼국수 한 그릇 먹던 할머니가 남긴 것 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "훈작가의 숏드라마",
+        "views": 455346,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "뉴스 영상이며 AI 제작 여부에 대한 언급이 없습니다.",
+        "kept": false
+      },
+      {
+        "title": "\"5.18은 거절했어야! 불매\".. 또 배우 향한 '선넘는 공격' #Shorts (MBC뉴스)",
+        "channel": "MBCNEWS",
+        "views": 408886,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI로 모든 화면을 제작한 영화라고 명시되어 있어 AI로 제작된 영상임을 알 수 있습니다.",
+        "kept": false
+      },
+      {
+        "title": "배우도 카메라도 없이 100분짜리 영화 '딸깍' 완성…숏폼 넘어 스크린까지 진출하는 AI｜지금 이 뉴스",
+        "channel": "JTBC News",
+        "views": 361613,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI 관련 언급이 없으며 단순 유머 영상으로 보입니다.",
+        "kept": false
+      },
+      {
+        "title": "의외라는 아이찡 행동 #쇼츠 #shorts",
+        "channel": "결말뭐지",
+        "views": 306682,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '원작 음성을 살린 AI 패러디 영상'이라는 문구가 있어 AI 관련 영상임을 알 수 있습니다.",
+        "kept": true
+      },
+      {
+        "title": "역대급 고양이 밈 | 영화 바람 서면시장 패싸움 고양이 버전 #영화바람 #고양이 #쇼츠",
+        "channel": "힐링 AI Studio",
+        "views": 264300,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI 안경 부정행위 관련 뉴스 내용이 있어 AI 관련 영상임을 알 수 있습니다.",
+        "kept": false
+      },
+      {
+        "title": "수능 Ai 안경 논란☠️",
+        "channel": "똥파리에딧",
+        "views": 235149,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 'AI 기술로 재미있게 구성한 창작 영상'이라는 문구가 있어 AI로 제작된 영상임을 명확히 밝히고 있습니다.",
+        "kept": true
+      },
+      {
+        "title": "유머 대충대충 #웃음맛집 #웃긴영상 #ai영상 #ai #ai유머 #감동 #반전  #40대공감 #50대공감 #60대공감 #공감영상 #꿀잼 #공감 #훈훈 #재미 #시니어 #쇼츠",
+        "channel": "웃음 맛집",
+        "views": 202324,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI 통역 앱 광고 및 AI 관련 언급이 있으나 영상 내용은 드라마로 보입니다.",
+        "kept": false
+      },
+      {
+        "title": "전남편과 불륜남의 개막장 파티 열린 K-막장 로판 3탄 l 막장의 덫 EP.3",
+        "channel": "도파민필름 Dopamine Film",
+        "views": 184797,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 'AI로 제작한 창작 드라마'라는 문구가 있어 AI로 제작된 영상임을 명확히 밝히고 있습니다.",
+        "kept": false
+      },
+      {
+        "title": "시아버지가 날마다 몰래 나간 이유 #감동 #사연 #드라마 #시아버지 #며느리",
+        "channel": "오늘도 사람",
+        "views": 180523,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 'AI로 제작한 새로운 이야기와 숏드라마'라는 문구가 있어 AI로 제작된 영상임을 명확히 밝히고 있습니다.",
+        "kept": false
+      },
+      {
+        "title": "남편의 외도녀가 집으로 찾아온 이유 #쇼츠드라마 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "김치스매시",
+        "views": 179553,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '#AI영상' 태그가 있고 팬메이드 영상으로 AI 관련 영상임을 알 수 있습니다.",
+        "kept": true
+      },
+      {
+        "title": "대기업 갑질에 맞선 중소기업의 반격",
+        "channel": "korea ai",
+        "views": 168620,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI로 모든 화면을 제작한 영화라고 명시되어 있어 AI로 제작된 영상임을 알 수 있습니다.",
+        "kept": false
+      },
+      {
+        "title": "💛FOYEGE 말포이TS 랭킹 TOP7 3탄",
+        "channel": "랭킹고",
+        "views": 167316,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI 영상 제작 도구인 힉스필드, 씨댄스 언급이 있어 AI 관련 영상임을 알 수 있습니다.",
+        "kept": false
+      },
+      {
+        "title": "28화)시험지 훔치는 영상이 AI로 만든거라고? #잼민의사랑",
+        "channel": "옐언니",
+        "views": 163750,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI 관련 언급이 없으며 단순 유머 영상으로 보입니다.",
+        "kept": false
+      },
+      {
+        "title": "아스트라 + 블렌더 + 힉스필드로 AI 비용 반토막내는 법",
+        "channel": "브랜드 도적단 / 반토막AI",
+        "views": 11506,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '아스트라 + 블렌더 + 힉스필드로 AI 비용 반토막내는 법'이라는 문구가 있어 AI 관련 영상임을 알 수 있습니다.",
+        "kept": false
+      },
+      {
+        "title": "니온#A2O LITE #NEON #수연이랑둘이서#우리도 ai#힉스필드",
+        "channel": "깜뎅이 써니샘 sunny dance ",
+        "views": 5465,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 설명에 '힉스필드'라는 AI 영상 생성 도구 이름이 있어 AI 관련 영상임을 알 수 있습니다.",
+        "kept": true
+      },
+      {
+        "title": "🌊 물의 왕자들 런웨이｜바다를 지배하는 다섯 왕자",
+        "channel": "💕 오늘도 웃고 울고",
+        "views": 1506,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '#AI영상', '#AI아트', '#AI애니메이션' 태그가 있어 AI 관련 영상임을 알 수 있습니다.",
+        "kept": false
+      },
+      {
+        "title": "말만 하던 클로드에게 손이 생겼습니다, 힉스필드 MCP 연결은 30초",
+        "channel": "신동댕동 Shindongdengdong",
+        "views": 1472,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": true,
+        "reason": "설명에 힉스필드 MCP 연결 방법과 AI 영상·이미지 모델 언급이 있어 AI 관련 영상임을 알 수 있습니다.",
+        "kept": true
+      },
+      {
+        "title": "희동이 스타만들기ㅋㅋㅋ#힉스필드#강아지일상 #강아지ai #higgsfield #higgsfieldai #doglife  #유행릴스 #릴스타그램 #쇼츠추천 #인기쇼츠 #바이럴",
+        "channel": "연희동언덕에",
+        "views": 1465,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '#힉스필드', '#강아지ai' 태그가 있어 AI 관련 영상임을 알 수 있습니다.",
+        "kept": true
+      },
+      {
+        "title": "🍂 가을 속 거리 런웨이, AI로 만든 나만의 패션쇼! #AI패션쇼 #가을코디 #AI영상 #세번째스무살",
+        "channel": "조은나래",
+        "views": 1434,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '#AI패션쇼', '#AI영상' 태그가 있어 AI 관련 영상임을 알 수 있습니다.",
+        "kept": false
+      },
+      {
+        "title": "🍂 가을 속 거리 런웨이, AI로 만든 나만의 패션쇼! #AI패션쇼 #가을코디 #AI영상 #세번째스무살",
+        "channel": "조은나래",
+        "views": 1416,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '#AI패션쇼', '#AI영상' 태그가 있어 AI 관련 영상임을 알 수 있습니다.",
+        "kept": false
+      },
+      {
+        "title": "희동이와 춤사위 #바이럴#힉스필드#웃긴영상  #higgsfield #쇼츠 #dogshorts #데일리브이로그 #웃긴짤 #funny #dogshorts #funnyshorts",
+        "channel": "연희동언덕에",
+        "views": 1404,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '#힉스필드' 태그가 있어 AI 관련 영상임을 알 수 있습니다.",
+        "kept": true
+      },
+      {
+        "title": "AI 아직도 하나만 쓰시나요",
+        "channel": "규보의 AI",
+        "views": 1371,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 힉스필드, 씨댄스, 클링 등 AI 영상 생성 도구 이름이 언급되어 AI 관련 영상임을 알 수 있습니다.",
+        "kept": false
+      },
+      {
+        "title": "다빈치 리졸브 힉스필드 플러그인 설치",
+        "channel": "크레용팜 Creyongfarm",
+        "views": 1369,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 힉스필드 플러그인 설치 및 AI 영상 생성 언급이 있어 AI 관련 영상임을 알 수 있습니다.",
+        "kept": false
+      }
+    ]
+  },
+  "checks": [
+    {
+      "title": "Higgsfield’s New 7-Day Unlimited Bonus: Models, Plans, and Limits",
+      "source": "Higgsfield",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "source": "Hugging Face",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
+      "source": "The Decoder",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "찌개를 쏟은 식당 아주머니가 건넨 정장, 면접장에서 벌어진 일 #숏드라마 #shortvideo",
+      "source": "YouTube",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "말만 하던 클로드에게 손이 생겼습니다, 힉스필드 MCP 연결은 30초",
+      "source": "YouTube",
+      "first_ok": true,
+      "first_problems": []
+    }
+  ]
+}
