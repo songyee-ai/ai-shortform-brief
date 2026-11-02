@@ -1,0 +1,483 @@
+{
+  "tools": {
+    "batches": [
+      {
+        "batch": 1,
+        "size": 12,
+        "passed": [
+          "How to Make Product Videos with AI in 2026 (Full Guide)",
+          "7 Best AI UGC Video Tools for Marketing Agencies in 2026",
+          "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
+          "OpenAI is steering ChatGPT users toward more paid usage"
+        ],
+        "dropped": [
+          "nemotron-halloween",
+          "8 Best AI Image Upscalers in 2026 (Free and Paid)",
+          "Are There Problems Beyond the Reach of AI [video]",
+          "How to Make an Anime Series with AI on Higgsfield",
+          "Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners",
+          "DIY AI Lockpicking Robot: ESP32 and Claude AI Opens Any Lock [video]",
+          "Chinese AI models are politically complex, not just government mouthpieces, study finds",
+          "Honest Government Ad – AI Data Centres [video]"
+        ]
+      },
+      {
+        "batch": 2,
+        "size": 9,
+        "passed": [
+          "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing",
+          "Google wants video AI to understand what people need as they work",
+          "9 Best AI Filmmaking Tools for Short Films in 2026",
+          "Anthropic orders AI tool Claude to stop remaking video games"
+        ],
+        "dropped": [
+          "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+          "Neal Stephenson on AI and What Comes Next [video]",
+          "Fiber lasts decades, GPUs last three years: the AI boom isn't the dot-com boom [video]",
+          "AI killed my software career [video]",
+          "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust"
+        ]
+      }
+    ],
+    "survivors": 8,
+    "final_skipped": [
+      {
+        "title": "OpenAI is steering ChatGPT users toward more paid usage",
+        "why": "The Decoder 하루 상한"
+      },
+      {
+        "title": "Google wants video AI to understand what people need as they work",
+        "why": "The Decoder 하루 상한"
+      },
+      {
+        "title": "9 Best AI Filmmaking Tools for Short Films in 2026",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "7 Best AI UGC Video Tools for Marketing Agencies in 2026",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "Anthropic orders AI tool Claude to stop remaking video games",
+        "why": "본선 순위 밖"
+      }
+    ],
+    "chosen": [
+      {
+        "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
+        "event": "Adobe EditAgent AI Image Editing",
+        "reason": "Adobe가 Photoshop 전문가처럼 이미지를 편집하는 AI 에이전트 EditAgent를 테스트 중이라는 소식은 AI 영상·이미지 제작에 직접 활용할 수 있는 최신 기능 소식으로, 개인 창작자에게 유용하다."
+      },
+      {
+        "title": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing",
+        "event": "OpenAI ChatGPT Pricing Change",
+        "reason": "OpenAI가 ChatGPT Plus, Pro, Business 요금제를 통합하고 토큰 기반 쿼터를 도입하는 정책 변화는 AI 도구 사용량과 비용에 직접 영향을 주므로 중요한 소식이다."
+      },
+      {
+        "title": "How to Make Product Videos with AI in 2026 (Full Guide)",
+        "event": "AI Product Video Guide",
+        "reason": "AI를 활용한 제품 영상 제작 가이드(2026년판)는 AI 숏폼 영상 제작에 바로 써먹을 수 있는 실용적인 제작 기법과 도구 정보를 제공한다."
+      }
+    ]
+  },
+  "trend": {
+    "prelim": 30,
+    "unlabeled": 3,
+    "meme_rule_fixed": 3,
+    "info_rule_fixed": 0,
+    "chosen": [
+      {
+        "title": "평생 김밥을 공짜로 나눠주던 할머니, 10년 뒤 돌아온 은혜 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "훈작가의 숏드라마",
+        "views": 1339343,
+        "genre": "작품",
+        "reason": "설명에 '#AI가상인물' 태그가 있고 시니어 드라마 장르임이 명확하여 AI로 만든 가상 인물 영상임을 알 수 있음."
+      },
+      {
+        "title": "아스트라 + 블렌더 + 힉스필드로 AI 비용 반토막내는 법",
+        "channel": "브랜드 도적단 / 반토막AI",
+        "views": 16505,
+        "genre": "정보 전달",
+        "reason": "설명에 '#힉스필드' 태그가 있고 AI 영상 제작 관련 내용임."
+      }
+    ],
+    "labels": [
+      {
+        "title": "신의 영역 들어서는 AI…구글, 월드모델 '지니4' 공개 #소셜픽 / JTBC 아침&",
+        "channel": "JTBC News",
+        "views": 1452627,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "구글이 '월드 모델' 인공지능인 지니4를 공개했다는 설명과 제목에 AI 관련 내용이 명확히 언급되어 있음.",
+        "kept": true
+      },
+      {
+        "title": "평생 김밥을 공짜로 나눠주던 할머니, 10년 뒤 돌아온 은혜 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "훈작가의 숏드라마",
+        "views": 1339343,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '#AI가상인물' 태그가 있고 시니어 드라마 장르임이 명확하여 AI로 만든 가상 인물 영상임을 알 수 있음.",
+        "kept": true
+      },
+      {
+        "title": "쟤들도 하는데? 우리도 한다!! 😼🔥 #고양이쇼츠 #웃긴고양이 #AI동물 #shorts",
+        "channel": "오늘도 다온하온 | Daon & Haon, Today Too ",
+        "views": 978910,
+        "slot": "조회수",
+        "ai_made": "AI를 다룸",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '#AI동물' 태그가 있으나 AI로 만든 영상이라는 직접적 언급은 없음. 고양이 영상으로 웃긴 고양이 쇼츠 장르임.",
+        "kept": false
+      },
+      {
+        "title": "아들 결혼식에 나타나 난동 부리는 줄 알았던 전처의 반전 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "훈작가의 숏드라마",
+        "views": 962277,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI 기술로 제작한 가상의 축구 영화임을 명시하고 있어 AI로 만든 영상임이 분명함.",
+        "kept": true
+      },
+      {
+        "title": "감스트 스페셜｜미쳐버린 개인기 모음 ⚽🔥",
+        "channel": "AI시네마",
+        "views": 928318,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": true,
+        "info_rule": false,
+        "reason": "설명에 '#AI가상인물' 태그와 시니어 드라마 장르임이 명확하여 AI로 만든 가상 인물 영상임을 알 수 있음.",
+        "kept": true
+      },
+      {
+        "title": "아이의 꿈을 꺾으려던 엄마에게 화실 선생님이 한 말 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "훈작가의 숏드라마",
+        "views": 783853,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI 관련 언급이 없고 단순 홍보 영상으로 보임.",
+        "kept": false
+      },
+      {
+        "title": "AI 제대로 쓰는 양주시 홍보영상 근황",
+        "channel": "짧주",
+        "views": 780762,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '#AI가상인물' 태그와 시니어 드라마 장르임이 명확하여 AI로 만든 가상 인물 영상임을 알 수 있음.",
+        "kept": true
+      },
+      {
+        "title": "매일 찾아오는 손님을 유심히 바라보던 여사장의 충격적인 사연 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "훈작가의 숏드라마",
+        "views": 773020,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "중국에서 AI 기술로 제작한 영화가 개봉했다는 설명과 태그가 있어 AI로 만든 영상임이 분명함.",
+        "kept": true
+      },
+      {
+        "title": "\"이 수준이면 표 안 산다\"…야심차게 개봉한 중국 영화 '참패' [지금이뉴스] / YTN",
+        "channel": " YTN",
+        "views": 708581,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "드라마 장르 영상으로 AI 관련 언급이 없으며, 사이다 드라마임.",
+        "kept": false
+      },
+      {
+        "title": "상견례 자리에서 사돈 무시했다가 제대로 참교육당한 시어머니 #사이다 #드라마",
+        "channel": "한컷극장",
+        "views": 670518,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 'AI로 제작된 창작 드라마'라는 명확한 언급이 있음.",
+        "kept": true
+      },
+      {
+        "title": "[예비 시어머니를 몰라봤다 1화] \"비켜요! 여기 VIP 전용 엘리베이터라고요!\" 휠체어 할머니 밀어낸 여자… 그 할머니가 예비 시어머니였다",
+        "channel": "인생단편극장",
+        "views": 655986,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI로 제작한 미니드라마임을 명시하고 있음.",
+        "kept": true
+      },
+      {
+        "title": "어르신이 청소하겠다는데 뭔소리? #시니어 #시니어쇼츠 #미니드라마 #쇼츠드라마",
+        "channel": "들려주고 싶은이야기",
+        "views": 575400,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '#AI가상인물' 태그와 시니어 드라마 장르임이 명확하여 AI로 만든 가상 인물 영상임을 알 수 있음.",
+        "kept": true
+      },
+      {
+        "title": "칼국수 한 그릇 먹던 할머니가 남긴 것 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "훈작가의 숏드라마",
+        "views": 501506,
+        "slot": "조회수",
+        "ai_made": "AI를 다룸",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '#AI강아지' '#AI고양이' 태그가 있으나 AI로 만든 영상이라는 직접적 언급은 없음. 웃긴 강아지 영상임.",
+        "kept": false
+      },
+      {
+        "title": "보호안경의 중요성🤣 #Shorts #AI강아지 #AI고양이 #웃긴강아지",
+        "channel": "오늘도 다온하온 | Daon & Haon, Today Too ",
+        "views": 433790,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": true,
+        "info_rule": false,
+        "reason": "중국에서 배우와 카메라 없이 AI로 제작한 100분짜리 영화라는 설명과 AI 관련 태그가 명확함.",
+        "kept": true
+      },
+      {
+        "title": "배우도 카메라도 없이 100분짜리 영화 '딸깍' 완성…숏폼 넘어 스크린까지 진출하는 AI｜지금 이 뉴스",
+        "channel": "JTBC News",
+        "views": 363133,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '#AI영상' 태그가 있으나 AI로 만들었다는 직접적 언급은 없음. 영상 랭킹 콘텐츠임.",
+        "kept": false
+      },
+      {
+        "title": "💛원작 vs '그 말포이' 같은장면 랭킹 TOP3",
+        "channel": "랭킹고",
+        "views": 358401,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI 관련 언급이 없고 단순 유머 영상임.",
+        "kept": false
+      },
+      {
+        "title": "의외라는 아이찡 행동 #쇼츠 #shorts",
+        "channel": "결말뭐지",
+        "views": 338807,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "원작 음성을 살린 AI 패러디 영상이라는 설명과 '#AI 패러디 영상' 언급이 있어 AI 관련 영상임.",
+        "kept": true
+      },
+      {
+        "title": "역대급 고양이 밈 | 영화 바람 서면시장 패싸움 고양이 버전 #영화바람 #고양이 #쇼츠",
+        "channel": "힐링 AI Studio",
+        "views": 299253,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '이 영상은 AI로 만든 영상이에요'라는 명확한 언급이 있음.",
+        "kept": true
+      },
+      {
+        "title": "초코 AI 영상 #1 지하철편 🐶",
+        "channel": "어디든 초코",
+        "views": 244283,
+        "slot": "조회수",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI 스마트 안경 부정행위 관련 뉴스 내용이 있어 AI 관련 영상임.",
+        "kept": true
+      },
+      {
+        "title": "수능 Ai 안경 논란☠️",
+        "channel": "똥파리에딧",
+        "views": 243058,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '#ai영상' '#씨댄스' '#힉스필드' 태그가 있어 AI 영상 제작 관련 내용임.",
+        "kept": true
+      },
+      {
+        "title": "아스트라 + 블렌더 + 힉스필드로 AI 비용 반토막내는 법",
+        "channel": "브랜드 도적단 / 반토막AI",
+        "views": 16505,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '#힉스필드' 태그가 있고 AI 영상 제작 관련 내용임.",
+        "kept": true
+      },
+      {
+        "title": "니온#A2O LITE #NEON #수연이랑둘이서#우리도 ai#힉스필드",
+        "channel": "깜뎅이 써니샘 sunny dance ",
+        "views": 6587,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '#AI영상' '#AI아트' '#AI애니메이션' '#인공지능영상' 태그가 있어 AI 영상임이 명확함.",
+        "kept": true
+      },
+      {
+        "title": "🌊 물의 왕자들 런웨이｜바다를 지배하는 다섯 왕자",
+        "channel": "💕 오늘도 웃고 울고",
+        "views": 1563,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI TECH LAB에서 AI 관련 리뷰 영상임을 명확히 밝힘.",
+        "kept": true
+      },
+      {
+        "title": "힉스필드 젠주추 퀄리티!! 미녀들의 뺨때리기 대결 #tech #ai #review #higgsfieldgenjutsu",
+        "channel": "AI TECH LAB",
+        "views": 1532,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '#AI패션쇼' '#AI영상' 태그가 있어 AI 영상임이 명확함.",
+        "kept": true
+      },
+      {
+        "title": "🍂 가을 속 거리 런웨이, AI로 만든 나만의 패션쇼! #AI패션쇼 #가을코디 #AI영상 #세번째스무살",
+        "channel": "조은나래",
+        "views": 1449,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '#AI패션쇼' '#AI영상' 태그가 있어 AI 영상임이 명확함.",
+        "kept": true
+      },
+      {
+        "title": "🍂 가을 속 거리 런웨이, AI로 만든 나만의 패션쇼! #AI패션쇼 #가을코디 #AI영상 #세번째스무살",
+        "channel": "조은나래",
+        "views": 1431,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '#힉스필드' 태그가 있고 AI 영상 제작 관련 내용임.",
+        "kept": true
+      },
+      {
+        "title": "희동이와 춤사위 #바이럴#힉스필드#웃긴영상  #higgsfield #쇼츠 #dogshorts #데일리브이로그 #웃긴짤 #funny #dogshorts #funnyshorts",
+        "channel": "연희동언덕에",
+        "views": 1408,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": true,
+        "info_rule": false,
+        "reason": "설명에 '#AI영상' '#AI아트' '#AI애니메이션' '#인공지능영상' 태그가 있어 AI 영상임이 명확함.",
+        "kept": true
+      }
+    ]
+  },
+  "checks": [
+    {
+      "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
+      "source": "The Decoder",
+      "first_ok": true,
+      "first_problems": [
+        "Summary states '계산 비용이 10배 이상 필요하다' which is supported by the evidence ('EditAgent produces more accurate results than previous AI agents but needs about ten times the compute').",
+        "Summary mentions '검증된 결과는 빠른 편집기 학습용 데이터로 활용된다' which is supported by the evidence ('The verified output can then be used to train faster editing models').",
+        "Summary accurately reflects the key points about EditAgent's approach, evaluation method, and performance improvements.",
+        "The 'why' section suggests users to refer to EditAgent's approach to improve editing accuracy, which is an action suggestion and does not contain unsupported factual claims.",
+        "No unsupported facts, numbers, or evaluations are present in the headline or summary that contradict the evidence."
+      ]
+    },
+    {
+      "title": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing",
+      "source": "The Decoder",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "How to Make Product Videos with AI in 2026 (Full Guide)",
+      "source": "Higgsfield",
+      "first_ok": false,
+      "first_problems": [
+        "요약에 '1,500개 이상의 템플릿'이 명확히 근거에 언급되어 있으나, 근거에서는 '1,500+ 템플릿'이 '7개 카테고리'에 걸쳐 있다고만 되어 있어 템플릿 수가 정확히 1,500개 이상인지 명확하지 않음. 그러나 '1,500+'라는 표현은 근거에 있으므로 문제 없음.",
+        "요약에서 '튜토리얼' 템플릿 제공 언급은 근거에 직접적으로 나와 있지 않음. 근거에는 튜토리얼이 영상 형식 중 하나로 소개되었으나, 템플릿 카테고리 목록에는 튜토리얼 템플릿이 명시되어 있지 않음. 따라서 '튜토리얼 등 1,500개 이상의 템플릿 제공'이라는 표현은 다소 과장된 해석일 수 있음.",
+        "요약에서 '아바타 설정'과 '편집 설명 작성' 등 영상 제작 과정이 근거에 상세히 설명되어 있어 적절히 반영됨.",
+        "'무료'라는 표현은 요약에 없으나, why 부분에서 '무료 템플릿' 활용 제안이 있는데, 근거에는 무료라는 언급이 전혀 없어 문제임."
+      ],
+      "rewritten": true,
+      "final_ok": false,
+      "final_problems": [
+        "요약에 '9가지 제품 영상 형식'이라고 했으나 근거에는 9가지 형식이 명확히 나열되어 있지 않고, 표에는 10가지 형식이 있음.",
+        "요약에 '1,500개 이상의 템플릿'이라고 했으나 근거에는 '1,500+ 템플릿'이라고만 되어 있고, 템플릿이 9가지 형식에 맞춰져 있다는 근거는 없음.",
+        "요약에 '무료 템플릿'이라는 표현이 없으며, 근거에도 무료라는 내용이 없음.",
+        "요약에 'UGC 템플릿은 아바타 교체와 편집 설명 작성이 가능하다'는 내용은 근거에 있으나, '편집 설명 작성'이 'Describe your edit' 필드에 작성하는 것으로 근거에 명확히 설명되어 있음.",
+        "요약에 '영상 제작 시 템플릿 선택부터 제품 업로드, 아바타 설정, 편집 설명 작성, 재생성 및 검토 과정을 거친다'는 과정은 근거에 상세히 설명되어 있어 적절함."
+      ]
+    },
+    {
+      "title": "평생 김밥을 공짜로 나눠주던 할머니, 10년 뒤 돌아온 은혜 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+      "source": "YouTube",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "아스트라 + 블렌더 + 힉스필드로 AI 비용 반토막내는 법",
+      "source": "YouTube",
+      "first_ok": true,
+      "first_problems": []
+    }
+  ]
+}

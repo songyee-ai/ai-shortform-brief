@@ -1,32 +1,27 @@
-🗞️ <b>AI 숏폼 아침 브리핑 · 11월 1일</b>
+🗞️ <b>AI 숏폼 아침 브리핑 · 11월 2일</b>
 
 <b>① 요즘 뜨는 AI 숏폼</b>
 
-<b>면접 직전 찌개를 쏟은 지연에게 식당 아주머니가 낡은 정장을 건넨 이야기</b> [밈]
-면접을 앞둔 지연이 식당에서 찌개를 쏟자, 식당 아주머니가 낡은 정장을 건넵니다. 그 옷을 입고 면접장에 들어간 지연이 어떤 말을 하게 되는지 보여주는 따뜻한 가상의 이야기입니다.
-👉 오늘 짧은 드라마 형식으로 따뜻한 메시지를 담은 영상을 만들어 보세요.
-<a href="https://www.youtube.com/watch?v=jr0H0KTqy_U">인생역전사연집 · 조회 749,859</a>
+<b>평생 김밥을 공짜로 나눠주던 할머니가 10년 후에 돌아온 이야기를 다룬 시니어 드라마</b> [작품]
+이 영상은 평생 김밥을 무료로 나눠주던 할머니가 10년 뒤에 다시 등장하는 반전 드라마를 담고 있으며, 50대에서 70대 시니어들의 공감과 인생 교훈을 주제로 한다.
+👉 오늘 부모님이나 시어머니와 함께 이 영상을 보며 세대 간 공감과 인생 교훈을 나눠보세요.
+<a href="https://www.youtube.com/watch?v=N2wOzqYUkDM">훈작가의 숏드라마 · 조회 1,339,343</a>
 
-<b>클로드 AI에 힉스필드 MCP를 30초 만에 연결해 영상·이미지 모델을 직접 선택하고 결과 파일을 받을 수 있습니다</b> [정보 전달]
-클로드 AI 설정에서 커넥터를 통해 힉스필드 MCP URL을 추가하면 클로드가 영상과 이미지 모델을 직접 골라 실행하고 결과 파일까지 가져오는 기능이 활성화됩니다. 연결 과정은 30초 내외로 간단합니다.
-👉 클로드 AI 설정에서 힉스필드 MCP 커넥터를 직접 추가해 기능을 바로 사용해 보세요.
-<a href="https://www.youtube.com/watch?v=ZVkUZZmsDj4">신동댕동 Shindongdengdong · 조회 1,472</a>
+<b>아스트라, 블렌더, 힉스필드를 활용해 AI 영상 제작 비용을 절감하는 방법</b> [정보 전달]
+영상은 아스트라, 블렌더, 힉스필드라는 도구를 사용해 AI 영상 제작 비용을 절반으로 줄이는 방법을 소개한다.
+👉 아스트라, 블렌더, 힉스필드를 조합해 AI 영상 제작 비용을 절감하는 방법을 시도해 보세요.
+<a href="https://www.youtube.com/watch?v=bCApG4JdwiE">브랜드 도적단 / 반토막AI · 조회 16,505</a>
 
 <b>② 제작 도구 소식</b>
 
-<b>Higgsfield, 7일간 무제한 이미지·영상 생성 보너스 출시</b>
-Higgsfield가 Pro, Plus, Max, Ultra 구독자 대상으로 7일간 Seedream 5.0 Pro, GPT Image 2.5, Nano Banana Pro, Seedance 2.5 모델을 무제한 생성할 수 있는 보너스를 제공한다. 월별·연간 플랜에 따라 지원 모델과 영상 해상도, 길이가 다르며, 무제한 생성 시 동시 실행 제한이 있다.
-👉 Higgsfield 계정에서 무제한 토글을 켜고 지원되는 모델과 해상도로 7일간 이미지 또는 20초 영상 생성을 시도해 보세요.
-<a href="https://higgsfield.ai/blog/higgsfield-7-day-unlimited-bonus">Higgsfield</a>
+<b>Adobe Research와 UC San Diego가 전문 사진 편집가처럼 도구를 활용하는 AI 에이전트 EditAgent 개발</b>
+EditAgent는 이미지 편집 작업을 세분화해 일반 편집기와 특화 도구를 조합하고, 표준 언어 모델이 편집 결과를 수치로 평가해 최적 결과를 선택한다. 기존 AI 에이전트보다 정확도가 높지만 계산 비용이 10배 이상 필요하며, 검증된 결과는 빠른 편집기 학습용 데이터로 활용된다.
+👉 무료 또는 저렴한 AI 편집 도구를 활용하는 창작자는 EditAgent가 제시하는 단계별 도구 선택과 결과 평가 방식을 참고해 편집 작업의 정확도를 높여 보세요.
+<a href="https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/">The Decoder</a>
 
-<b>Granite Switch 4.1.1 업데이트, 소프트웨어처럼 모델을 빠르게 개선</b>
-Granite Switch 4.1.1은 기존 4.1 버전과 완전 호환되는 패치 릴리스로, 새로운 다국어 음성인식 모델과 향상된 의사결정 어댑터를 포함한다. 이 업데이트는 기본 모델을 변경하지 않고 어댑터만 교체해 빠르고 효율적으로 배포할 수 있다.
-👉 새로운 다국어 음성인식 모델과 의사결정 어댑터를 직접 테스트해 보세요.
-<a href="https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1">Hugging Face</a>
-
-<b>Anthropic, 워터마크를 네 개의 클로드 모델에 확대 적용하지만 두 구형 모델에서는 샘플링 매개변수 조정으로 회피 가능</b>
-Anthropic은 Claude Mythos 5, Claude Opus 4.7, Claude Opus 4.6, Claude Sonnet 4.6 모델에 텍스트 워터마크를 적용한다. 다만 Claude Opus 4.6과 Claude Sonnet 4.6에서는 기본 샘플링 설정을 변경하면 워터마크가 적용되지 않는다. 워터마크는 단어 선택에 미세한 패턴을 넣어 의미나 품질에 영향을 주지 않는다고 회사는 설명한다.
-👉 기본 샘플링 매개변수(temperature, top_p, top_k)를 조정해 워터마크 적용 여부를 확인해 보세요.
-<a href="https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/">The Decoder</a>
+<b>OpenAI, ChatGPT 내 Chat과 Work 기능 통합하며 사용량 제한 방식 변경</b>
+OpenAI가 ChatGPT의 Chat과 Work 기능을 통합해 Plus, Pro, Business 요금제에서 토큰 예산을 공유하도록 변경한다. 토큰은 모델이 처리하는 정보량을 측정하며, 예산 초과 시 대기하거나 업그레이드, 추가 크레딧 구매가 필요하다. Instant 모델 사용 시 토큰 예산에 포함되지 않는다.
+👉 ChatGPT 설정에서 남은 토큰 예산과 리셋 시간을 확인해 사용량을 관리해 보세요.
+<a href="https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/">The Decoder</a>
 
 <i>영상은 제목·설명만 보고 요약했습니다. 모든 요약은 원문과 AI 대조 검수를 통과했습니다.</i>
