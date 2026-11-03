@@ -1,0 +1,493 @@
+{
+  "tools": {
+    "batches": [
+      {
+        "batch": 1,
+        "size": 12,
+        "passed": [
+          "8 Best AI Image Upscalers in 2026 (Free and Paid)",
+          "6 Best AI Video Tools for Realistic Human Motion in 2026 (Tested and Compared)",
+          "The latest AI news we announced in October 2026",
+          "SpaceXSI apparently cuts Grok Bot quotas weeks after Musk called it his fastest-growing product"
+        ],
+        "dropped": [
+          "Eric Hsiao: How a Film Editor Directed a Six-Minute AI Drama on Higgsfield",
+          "Goldman Sachs pulls AI coding tools from traders and bankers",
+          "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+          "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+          "AI elites might hoard intelligence like mercantilists hoarded gold",
+          "Claude’s new rules against game cloning won’t stop the AI copying boom",
+          "Are There Problems Beyond the Reach of AI [video]",
+          "DIY AI Lockpicking Robot: ESP32 and Claude AI Opens Any Lock [video]"
+        ]
+      },
+      {
+        "batch": 2,
+        "size": 9,
+        "passed": [
+          "How to Make an Anime Series with AI on Higgsfield",
+          "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+          "Anthropic orders AI tool Claude to stop remaking video games",
+          "One brutal Minecraft night scared 50 AI agents into inventing chicken handoff protocols, a Fertilizer Officer, and fishing shifts"
+        ],
+        "dropped": [
+          "Anthropic grows revenue twelvefold but posts $23 billion loss",
+          "Honest Government Ad – AI Data Centres [video]",
+          "Saudi Aramco takes 49 percent stake in AI firm Humain with $2.6 billion deal",
+          "OpenAI prepares lobbying blitz for a post-midterm Washington",
+          "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust"
+        ]
+      }
+    ],
+    "survivors": 8,
+    "final_skipped": [
+      {
+        "title": "8 Best AI Image Upscalers in 2026 (Free and Paid)",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "6 Best AI Video Tools for Realistic Human Motion in 2026 (Tested and Compared)",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "Anthropic orders AI tool Claude to stop remaking video games",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "One brutal Minecraft night scared 50 AI agents into inventing chicken handoff protocols, a Fertilizer Officer, and fishing shifts",
+        "why": "본선 순위 밖"
+      }
+    ],
+    "chosen": [
+      {
+        "title": "The latest AI news we announced in October 2026",
+        "event": "Google AI 2026 October Updates",
+        "reason": "구글이 2026년 10월에 발표한 최신 AI 소식으로, 이미지 생성과 관련된 새로운 기능이나 도구가 포함되어 있을 가능성이 높아 바로 써볼 수 있는 최신 정보를 제공함."
+      },
+      {
+        "title": "SpaceXSI apparently cuts Grok Bot quotas weeks after Musk called it his fastest-growing product",
+        "event": "SpaceXSI Grok Bot Quota Change",
+        "reason": "SpaceXSI가 AI 에이전트 Grok Bot의 사용 한도를 줄였다는 소식으로, 무료 사용량이나 요금제 변화에 직접적인 영향을 줄 수 있어 중요함."
+      },
+      {
+        "title": "How to Make an Anime Series with AI on Higgsfield",
+        "event": "AI Anime Series Creation Guide",
+        "reason": "AI를 활용해 애니메이션 시리즈를 만드는 방법을 다룬 콘텐츠로, 제작 기법과 프롬프트 요령을 바로 배워 활용할 수 있어 유용함."
+      }
+    ]
+  },
+  "trend": {
+    "prelim": 30,
+    "unlabeled": 0,
+    "meme_rule_fixed": 1,
+    "info_rule_fixed": 0,
+    "chosen": [
+      {
+        "title": "초코 AI 영상 #1 지하철편 🐶",
+        "channel": "어디든 초코",
+        "views": 1263361,
+        "genre": "밈",
+        "reason": "설명에 '이 영상은 AI로 만든 영상이에요'라고 명시되어 있어 AI 영상임이 분명함."
+      },
+      {
+        "title": "Ai 디자인, 아직도 밤티 같나요? 👀 #higgsfield",
+        "channel": "디자이너지인",
+        "views": 9008,
+        "genre": "정보 전달",
+        "reason": "설명에 힉스필드라는 AI 영상·이미지 생성 도구 이름이 나오고 AI 영상 제작 과정 설명이 있어 AI 영상임이 분명함."
+      }
+    ],
+    "labels": [
+      {
+        "title": "신의 영역 들어서는 AI…구글, 월드모델 '지니4' 공개 #소셜픽 / JTBC 아침&",
+        "channel": "JTBC News",
+        "views": 1521692,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 설명에 구글이 공개한 월드모델 '지니4'라는 인공지능 기술에 대해 설명하고 있어 AI 영상임이 명확함.",
+        "kept": true
+      },
+      {
+        "title": "쟤들도 하는데? 우리도 한다!! 😼🔥 #고양이쇼츠 #웃긴고양이 #AI동물 #shorts",
+        "channel": "오늘도 다온하온 | Daon & Haon, Today Too ",
+        "views": 1388187,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "고양이들이 춤추는 모습이지만 AI 관련 언급이 없고, 실제 고양이 영상으로 보임.",
+        "kept": false
+      },
+      {
+        "title": "AI 가짜 의사부터 의약품 모방 광고까지, 식품 부당광고 관리 강화 #국가정상화_프로젝트",
+        "channel": "대한민국정부",
+        "views": 1326268,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "정부가 AI 가짜 의사 등 부당광고 관리를 강화한다는 내용으로 AI 영상 제작 여부 언급 없음.",
+        "kept": false
+      },
+      {
+        "title": "초코 AI 영상 #1 지하철편 🐶",
+        "channel": "어디든 초코",
+        "views": 1263361,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '이 영상은 AI로 만든 영상이에요'라고 명시되어 있어 AI 영상임이 분명함.",
+        "kept": true
+      },
+      {
+        "title": "가난하면 손주 백일잔치도 못 가나요?   #사이다사연 #드라마 #반전사연",
+        "channel": "스토리 한바다",
+        "views": 1177996,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '본 영상은 AI로 제작한 창작 드라마입니다'라고 명시되어 있어 AI 영상임이 분명함.",
+        "kept": true
+      },
+      {
+        "title": "아들 결혼식에 나타나 난동 부리는 줄 알았던 전처의 반전 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "훈작가의 숏드라마",
+        "views": 1033693,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI 가상인물, 시니어드라마 등 AI 관련 태그가 있고 AI 영상임이 명확함.",
+        "kept": true
+      },
+      {
+        "title": "감스트 스페셜｜미쳐버린 개인기 모음 ⚽🔥",
+        "channel": "AI시네마",
+        "views": 1024918,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": true,
+        "info_rule": false,
+        "reason": "설명에 AI 기술을 활용해 제작한 가상의 축구 영화라고 명시되어 있어 AI 영상임이 분명함.",
+        "kept": true
+      },
+      {
+        "title": "“너 말고 누가 훔쳐!” 가사도우미 뺨을 때린 집주인의 최후#Shorts",
+        "channel": "오늘의씬 AI 반전 숏드라마",
+        "views": 960894,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 'AI로 제작한 창작 드라마입니다'라고 명시되어 있어 AI 영상임이 분명함.",
+        "kept": true
+      },
+      {
+        "title": "아이의 꿈을 꺾으려던 엄마에게 화실 선생님이 한 말 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "훈작가의 숏드라마",
+        "views": 906791,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI 가상인물, 시니어드라마 등 AI 관련 태그가 있고 AI 영상임이 명확함.",
+        "kept": true
+      },
+      {
+        "title": "세계적인 거물들을 '을'로 만드는 남자",
+        "channel": "MuskLab",
+        "views": 847848,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI 관련 내용이 있으나 AI 영상 제작 여부 명확하지 않음. AI 영상 제작 언급 없음.",
+        "kept": false
+      },
+      {
+        "title": "AI 제대로 쓰는 양주시 홍보영상 근황",
+        "channel": "짧주",
+        "views": 785374,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목에 AI 제대로 쓰는 양주시 홍보영상 근황이라 AI 영상임이 추정되나 설명에 AI 제작 여부 명확한 언급 없음.",
+        "kept": false
+      },
+      {
+        "title": "다들 결혼 결심 어떻게 하는지 말해보는 쇼츠 #shorts",
+        "channel": "사내뷰공업 beautyfool",
+        "views": 720024,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 일부 배경 이미지는 AI를 활용해 제작되었다고 명시되어 있어 AI 관련 영상임이 분명함.",
+        "kept": true
+      },
+      {
+        "title": "상견례 자리에서 사돈 무시했다가 제대로 참교육당한 시어머니 #사이다 #드라마",
+        "channel": "한컷극장",
+        "views": 692876,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI 제작 여부 언급 없고, 드라마 내용 중심으로 AI 영상 여부 불분명.",
+        "kept": false
+      },
+      {
+        "title": "수수한 평상복 차림으로 다니면 진짜 이래요? #시니어 #시니어쇼츠 #미니드라마 #쇼츠드라마",
+        "channel": "들려주고 싶은이야기",
+        "views": 627169,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI로 영상을 제작하였다고 명시되어 있어 AI 영상임이 분명함.",
+        "kept": true
+      },
+      {
+        "title": "시누이 시어머니 생신상까지 제가 차려야 해요? #시니어 #시니어드라마 #시니어쇼츠 #반전드라마 #감동드라마",
+        "channel": "이야기쿵",
+        "views": 619376,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI 숏드라마라고 명시되어 있어 AI 영상임이 분명함.",
+        "kept": true
+      },
+      {
+        "title": "보호안경의 중요성🤣 #Shorts #AI강아지 #AI고양이 #웃긴강아지",
+        "channel": "오늘도 다온하온 | Daon & Haon, Today Too ",
+        "views": 591580,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI 강아지, AI 고양이 태그 있으나 AI 영상 제작 여부 명확하지 않음.",
+        "kept": false
+      },
+      {
+        "title": "35년 식당 운영한 아버지를 부끄러워한 아들...아버지가 참았던 말",
+        "channel": "시니어행복연구소=사연극장",
+        "views": 418965,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI 기술을 활용해 제작한 영상이라고 명시되어 있어 AI 영상임이 분명함.",
+        "kept": true
+      },
+      {
+        "title": "💛원작 vs '그 말포이' 같은장면 랭킹 TOP3",
+        "channel": "랭킹고",
+        "views": 375640,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI영상 태그 있으나 AI 영상 제작 여부 명확하지 않음.",
+        "kept": false
+      },
+      {
+        "title": "[AI] 페이커잭슨을 목격 후 응급실로 실려간 제카 ㄷㄷ",
+        "channel": "롤요밍",
+        "views": 368774,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목에 [AI]가 있으나 설명에 AI 영상 제작 여부 명확한 언급 없음.",
+        "kept": false
+      },
+      {
+        "title": "깡패 잡던 부장검사가 할매 앞에 무릎 꿇은 이유 #shorts",
+        "channel": "그날의속사정",
+        "views": 352749,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI 영상 제작 관련 공식 라이선스 언급 있으나 AI 영상 제작 여부 명확하지 않음.",
+        "kept": false
+      },
+      {
+        "title": "골목길에서 사람을 때리면 안되는 이유 #ai #shorts #action #seedance",
+        "channel": "스튜디오 여름",
+        "views": 15369,
+        "slot": "도구 검색어",
+        "ai_made": "AI 무관",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목에 #ai 태그 있고 채널명이 AI 관련 이름이나 설명에 AI 영상 제작 여부 명확한 언급 없음.",
+        "kept": false
+      },
+      {
+        "title": "AI 의심받는 흑진주 모델?",
+        "channel": "케이뷰티매거진",
+        "views": 14888,
+        "slot": "도구 검색어",
+        "ai_made": "AI 무관",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목에 AI 의심받는 모델이라 AI 관련 내용이나 영상 제작 여부 명확하지 않음.",
+        "kept": false
+      },
+      {
+        "title": "Ai 디자인, 아직도 밤티 같나요? 👀 #higgsfield",
+        "channel": "디자이너지인",
+        "views": 9008,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 힉스필드라는 AI 영상·이미지 생성 도구 이름이 나오고 AI 영상 제작 과정 설명이 있어 AI 영상임이 분명함.",
+        "kept": true
+      },
+      {
+        "title": "힉스필드 젠주추 퀄리티!! 미녀들의 뺨때리기 대결 #tech #ai #review #higgsfieldgenjutsu",
+        "channel": "AI TECH LAB",
+        "views": 7471,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI TECH LAB이라는 채널명과 AI 관련 내용이 있어 AI 영상임이 분명함.",
+        "kept": true
+      },
+      {
+        "title": "니온#A2O LITE #NEON #수연이랑둘이서#우리도 ai#힉스필드",
+        "channel": "깜뎅이 써니샘 sunny dance ",
+        "views": 6816,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 설명에 힉스필드, AI 관련 태그가 있어 AI 영상임이 분명함.",
+        "kept": true
+      },
+      {
+        "title": "미친 조회수 뽑는 숏폼 공장 만드는 법 #higgsfieldai #higgsfield #claude #ai",
+        "channel": "게으른빌더",
+        "views": 4452,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 클로드와 힉스필드라는 AI 도구를 활용해 영상 제작 방법을 설명하고 있어 AI 영상임이 분명함.",
+        "kept": true
+      },
+      {
+        "title": "#힉스필드 #힉스필드젠스투 #Higgsfield #Genjutsu #ai영상",
+        "channel": "레쓸[LESEUL] ",
+        "views": 2150,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 설명에 힉스필드, AI 영상 태그가 있어 AI 영상임이 분명함.",
+        "kept": true
+      },
+      {
+        "title": "클로드 + 힉스필드로 AI 영상 AtoZ 가이드 #클로드 #ai영상 #claude #higgsfield #anthropic",
+        "channel": "지후",
+        "views": 1592,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 클로드, 힉스필드 등 AI 도구 이름이 나오고 AI 영상 제작 가이드임이 명확함.",
+        "kept": true
+      },
+      {
+        "title": "🌊 물의 왕자들 런웨이｜바다를 지배하는 다섯 왕자",
+        "channel": "💕 오늘도 웃고 울고",
+        "views": 1560,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI영상, AI아트, AI애니메이션 등 AI 관련 태그가 있고 AI 영상임이 분명함.",
+        "kept": true
+      },
+      {
+        "title": "천 년 뒤 고고학자가 발굴한 '하얀 그릇'의 정체 #햇반 #햇반AI공모전 #갓지은아이디어",
+        "channel": "비전공작소",
+        "views": 1528,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI 서비스로 힉스필드, 클링, 나노바나나 등 AI 영상·이미지 생성 도구 이름이 명시되어 있어 AI 영상임이 분명함.",
+        "kept": true
+      }
+    ]
+  },
+  "checks": [
+    {
+      "title": "SpaceXSI apparently cuts Grok Bot quotas weeks after Musk called it his fastest-growing product",
+      "source": "The Decoder",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "How to Make an Anime Series with AI on Higgsfield",
+      "source": "Higgsfield",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "초코 AI 영상 #1 지하철편 🐶",
+      "source": "YouTube",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "Ai 디자인, 아직도 밤티 같나요? 👀 #higgsfield",
+      "source": "YouTube",
+      "first_ok": true,
+      "first_problems": []
+    }
+  ]
+}

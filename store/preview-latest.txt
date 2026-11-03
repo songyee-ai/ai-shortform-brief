@@ -1,27 +1,27 @@
-🗞️ <b>AI 숏폼 아침 브리핑 · 11월 2일</b>
+🗞️ <b>AI 숏폼 아침 브리핑 · 11월 3일</b>
 
 <b>① 요즘 뜨는 AI 숏폼</b>
 
-<b>평생 김밥을 공짜로 나눠주던 할머니가 10년 후에 돌아온 이야기를 다룬 시니어 드라마</b> [작품]
-이 영상은 평생 김밥을 무료로 나눠주던 할머니가 10년 뒤에 다시 등장하는 반전 드라마를 담고 있으며, 50대에서 70대 시니어들의 공감과 인생 교훈을 주제로 한다.
-👉 오늘 부모님이나 시어머니와 함께 이 영상을 보며 세대 간 공감과 인생 교훈을 나눠보세요.
-<a href="https://www.youtube.com/watch?v=N2wOzqYUkDM">훈작가의 숏드라마 · 조회 1,339,343</a>
+<b>초코 AI 영상 #1 지하철편, AI로 만든 강아지 출근길 지하철 등장 영상</b> [밈]
+정씨 집안 막내 강아지 정초코가 출근길 지하철역에 나타나는 모습을 AI로 제작한 영상입니다.
+👉 AI로 만든 강아지 영상을 참고해 나만의 AI 숏폼 영상을 만들어 보세요.
+<a href="https://www.youtube.com/watch?v=Dr9iLxBZKA4">어디든 초코 · 조회 1,263,361</a>
 
-<b>아스트라, 블렌더, 힉스필드를 활용해 AI 영상 제작 비용을 절감하는 방법</b> [정보 전달]
-영상은 아스트라, 블렌더, 힉스필드라는 도구를 사용해 AI 영상 제작 비용을 절반으로 줄이는 방법을 소개한다.
-👉 아스트라, 블렌더, 힉스필드를 조합해 AI 영상 제작 비용을 절감하는 방법을 시도해 보세요.
-<a href="https://www.youtube.com/watch?v=bCApG4JdwiE">브랜드 도적단 / 반토막AI · 조회 16,505</a>
+<b>AI 디자인 도구 힉스필드 플러그인으로 음료 로고와 캔 목업을 활용한 홍보물 제작</b> [정보 전달]
+디자이너지인 채널에서 힉스필드 플러그인을 챗GPT에 연결해 직접 디자인한 음료 로고와 캔 목업 사진을 넣어 포스터와 영상 홍보물을 자동으로 제작하는 과정을 보여준다. 패키지 디자인을 살리면서 광고 문구도 자동 생성된다.
+👉 직접 디자인한 이미지로 힉스필드 플러그인을 활용해 홍보용 포스터나 영상을 만들어 보세요.
+<a href="https://www.youtube.com/watch?v=5-jvFeXPQB0">디자이너지인 · 조회 9,008</a>
 
 <b>② 제작 도구 소식</b>
 
-<b>Adobe Research와 UC San Diego가 전문 사진 편집가처럼 도구를 활용하는 AI 에이전트 EditAgent 개발</b>
-EditAgent는 이미지 편집 작업을 세분화해 일반 편집기와 특화 도구를 조합하고, 표준 언어 모델이 편집 결과를 수치로 평가해 최적 결과를 선택한다. 기존 AI 에이전트보다 정확도가 높지만 계산 비용이 10배 이상 필요하며, 검증된 결과는 빠른 편집기 학습용 데이터로 활용된다.
-👉 무료 또는 저렴한 AI 편집 도구를 활용하는 창작자는 EditAgent가 제시하는 단계별 도구 선택과 결과 평가 방식을 참고해 편집 작업의 정확도를 높여 보세요.
-<a href="https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/">The Decoder</a>
+<b>SpaceX, Grok Bot 사용 한도 절반으로 축소</b>
+SpaceX가 Grok Bot의 사용 한도를 주말 사이에 절반으로 줄인 것으로 알려졌다. 일론 머스크는 운영 비용이 수익에 비해 지속 불가능하게 높다고 언급했으며, 일부 사용자는 새 할당량을 받기까지 며칠을 기다려야 했다. Grok Bot은 웹사이트 탐색, 이메일 답변, 계정 로그인 기능을 제공하며, Grok 및 코딩 플랫폼 Cursor와 할당량을 공유한다.
+👉 오늘 Grok Bot 사용량을 확인하고 필요하면 더 큰 구독 옵션을 고려해 보세요.
+<a href="https://the-decoder.com/spacexsi-apparently-cuts-grok-bot-quotas-weeks-after-musk-called-it-his-fastest-growing-product/">The Decoder</a>
 
-<b>OpenAI, ChatGPT 내 Chat과 Work 기능 통합하며 사용량 제한 방식 변경</b>
-OpenAI가 ChatGPT의 Chat과 Work 기능을 통합해 Plus, Pro, Business 요금제에서 토큰 예산을 공유하도록 변경한다. 토큰은 모델이 처리하는 정보량을 측정하며, 예산 초과 시 대기하거나 업그레이드, 추가 크레딧 구매가 필요하다. Instant 모델 사용 시 토큰 예산에 포함되지 않는다.
-👉 ChatGPT 설정에서 남은 토큰 예산과 리셋 시간을 확인해 사용량을 관리해 보세요.
-<a href="https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/">The Decoder</a>
+<b>Higgsfield AI 도구로 애니메이션 시리즈 제작하는 방법</b>
+Higgsfield의 Soul 2.0, Cinema Studio 4.0, Genjutsu를 활용해 AI 애니메이션 시리즈를 만들려면 스토리, 캐릭터, 시각 스타일, 샷, 사운드, 편집이 일관되게 유지되어야 한다. Soul 2.0으로 캐릭터와 장면의 참조 이미지를 생성하고, Cinema Studio 4.0에서 이를 움직이는 샷으로 발전시키며, Genjutsu로 기존 영상을 애니메 스타일로 변환할 수 있다.
+👉 오늘 Soul 2.0으로 캐릭터와 장면의 애니메 참조 이미지를 만들어 보세요.
+<a href="https://higgsfield.ai/blog/how-to-make-anime-series-with-ai">Higgsfield</a>
 
 <i>영상은 제목·설명만 보고 요약했습니다. 모든 요약은 원문과 AI 대조 검수를 통과했습니다.</i>
