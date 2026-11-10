@@ -45,7 +45,9 @@ SENT = Path("store/sent.jsonl")      # 발행 노드가 보낸 주소를 한 줄
 CACHE = Path("store/collected-latest.json")   # 마지막 수집 결과. --reuse 로 다시 쓴다
 HOURS = {1: 72}                      # tier별 수집 기간. 소스에 hours가 있으면 그것, 둘 다 없으면 State의 hours(기본 24)
 MODEL = "gpt-4.1-mini"
-GEMINI_MODEL, GEMINI_URL = "gemini-3.8-flash", "https://generativelanguage.googleapis.com/v1beta/openai/"   # 무료 한도는 AI Studio 한도 화면에서 본다
+GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/openai/"   # 무료 한도는 AI Studio 한도 화면에서 본다
+# 안정판 Flash → 붐비면 Flash-Lite. 신규 3.8-flash는 11-10 시험에서 첫 호출부터 503(수요 폭주)이었다
+GEMINI_MODELS = ("gemini-3.6-flash", "gemini-3.5-flash-lite")
 MIN_BODY, BODY_LIMIT = 600, 6000     # 본문이 600자는 있어야 요약한다 / 요약에 넘기는 최대 길이
 BATCH, PASS = 12, 4                  # 기사 예선: 12건씩 묶어 4건씩 통과 → 하루 30~40건이면 묶음 3개, 본선 12건 안팎
 # 영상 예선: 조회수 상위 20 + 도구 검색어로 찾은 영상 중 조회수 상위 10 → 본선(LLM 판정)
@@ -259,26 +261,27 @@ def load_audience(path="audience.yaml"):
 def llm():
     from openai import OpenAI
     # GEMINI_API_KEY가 있으면 Gemini 무료 등급을 OpenAI 호환 주소로 부른다. OpenAI 크레딧이 떨어져 11-04~11-09 브리핑이 멈췄다
-    common = {"default_headers": {"Accept-Encoding": "gzip, deflate"}, "max_retries": 1}
+    common = {"default_headers": {"Accept-Encoding": "gzip, deflate"}}
     key = os.environ.get("GEMINI_API_KEY")
     if key:     # Gemini 3은 추론을 끌 수 없어 느리다 — 11-10 시험에서 60초 안에 첫 응답이 오지 않았다
-        return OpenAI(base_url=GEMINI_URL, api_key=key, timeout=180, **common)
-    return OpenAI(timeout=60, **common)
+        return OpenAI(base_url=GEMINI_URL, api_key=key, timeout=180, max_retries=0, **common)   # 재시도는 ask()가 맡는다
+    return OpenAI(timeout=60, max_retries=1, **common)
 
 
 def ask(client, **kw):
-    from openai import RateLimitError
-    if client.base_url.host != "api.openai.com":
-        kw = {"model": GEMINI_MODEL, "reasoning_effort": "low", **kw}   # 고르기·요약·검수에는 긴 추론이 필요 없다
-    else:
-        kw = {"model": MODEL, **kw}
-    for wait in (30, 60, None):     # 무료 등급은 분당 호출 수가 적다 → 1분 창이 지나도록 기다렸다 다시. 하루 한도면 세 번째에 그대로 실패
-        try:
-            return client.chat.completions.parse(temperature=0, **kw)
-        except RateLimitError:
-            if wait is None:
-                raise
-            time.sleep(wait)
+    if client.base_url.host == "api.openai.com":
+        return client.chat.completions.parse(model=MODEL, temperature=0, **kw)
+    from openai import InternalServerError, RateLimitError
+    # 무료 등급은 분당 호출 수가 적고(429) 붐비면 밀린다(503) → 모델을 바꿔 보고, 둘 다 안 되면 기다렸다 다시
+    # 고르기·요약·검수에는 긴 추론이 필요 없어 reasoning_effort를 낮춘다
+    for wait in (0, 30, 60):
+        time.sleep(wait)
+        for model in GEMINI_MODELS:
+            try:
+                return client.chat.completions.parse(model=model, reasoning_effort="low", temperature=0, **kw)
+            except (RateLimitError, InternalServerError) as exc:
+                last = exc
+    raise last
 
 
 def criteria(a):

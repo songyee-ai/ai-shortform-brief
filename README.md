@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 프로젝트 폴더에 `.env`를 만들고 키 네 개를 넣습니다. `.env`는 깃에 올라가지 않습니다.
 
-LLM은 `GEMINI_API_KEY`가 있으면 Gemini 무료 등급(`gemini-3.8-flash`)으로, 없으면 `OPENAI_API_KEY`로 부릅니다. Gemini 키는 Google AI Studio에서 무료로 받고, `OPENAI_API_KEY` 줄 대신 넣으면 됩니다.
+LLM은 `GEMINI_API_KEY`가 있으면 Gemini 무료 등급(`gemini-3.6-flash`, 붐비면 `gemini-3.5-flash-lite`)으로, 없으면 `OPENAI_API_KEY`로 부릅니다. Gemini 키는 Google AI Studio에서 무료로 받고, `OPENAI_API_KEY` 줄 대신 넣으면 됩니다.
 
 ```
 YOUTUBE_API_KEY=...
