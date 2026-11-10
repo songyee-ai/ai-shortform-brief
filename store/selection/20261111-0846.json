@@ -1,0 +1,540 @@
+{
+  "tools": {
+    "batches": [
+      {
+        "batch": 1,
+        "size": 12,
+        "passed": [
+          "Show HN: Emma, a real-time AI video persona from Nuance Labs",
+          "Inside Munira Alkharraz’s Filmmaking Process With Higgsfield",
+          "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+          "Gemini Intelligence: New features, on more devices"
+        ],
+        "dropped": [
+          "Pay for Hugging Face Hub with your Google Cloud Account",
+          "8 Best CapCut Alternatives for AI Videos in 2026",
+          "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions",
+          "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+          "Microsoft patent: turning idle gaming GPUs into paid AI training hardware",
+          "Decision Models in Hugging Face",
+          "Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes",
+          "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI"
+        ]
+      },
+      {
+        "batch": 2,
+        "size": 12,
+        "passed": [
+          "Seedream 5.5 on Higgsfield AI: Features, Settings, and Pricing",
+          "How to Make Ecommerce Video Ads with AI (Full Guide)",
+          "Best AI Tools for Consistent Characters in 2026",
+          "Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet"
+        ],
+        "dropped": [
+          "Google Cloud launches Gemini for healthcare.",
+          "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+          "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
+          "What happens to mathematics when AI becomes an oracle?",
+          "Protesters slam AI after entering Microsoft data centre site",
+          "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+          "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+          "Show HN: My first project, an AI-powered financial news analyzer"
+        ]
+      },
+      {
+        "batch": 3,
+        "size": 9,
+        "passed": [
+          "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
+          "Inside Higgsfield #3: How We Built Higgsfield Originals",
+          "Eight countries and top AI labs agree to shutdown mechanisms in new Paris declaration",
+          "Anthropic's Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago"
+        ],
+        "dropped": [
+          "Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot",
+          "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+          "Higgsfield AI vs Adobe Firefly: Features and Pricing Compared",
+          "10 Best AI Video Tools for Marketing Teams in 2026",
+          "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation"
+        ]
+      }
+    ],
+    "survivors": 12,
+    "final_skipped": [
+      {
+        "title": "How to Make Ecommerce Video Ads with AI (Full Guide)",
+        "why": "Higgsfield 하루 상한"
+      },
+      {
+        "title": "Show HN: Emma, a real-time AI video persona from Nuance Labs",
+        "why": "본문 부족(39자)"
+      },
+      {
+        "title": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
+        "why": "본문 부족(164자)"
+      },
+      {
+        "title": "Inside Munira Alkharraz’s Filmmaking Process With Higgsfield",
+        "why": "Higgsfield 하루 상한"
+      },
+      {
+        "title": "Inside Higgsfield #3: How We Built Higgsfield Originals",
+        "why": "Higgsfield 하루 상한"
+      },
+      {
+        "title": "Best AI Tools for Consistent Characters in 2026",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Eight countries and top AI labs agree to shutdown mechanisms in new Paris declaration",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Anthropic's Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago",
+        "why": "본선 탈락"
+      }
+    ],
+    "chosen": [
+      {
+        "title": "Seedream 5.5 on Higgsfield AI: Features, Settings, and Pricing",
+        "event": "Higgsfield Seedream 5.5 출시",
+        "reason": "AI 영상 제작 플랫폼 Higgsfield에 새로 추가된 Seedream 5.5의 주요 기능과 세팅, 가격 정보는 창작자가 바로 활용하기 좋은 최신 소식입니다."
+      },
+      {
+        "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+        "event": "Google Gemini 및 Adobe 툴 연동",
+        "reason": "구글 Gemini 앱과 Adobe 생성형 AI 툴의 연동 강화 소식은 이미지/영상 작업 흐름을 단순화하는 데 도움을 줍니다."
+      },
+      {
+        "title": "Gemini Intelligence: New features, on more devices",
+        "event": "Google Gemini 신규 기능 업데이트",
+        "reason": "모바일 등 다양한 기기에서 사용할 수 있는 구글 Gemini의 새 기능 업데이트 소식입니다."
+      }
+    ]
+  },
+  "trend": {
+    "prelim": 30,
+    "unlabeled": 0,
+    "meme_rule_fixed": 1,
+    "info_rule_fixed": 0,
+    "chosen": [
+      {
+        "title": "진상손님에게 당하지않는 현명한 택시기사님 #시니어드라마 #ai드라마 #시니어공감",
+        "channel": "웃음가득",
+        "views": 1635713,
+        "genre": "작품",
+        "reason": "제목의 '#ai드라마' 태그에서 AI로 만들었음을 밝힘."
+      },
+      {
+        "title": "챗GPT 플러그인 역대급 TOP5, 이 다섯 개면 나만의 마케팅팀",
+        "channel": "트렌드코어 TRENDCORE",
+        "views": 1984,
+        "genre": "정보 전달",
+        "reason": "힉스필드 등 챗GPT 플러그인과 AI 마케팅 도구 사용법을 소개함."
+      }
+    ],
+    "labels": [
+      {
+        "title": "진상손님에게 당하지않는 현명한 택시기사님 #시니어드라마 #ai드라마 #시니어공감",
+        "channel": "웃음가득",
+        "views": 1635713,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목의 '#ai드라마' 태그에서 AI로 만들었음을 밝힘.",
+        "kept": true
+      },
+      {
+        "title": "기차에서 할머니 자리 뺏은 무개념 여성의 최후 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "훈작가의 숏드라마",
+        "views": 1504709,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목의 '#AI가상인물' 태그에서 AI로 만듦을 명시함.",
+        "kept": true
+      },
+      {
+        "title": "쏟아지는 트럼프 조롱 밈 #shorts / YTN",
+        "channel": " YTN",
+        "views": 1369661,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "트럼프 관련 인터넷 밈을 보도하는 YTN 뉴스 쇼츠로, AI 제작 근거 없음.",
+        "kept": false
+      },
+      {
+        "title": "\"게임 화면인 줄 알았네\" 조종사 움직임까지 담긴 KF-21｜ TJB 대전·세종·충남뉴스",
+        "channel": "TJB NEWS",
+        "views": 1351510,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "사천에어쇼 KF-21 영상이 AI로 오해받았다는 뉴스 내용을 다룸.",
+        "kept": false
+      },
+      {
+        "title": "할머니한테 똑같이 혼난 두 아이, 두 부모가 보인 전혀 다른 반응 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "훈작가의 숏드라마",
+        "views": 1218528,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목의 '#AI가상인물' 태그에서 AI로 만듦을 나타냄.",
+        "kept": true
+      },
+      {
+        "title": "기물 파손하고 도망간 사람 봐줬더니 생긴 일 #ai드라마 #drama #반전드라마 #감동",
+        "channel": "스낵단편",
+        "views": 1036913,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명의 '이 영상은 AI로 제작한 허구의 이야기입니다' 문구에서 AI 제작임을 밝힘.",
+        "kept": true
+      },
+      {
+        "title": "상견례에서 사돈을 직원 취급한 시어머니 | 밥은 잘하겠네",
+        "channel": "DENO PICTURES",
+        "views": 954191,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명의 'DenoVerse의 AI 창작 드라마입니다'에서 AI 제작을 명시함.",
+        "kept": true
+      },
+      {
+        "title": "😻트럼프 때문에 또 난리 났다? 😳 세계 정상들의 뜻밖의 모습💥💥💥",
+        "channel": "트로트 힐링TV",
+        "views": 816714,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명의 '이 영상은 AI로 제작된 풍자·엔터테인먼트 콘텐츠입니다'에서 AI 제작을 밝힘.",
+        "kept": true
+      },
+      {
+        "title": "\"제발 AI 아니라고 해줘\"…26살 물범 '낙엽놀이' 영상에 반전이 / 연합뉴스 (Yonhapnews)",
+        "channel": "연합뉴스 Yonhapnews",
+        "views": 791806,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "물범 영상이 너무 귀여워서 사람들이 'AI 아니라고 해줘'라고 반응한 실제 동물을 다룬 뉴스 보도.",
+        "kept": false
+      },
+      {
+        "title": "GENER8ION – STORM | 페이커 버전 AI 팬메이드",
+        "channel": "나사식 연구소",
+        "views": 629372,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": true,
+        "info_rule": false,
+        "reason": "제목의 '페이커 버전 AI 팬메이드' 및 설명의 'AI 영상을 만들어봤습니다'에서 AI 제작을 밝힘.",
+        "kept": true
+      },
+      {
+        "title": "만원짜리 수육에 트집 잡던 손님이 돈봉투를 꺼낸 이유 #shorts  #drama #드라마",
+        "channel": "그날의속사정",
+        "views": 627419,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명의 'MiniMax H3 영상 생성 모델... AI 창작 드라마입니다'에서 AI 제작을 명시함.",
+        "kept": true
+      },
+      {
+        "title": "결혼식 날 사돈 앞에서 시어머니가 말했다 \"집은 우리 아들이 다 해 왔잖아\" | 몸만 온 며느리",
+        "channel": "DENO PICTURES",
+        "views": 535629,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "근거 없음",
+        "kept": false
+      },
+      {
+        "title": "키스캠부터 김치 따귀까지…'불륜 고백' 젠슨 황 SNS 밈 도배 / KNN",
+        "channel": "KNN NEWS",
+        "views": 524521,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "젠슨 황의 밈 현상을 보도하는 뉴스 내용으로, AI 관련 직접적 언급 없음.",
+        "kept": false
+      },
+      {
+        "title": "스님 죄송합니다.. ㅋㅋㅋ #shorts #쇼츠 #ai강아지 #시바견 #아재개그 #사찰 #웃긴영상",
+        "channel": "매일 빡치는 아재 시보😅",
+        "views": 427205,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 설명의 '#ai강아지' 태그에서 AI 제작 요소임을 표시함.",
+        "kept": true
+      },
+      {
+        "title": "남편이 다른 여자에게 준 스카프의 반전비밀 #시니어쇼츠 #반전드라마",
+        "channel": "막장두스푼",
+        "views": 406408,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명의 '본 영상은 AI를 활용한 허구의 창작'에서 AI 제작을 밝힘.",
+        "kept": true
+      },
+      {
+        "title": "트럼프 결혼식에 틀면 안 되는 노래",
+        "channel": "MuskLab",
+        "views": 388767,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명의 '이 AI 결혼식 패러디에 넣은 곡은...'에서 AI 제작을 밝힘.",
+        "kept": true
+      },
+      {
+        "title": "'원점' 쇼츠에서 난리 났던 그 아가씨, 풀버전 공개... #트로트",
+        "channel": "그때트로트",
+        "views": 371952,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명의 '보컬: AI 가수 윤현진', 'AI 기술을 접목하여 직접 기획·제작' 문구에서 AI 제작을 알림.",
+        "kept": true
+      },
+      {
+        "title": "'이 순간을 기다렸다' 트럼프 향한 조롱...합성 아닌 실제 사진도 [자막뉴스] / YTN",
+        "channel": " YTN",
+        "views": 367635,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "트럼프 조롱 밈 및 레이저 퍼포먼스를 다룬 뉴스 보도로 AI 제작 근거 없음.",
+        "kept": false
+      },
+      {
+        "title": "[온마이크] 트럼프·공화당 중간선거 패배…쏟아진 조롱 '밈' / 연합뉴스TV (YonhapnewsTV)",
+        "channel": "연합뉴스TV",
+        "views": 341884,
+        "slot": "조회수",
+        "ai_made": "AI를 다룸",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "미국 중간선거 패배 후 트럼프를 조롱하는 AI 콘텐츠(생성 영상) 밈에 대해 다루는 뉴스.",
+        "kept": false
+      },
+      {
+        "title": "칠백 원뿐인 지갑을 들고 마지막 완행열차에 오른 청년",
+        "channel": "연두빛인생사연",
+        "views": 334086,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명의 '이 영상은 AI로 제작한 창작 드라마입니다'에서 AI 제작을 밝힘.",
+        "kept": true
+      },
+      {
+        "title": "챗GPT 플러그인 역대급 TOP5, 이 다섯 개면 나만의 마케팅팀",
+        "channel": "트렌드코어 TRENDCORE",
+        "views": 1984,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "힉스필드 등 챗GPT 플러그인과 AI 마케팅 도구 사용법을 소개함.",
+        "kept": true
+      },
+      {
+        "title": "분야별 AI 최강 — 2026년 11월편 (유료)",
+        "channel": "Solostack",
+        "views": 1856,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "유료 AI 도구들의 분야별 1위 순위 및 성능을 설명함.",
+        "kept": true
+      },
+      {
+        "title": "⭐ 한로로- 사랑하게 될 거야 (명곡 AI MV)",
+        "channel": "안젤로 ANGELO",
+        "views": 1726,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 설명의 '[명곡 AI MV]... 팬이 제작한 AI MV 영상'에서 AI 제작임을 명시함.",
+        "kept": true
+      },
+      {
+        "title": "죽은 남친이 입사했다 EP.3 PART 1 | AI 숏드라마",
+        "channel": "서재온 JAEON",
+        "views": 1689,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명의 'AI로 제작한 허구의 드라마... 제작 도구: Higgsfield · Kling 4.0'에서 AI 제작을 명시함.",
+        "kept": true
+      },
+      {
+        "title": "아니 거 말로 합시다 말로...!",
+        "channel": "구니까효 [9NICCAHYO]",
+        "views": 1675,
+        "slot": "도구 검색어",
+        "ai_made": "AI 무관",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목/설명의 태그에 AI 생성을 명시한 바 없음.",
+        "kept": false
+      },
+      {
+        "title": "힉스필드가 LUT까지 만들어 줍니다 #힉스필드",
+        "channel": "크레용팜 Creyongfarm",
+        "views": 1628,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "AI 도구인 힉스필드(Higgsfield) 플러그인 사용법을 소개함.",
+        "kept": true
+      },
+      {
+        "title": "힉스필드 숏폼 제작 노하우(feat.아이언맨 프롬프트 제공)",
+        "channel": "나는브랜드다 최범석",
+        "views": 1527,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "AI 영상 도구인 힉스필드 사용법 및 노하우를 전달함.",
+        "kept": true
+      },
+      {
+        "title": "영상판 포토샵이 나왔습니다… 찍은 영상, 다시 안 찍고 고친다 (힉스필드 미라클)",
+        "channel": "디자인 엔지니어",
+        "views": 1489,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "AI 영상 도구 힉스필드의 새 기능 '미라클' 소식 및 사용법을 해설함.",
+        "kept": true
+      },
+      {
+        "title": "염이 힉스필드 동영상",
+        "channel": "사주팔자 신살",
+        "views": 1432,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "챗GPT와 힉스필드로 AI 캐릭터 영상을 제작했음을 설명함.",
+        "kept": false
+      },
+      {
+        "title": "AI 영상 맡기면 비싸죠? 클로드로 2개 뽑았습니다 #힉스필드 #Shorts",
+        "channel": "쫑대표의 딸깍일기",
+        "views": 1406,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "AI 영상 생성 도구 Higgsfield Katana와 클로드를 활용해 영상 만드는 법을 다룸.",
+        "kept": true
+      }
+    ]
+  },
+  "checks": [
+    {
+      "title": "Seedream 5.5 on Higgsfield AI: Features, Settings, and Pricing",
+      "source": "Higgsfield",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "source": "Google AI",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "Gemini Intelligence: New features, on more devices",
+      "source": "Google AI",
+      "first_ok": false,
+      "first_problems": [
+        "why 항목에서 프롬프트 맞춤 위젯 제작 기능과 음성 텍스트 변환 도구가 영상 제작 작업 흐름을 단축해 줄지 확인해 보라고 하였으나, 근거에는 영상 제작과 관련된 내용이 없습니다."
+      ],
+      "rewritten": true,
+      "final_ok": true,
+      "final_problems": []
+    },
+    {
+      "title": "진상손님에게 당하지않는 현명한 택시기사님 #시니어드라마 #ai드라마 #시니어공감",
+      "source": "YouTube",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "챗GPT 플러그인 역대급 TOP5, 이 다섯 개면 나만의 마케팅팀",
+      "source": "YouTube",
+      "first_ok": true,
+      "first_problems": []
+    }
+  ]
+}
