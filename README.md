@@ -36,8 +36,6 @@ pip install -r requirements.txt
 
 프로젝트 폴더에 `.env`를 만들고 키 네 개를 넣습니다. `.env`는 깃에 올라가지 않습니다.
 
-LLM은 `GITHUB_MODELS_TOKEN`이 있으면 GitHub Models(무료)로, 없으면 `OPENAI_API_KEY`로 부릅니다. 로컬에서 무료로 쓰려면 `OPENAI_API_KEY` 대신 `GITHUB_MODELS_TOKEN=`에 `gh auth token` 값을 넣습니다.
-
 ```
 YOUTUBE_API_KEY=...
 OPENAI_API_KEY=...
@@ -53,4 +51,4 @@ python run.py
 
 ## 매일 자동 실행
 
-`.github/workflows/daily-brief.yml`이 매일 한국 시간 07:30에 `run.py --send`를 실행하고, 보낸 목록과 실행 기록을 저장소에 다시 커밋합니다. 저장소 Settings → Secrets and variables → Actions에 `YOUTUBE_API_KEY`·`TELEGRAM_BOT_TOKEN`·`TELEGRAM_CHAT_ID`를 같은 이름으로 등록해야 합니다. LLM은 Actions가 주는 `GITHUB_TOKEN`으로 GitHub Models를 부르므로 OpenAI 키가 필요 없습니다. 전송이 실패하면 기록은 남기고 실행은 실패로 끝나서 GitHub 알림으로 알 수 있습니다.
+`.github/workflows/daily-brief.yml`이 매일 한국 시간 07:30에 `run.py --send`를 실행하고, 보낸 목록과 실행 기록을 저장소에 다시 커밋합니다. 저장소 Settings → Secrets and variables → Actions에 위 키 네 개를 같은 이름으로 등록해야 합니다. 전송이 실패하면 기록은 남기고 실행은 실패로 끝나서 GitHub 알림으로 알 수 있습니다.
