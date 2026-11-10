@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write             # 보낸 목록·실행 기록을 저장소에 다시 커밋한다
+  models: read                # GitHub Models를 GITHUB_TOKEN으로 부른다 (OpenAI 결제 없이)
 
 concurrency:
   group: daily-brief          # 두 번 겹쳐 돌면 같은 소식을 두 번 보낼 수 있어 하나씩만
@@ -29,7 +30,7 @@ jobs:
       - name: 브리핑 실행·전송
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GITHUB_MODELS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python -B run.py --send
