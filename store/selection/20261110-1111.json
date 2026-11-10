@@ -1,0 +1,502 @@
+{
+  "tools": {
+    "batches": [
+      {
+        "batch": 1,
+        "size": 12,
+        "passed": [
+          "Bytedance's Seedream 5.5 promises pixel-stable image editing across 100 rounds without color drift",
+          "Inside Higgsfield #3: How We Built Higgsfield Originals",
+          "Show HN: Emma, a real-time AI video persona from Nuance Labs",
+          "Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO"
+        ],
+        "dropped": [
+          "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+          "Best AI Tools for Consistent Characters in 2026",
+          "Claude Code is accidentally exposing secrets all over GitHub",
+          "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+          "Higgsfield AI vs Adobe Firefly: Features and Pricing Compared",
+          "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do",
+          "Nvidia CEO's affair becomes a national security problem",
+          "Protesters slam AI after entering Microsoft data centre site"
+        ]
+      },
+      {
+        "batch": 2,
+        "size": 9,
+        "passed": [
+          "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
+          "Disney bets on Adobe's Firefly to create brand-safe AI models for its entertainment empire",
+          "Google ships four TPU variants in one year as it ramps up competition with Nvidia",
+          "Tencent's AI chief says AI bioweapons are coming, but closing off models isn't the answer"
+        ],
+        "dropped": [
+          "Show HN: My first project, an AI-powered financial news analyzer",
+          "10 Best AI Video Tools for Marketing Teams in 2026",
+          "12 Best Affordable AI Video Generators in 2026 (Pricing Compared)",
+          "Best AI Animation Platforms in 2026",
+          "Nvidia espionage scandal weakens Huang's lobby against tighter AI chip export controls"
+        ]
+      }
+    ],
+    "survivors": 8,
+    "final_skipped": [
+      {
+        "title": "Disney bets on Adobe's Firefly to create brand-safe AI models for its entertainment empire",
+        "why": "The Decoder 하루 상한"
+      },
+      {
+        "title": "Inside Higgsfield #3: How We Built Higgsfield Originals",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Show HN: Emma, a real-time AI video persona from Nuance Labs",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Google ships four TPU variants in one year as it ramps up competition with Nvidia",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Tencent's AI chief says AI bioweapons are coming, but closing off models isn't the answer",
+        "why": "본선 탈락"
+      }
+    ],
+    "chosen": [
+      {
+        "title": "Bytedance's Seedream 5.5 promises pixel-stable image editing across 100 rounds without color drift",
+        "event": "seedream_5.5",
+        "reason": "바이트댄스가 색상 틀어짐 없이 100번 수정 가능한 이미지 편집 모델을 공개해 숏폼 이미지 제작에 유용합니다."
+      },
+      {
+        "title": "Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO",
+        "event": "claude_5.2",
+        "reason": "앤스로픽이 무료로 사용할 수 있는 고성능 모델을 출시하여 숏폼 기획에 활용할 수 있습니다."
+      }
+    ]
+  },
+  "trend": {
+    "prelim": 30,
+    "unlabeled": 0,
+    "meme_rule_fixed": 1,
+    "info_rule_fixed": 0,
+    "chosen": [
+      {
+        "title": "[실화 바탕] 60대 부부를 태운 대리기사가 끝내 눈물을 흘린 이유 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "훈작가의 숏드라마",
+        "views": 2471030,
+        "genre": "작품",
+        "reason": "제목과 태그에 #AI가상인물 #시니어드라마 등이 포함되어 AI로 만든 드라마 영상임을 알 수 있다."
+      },
+      {
+        "title": "힉스필드보다 쉬운 AI 자동화 채팅으로 끝내는 바이럴 숏폼 제작 Magnific X GPT-6 Astra",
+        "channel": "패스트캠퍼스",
+        "views": 2615,
+        "genre": "정보 전달",
+        "reason": "제목과 설명에 Magnific X GPT 등 AI 툴을 활용한 숏폼 제작 워크플로우를 다루고 있다."
+      }
+    ],
+    "labels": [
+      {
+        "title": "[실화 바탕] 60대 부부를 태운 대리기사가 끝내 눈물을 흘린 이유 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "훈작가의 숏드라마",
+        "views": 2471030,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 태그에 #AI가상인물 #시니어드라마 등이 포함되어 AI로 만든 드라마 영상임을 알 수 있다.",
+        "kept": true
+      },
+      {
+        "title": "진상손님에게 당하지않는 현명한 택시기사님 #시니어드라마 #ai드라마 #시니어공감",
+        "channel": "웃음가득",
+        "views": 1545617,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 설명에 #ai드라마 #시니어드라마 등이 포함되어 AI로 만든 영상이다.",
+        "kept": true
+      },
+      {
+        "title": "FA 제우스의 행선지는? #제우스 #롤 #월즈",
+        "channel": "롤 비하인드",
+        "views": 1393450,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 원본은 중국의 빌리빌리게이밍 ai 영상을 활용하였다고 밝히고 있다.",
+        "kept": false
+      },
+      {
+        "title": "신민아가 잘나갈수록 알바니 부인이 분노하는 이유 #재혼황후 #디즈니플러스",
+        "channel": "패션 명탐정",
+        "views": 1393070,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "근거 없음",
+        "kept": false
+      },
+      {
+        "title": "기차에서 할머니 자리 뺏은 무개념 여성의 최후 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "훈작가의 숏드라마",
+        "views": 1342787,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 태그에 #AI가상인물 #시니어드라마 등이 포함되어 AI로 만든 드라마 영상이다.",
+        "kept": true
+      },
+      {
+        "title": "할머니한테 똑같이 혼난 두 아이, 두 부모가 보인 전혀 다른 반응 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "훈작가의 숏드라마",
+        "views": 1090236,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 태그에 #AI가상인물 #시니어드라마 등이 포함되어 AI로 만든 드라마 영상이다.",
+        "kept": true
+      },
+      {
+        "title": "쏟아지는 트럼프 조롱 밈 #shorts / YTN",
+        "channel": " YTN",
+        "views": 1037414,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "근거 없음",
+        "kept": false
+      },
+      {
+        "title": "기물 파손하고 도망간 사람 봐줬더니 생긴 일 #ai드라마 #drama #반전드라마 #감동",
+        "channel": "스낵단편",
+        "views": 1004544,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 이 영상은 AI로 제작한 허구의 이야기라고 명시되어 있다.",
+        "kept": true
+      },
+      {
+        "title": "폐업 마지막 날까지 찾아온 할머니, 마지막 한마디에 사장이 오열한 이유 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "훈작가의 숏드라마",
+        "views": 904282,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 태그에 #AI가상인물 #시니어드라마 등이 포함되어 AI로 만든 드라마 영상이다.",
+        "kept": true
+      },
+      {
+        "title": "지하철에 거대 치와와가 나타났다?! 😱🐶 | AI Kkomi",
+        "channel": "꼬미랑 Kkomi🐾",
+        "views": 856154,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 이 영상은 AI로 제작한 상상 속 꼬미의 이야기라고 명시되어 있다.",
+        "kept": true
+      },
+      {
+        "title": "웃음참기 절대 불가능한 댄스 챌린지 3탄 ㅋㅋㅋㅋ",
+        "channel": "벙구",
+        "views": 800048,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "근거 없음",
+        "kept": false
+      },
+      {
+        "title": "\"제발 AI 아니라고 해줘\"…26살 물범 '낙엽놀이' 영상에 반전이 / 연합뉴스 (Yonhapnews)",
+        "channel": "연합뉴스 Yonhapnews",
+        "views": 782077,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "근거 없음",
+        "kept": false
+      },
+      {
+        "title": "😻트럼프 때문에 또 난리 났다? 😳 세계 정상들의 뜻밖의 모습💥💥💥",
+        "channel": "트로트 힐링TV",
+        "views": 729016,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 이 영상은 AI로 제작된 풍자·엔터테인먼트 콘텐츠라고 명시되어 있다.",
+        "kept": true
+      },
+      {
+        "title": "졸업식 일주일 전 분교에 온 남자가 풍금을 다 뜯은 이유",
+        "channel": "연두빛인생사연",
+        "views": 727398,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 이 영상은 AI로 제작한 창작 드라마라고 명시되어 있다.",
+        "kept": true
+      },
+      {
+        "title": "상견례에서 사돈을 직원 취급한 시어머니 | 밥은 잘하겠네",
+        "channel": "DENO PICTURES",
+        "views": 698387,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 DenoVerse의 AI 창작 드라마라고 명시되어 있다.",
+        "kept": true
+      },
+      {
+        "title": "🔥재혼황후가 호불호 갈리는 이유?",
+        "channel": "핫치타",
+        "views": 557692,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "근거 없음",
+        "kept": false
+      },
+      {
+        "title": "만원짜리 수육에 트집 잡던 손님이 돈봉투를 꺼낸 이유 #shorts  #drama #드라마",
+        "channel": "그날의속사정",
+        "views": 539309,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 본 영상은 AI 영상 생성 모델을 이용하여 제작한 AI 창작 드라마라고 명시되어 있다.",
+        "kept": true
+      },
+      {
+        "title": "GENER8ION – STORM | 페이커 버전 AI 팬메이드",
+        "channel": "나사식 연구소",
+        "views": 471157,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": true,
+        "info_rule": false,
+        "reason": "제목과 설명에 AI 팬메이드 및 AI 영상을 만들어봤다고 명시되어 있다.",
+        "kept": true
+      },
+      {
+        "title": "품격있는 황후답게 뻔뻔한 불륜녀 참교육하는 신민아 #재혼황후#신민아#이세영#주지훈#디즈니플러스#나비에#소비에슈#하인리 #궁중로맨스#황실드라마#로맨스 #황제의외도#황후의복수#드라마",
+        "channel": "심쿵무비",
+        "views": 387409,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "근거 없음",
+        "kept": false
+      },
+      {
+        "title": "모나리자가 출연한 정부 홍보 영상에 빵 터진 국무회의, 어떤 영상이길래 #이재명정부 #정부홍보영상 #문체부",
+        "channel": "정치이슈다",
+        "views": 369888,
+        "slot": "조회수",
+        "ai_made": "AI를 다룸",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 ai로 구현한 홍보영상이라고 언급되어 있다.",
+        "kept": false
+      },
+      {
+        "title": "힉스필드보다 쉬운 AI 자동화 채팅으로 끝내는 바이럴 숏폼 제작 Magnific X GPT-6 Astra",
+        "channel": "패스트캠퍼스",
+        "views": 2615,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 설명에 Magnific X GPT 등 AI 툴을 활용한 숏폼 제작 워크플로우를 다루고 있다.",
+        "kept": true
+      },
+      {
+        "title": "분야별 AI 최강 — 2026년 11월편 (유료)",
+        "channel": "Solostack",
+        "views": 1804,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 설명에 유료 AI 아홉 분야 1위 등 AI 소식을 다루고 있다.",
+        "kept": true
+      },
+      {
+        "title": "[석사인]신입사원 테크토닉 댄스 파티 힉스필드 #테크토닉 #신입사원 #힉스필드 #댄스 #춤 #파티 #클럽 #shorts #할로윈 #이태원",
+        "channel": "놀고먹고즐기는 석사인",
+        "views": 1768,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목에 힉스필드 등 AI 도구 이름이 포함되어 있다.",
+        "kept": true
+      },
+      {
+        "title": "죽은 남친이 입사했다 EP.3 PART 1 | AI 숏드라마",
+        "channel": "서재온 JAEON",
+        "views": 1690,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 설명에 AI로 제작한 허구의 드라마이며 힉스필드와 클링을 사용했다고 명시되어 있다.",
+        "kept": true
+      },
+      {
+        "title": "힉스필드가 LUT까지 만들어 줍니다 #힉스필드",
+        "channel": "크레용팜 Creyongfarm",
+        "views": 1610,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 설명에 힉스필드 플러그인으로 LUT를 만들어 봤다고 명시되어 있다.",
+        "kept": true
+      },
+      {
+        "title": "힉스필드 숏폼 제작 노하우(feat.아이언맨 프롬프트 제공)",
+        "channel": "나는브랜드다 최범석",
+        "views": 1523,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 설명에 힉스필드로 시네마틱한 영상을 만드는 법을 다루고 있다.",
+        "kept": true
+      },
+      {
+        "title": "AI 8개 중 연기가 제일 과한 모델 #힉스필드",
+        "channel": "크레용팜 Creyongfarm",
+        "views": 1479,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 설명에 힉스필드 등 AI 영상 모델을 다루고 있다.",
+        "kept": true
+      },
+      {
+        "title": "2025 AI툴 연말결산",
+        "channel": "아인너드",
+        "views": 1447,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 설명에 2025 AI툴 연말결산 및 다양한 AI 툴을 다루고 있다.",
+        "kept": true
+      },
+      {
+        "title": "\"AI 못 따라가면 뒤처진다\"길래 AI 다 구독했더니 💸 해지는 AI 상담원이…",
+        "channel": "aiaiaiguy",
+        "views": 1445,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 클로드, 미드저니, 런웨이 등 다양한 AI 구독과 직장인 유머를 다루고 있다.",
+        "kept": false
+      },
+      {
+        "title": "염이 힉스필드 동영상",
+        "channel": "사주팔자 신살",
+        "views": 1425,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 챗지티피와 힉스필드에서 만들었다고 명시되어 있다.",
+        "kept": false
+      }
+    ]
+  },
+  "checks": [
+    {
+      "title": "Bytedance's Seedream 5.5 promises pixel-stable image editing across 100 rounds without color drift",
+      "source": "The Decoder",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO",
+      "source": "The Decoder",
+      "first_ok": false,
+      "first_problems": [
+        "why 항목의 '창작자를 위한 가성비 기능이나 일상 모델 가격 변화를 지속적으로 확인해 볼 필요가 있습니다'라는 내용은 근거에 존재하지 않습니다."
+      ],
+      "rewritten": true,
+      "final_ok": true,
+      "final_problems": []
+    },
+    {
+      "title": "[실화 바탕] 60대 부부를 태운 대리기사가 끝내 눈물을 흘린 이유 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+      "source": "YouTube",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "힉스필드보다 쉬운 AI 자동화 채팅으로 끝내는 바이럴 숏폼 제작 Magnific X GPT-6 Astra",
+      "source": "YouTube",
+      "first_ok": false,
+      "first_problems": [
+        "why 항목에서 근거에 없는 '무료 체험'이라는 표현을 사용했습니다."
+      ],
+      "rewritten": true,
+      "final_ok": true,
+      "final_problems": []
+    }
+  ]
+}

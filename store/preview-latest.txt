@@ -1,27 +1,27 @@
-🗞️ <b>AI 숏폼 아침 브리핑 · 11월 3일</b>
+🗞️ <b>AI 숏폼 아침 브리핑 · 11월 10일</b>
 
 <b>① 요즘 뜨는 AI 숏폼</b>
 
-<b>초코 AI 영상 #1 지하철편, AI로 만든 강아지 출근길 지하철 등장 영상</b> [밈]
-정씨 집안 막내 강아지 정초코가 출근길 지하철역에 나타나는 모습을 AI로 제작한 영상입니다.
-👉 AI로 만든 강아지 영상을 참고해 나만의 AI 숏폼 영상을 만들어 보세요.
-<a href="https://www.youtube.com/watch?v=Dr9iLxBZKA4">어디든 초코 · 조회 1,263,361</a>
+<b>60대 부부와 대리기사의 실화 바탕 드라마</b> [작품]
+60대 부부를 태운 대리기사의 이야기를 다룬 쇼츠 영상입니다. 실화를 바탕으로 제작된 반전 드라마 형식입니다. 시니어 공감을 이끌어내는 내용을 담고 있습니다.
+👉 지켜볼 점: 실화 바탕의 시니어 드라마 형식이 조회수에 미치는 영향을 살펴보세요.
+<a href="https://www.youtube.com/watch?v=MjieDVvkK_Y">훈작가의 숏드라마 · 조회 2,471,030</a>
 
-<b>AI 디자인 도구 힉스필드 플러그인으로 음료 로고와 캔 목업을 활용한 홍보물 제작</b> [정보 전달]
-디자이너지인 채널에서 힉스필드 플러그인을 챗GPT에 연결해 직접 디자인한 음료 로고와 캔 목업 사진을 넣어 포스터와 영상 홍보물을 자동으로 제작하는 과정을 보여준다. 패키지 디자인을 살리면서 광고 문구도 자동 생성된다.
-👉 직접 디자인한 이미지로 힉스필드 플러그인을 활용해 홍보용 포스터나 영상을 만들어 보세요.
-<a href="https://www.youtube.com/watch?v=5-jvFeXPQB0">디자이너지인 · 조회 9,008</a>
+<b>Magnific과 GPT Astra 활용 AI 숏폼 워크플로우</b> [정보 전달]
+AI 영상 제작 시 인물, 제품, 로고 등의 일관성과 컨트롤 이슈를 해결하는 워크플로우가 공개됩니다. Magnific을 활용한 일관성 및 컨트롤 워크플로우 49종과 GPT Astra 연동 자동화 워크플로우 24종이 제공됩니다. 모델 컷부터 브랜드 필름까지 6종의 AI 콘텐츠 실습과 브랜드 프로젝트 과정이 포함되어 있습니다.
+👉 안정적인 숏폼 제작을 위해 Magnific과 GPT Astra를 활용한 AI 워크플로우 상세 정보를 링크에서 확인해 보세요.
+<a href="https://www.youtube.com/watch?v=_-QqoGb3AEc">패스트캠퍼스 · 조회 2,615</a>
 
 <b>② 제작 도구 소식</b>
 
-<b>SpaceX, Grok Bot 사용 한도 절반으로 축소</b>
-SpaceX가 Grok Bot의 사용 한도를 주말 사이에 절반으로 줄인 것으로 알려졌다. 일론 머스크는 운영 비용이 수익에 비해 지속 불가능하게 높다고 언급했으며, 일부 사용자는 새 할당량을 받기까지 며칠을 기다려야 했다. Grok Bot은 웹사이트 탐색, 이메일 답변, 계정 로그인 기능을 제공하며, Grok 및 코딩 플랫폼 Cursor와 할당량을 공유한다.
-👉 오늘 Grok Bot 사용량을 확인하고 필요하면 더 큰 구독 옵션을 고려해 보세요.
-<a href="https://the-decoder.com/spacexsi-apparently-cuts-grok-bot-quotas-weeks-after-musk-called-it-his-fastest-growing-product/">The Decoder</a>
+<b>바이트댄스, 시드림 5.5 공개</b>
+바이트댄스가 전문 제작 워크플로우를 위한 이미지 생성 모델 시드림 5.5를 발표합니다. 색상 변동 없이 백 라운드 동안 픽셀 수준의 안정적인 다중 편집을 지원합니다. 투명 배경의 네이티브 RGBA 이미지를 생성하여 디자인 자산으로 활용할 수 있습니다.
+👉 지켜볼 점: 새로운 이미지 편집 모델의 순차적용 과정을 지켜보세요.
+<a href="https://the-decoder.com/bytedances-seedream-5-5-promises-pixel-stable-image-editing-across-100-rounds-without-color-drift/">The Decoder</a>
 
-<b>Higgsfield AI 도구로 애니메이션 시리즈 제작하는 방법</b>
-Higgsfield의 Soul 2.0, Cinema Studio 4.0, Genjutsu를 활용해 AI 애니메이션 시리즈를 만들려면 스토리, 캐릭터, 시각 스타일, 샷, 사운드, 편집이 일관되게 유지되어야 한다. Soul 2.0으로 캐릭터와 장면의 참조 이미지를 생성하고, Cinema Studio 4.0에서 이를 움직이는 샷으로 발전시키며, Genjutsu로 기존 영상을 애니메 스타일로 변환할 수 있다.
-👉 오늘 Soul 2.0으로 캐릭터와 장면의 애니메 참조 이미지를 만들어 보세요.
-<a href="https://higgsfield.ai/blog/how-to-make-anime-series-with-ai">Higgsfield</a>
+<b>앤트로픽, 신규 AI 모델 클로드 페이블 5.2 및 미토스 5.2 공개</b>
+앤트로픽이 고난도 기술 작업을 위해 개발된 신규 플래그십 모델 클로드 페이블 5.2와 미토스 5.2를 출시합니다. 페이블 5.2는 인공 분석 인텔리전스 인덱스 v5에서 65점을 기록하며 1위에 올랐습니다. 두 모델은 동일한 기반을 공유하나 페이블은 안전 장치가 포함되어 있으며 미토스는 인증된 기관에만 개방됩니다.
+👉 지켜볼 점: 신규 모델의 성능과 기술 작업 적용 결과를 살펴보세요.
+<a href="https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/">The Decoder</a>
 
 <i>영상은 제목·설명만 보고 요약했습니다. 모든 요약은 원문과 AI 대조 검수를 통과했습니다.</i>
