@@ -36,6 +36,8 @@ pip install -r requirements.txt
 
 프로젝트 폴더에 `.env`를 만들고 키 네 개를 넣습니다. `.env`는 깃에 올라가지 않습니다.
 
+LLM은 `GEMINI_API_KEY`가 있으면 Gemini 무료 등급(`gemini-3.8-flash`)으로, 없으면 `OPENAI_API_KEY`로 부릅니다. Gemini 키는 Google AI Studio에서 무료로 받고, `OPENAI_API_KEY` 줄 대신 넣으면 됩니다.
+
 ```
 YOUTUBE_API_KEY=...
 OPENAI_API_KEY=...
@@ -51,4 +53,4 @@ python run.py
 
 ## 매일 자동 실행
 
-`.github/workflows/daily-brief.yml`이 매일 한국 시간 07:30에 `run.py --send`를 실행하고, 보낸 목록과 실행 기록을 저장소에 다시 커밋합니다. 저장소 Settings → Secrets and variables → Actions에 위 키 네 개를 같은 이름으로 등록해야 합니다. 전송이 실패하면 기록은 남기고 실행은 실패로 끝나서 GitHub 알림으로 알 수 있습니다.
+`.github/workflows/daily-brief.yml`이 매일 한국 시간 07:30에 `run.py --send`를 실행하고, 보낸 목록과 실행 기록을 저장소에 다시 커밋합니다. 저장소 Settings → Secrets and variables → Actions에 위 키 네 개를 같은 이름으로 등록해야 합니다. Gemini를 쓰려면 `GEMINI_API_KEY`도 등록합니다. 전송이 실패하면 기록은 남기고 실행은 실패로 끝나서 GitHub 알림으로 알 수 있습니다.
