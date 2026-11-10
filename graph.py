@@ -259,19 +259,22 @@ def load_audience(path="audience.yaml"):
 def llm():
     from openai import OpenAI
     # GEMINI_API_KEY가 있으면 Gemini 무료 등급을 OpenAI 호환 주소로 부른다. OpenAI 크레딧이 떨어져 11-04~11-09 브리핑이 멈췄다
-    common = {"default_headers": {"Accept-Encoding": "gzip, deflate"}, "timeout": 60}
+    common = {"default_headers": {"Accept-Encoding": "gzip, deflate"}, "max_retries": 1}
     key = os.environ.get("GEMINI_API_KEY")
-    if key:
-        return OpenAI(base_url=GEMINI_URL, api_key=key, max_retries=1, **common)
-    return OpenAI(max_retries=1, **common)
+    if key:     # Gemini 3은 추론을 끌 수 없어 느리다 — 11-10 시험에서 60초 안에 첫 응답이 오지 않았다
+        return OpenAI(base_url=GEMINI_URL, api_key=key, timeout=180, **common)
+    return OpenAI(timeout=60, **common)
 
 
 def ask(client, **kw):
     from openai import RateLimitError
-    model = MODEL if client.base_url.host == "api.openai.com" else GEMINI_MODEL
+    if client.base_url.host != "api.openai.com":
+        kw = {"model": GEMINI_MODEL, "reasoning_effort": "low", **kw}   # 고르기·요약·검수에는 긴 추론이 필요 없다
+    else:
+        kw = {"model": MODEL, **kw}
     for wait in (30, 60, None):     # 무료 등급은 분당 호출 수가 적다 → 1분 창이 지나도록 기다렸다 다시. 하루 한도면 세 번째에 그대로 실패
         try:
-            return client.chat.completions.parse(model=model, temperature=0, **kw)
+            return client.chat.completions.parse(temperature=0, **kw)
         except RateLimitError:
             if wait is None:
                 raise
