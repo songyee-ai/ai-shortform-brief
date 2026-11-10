@@ -53,4 +53,4 @@ python run.py
 
 ## 매일 자동 실행
 
-`.github/workflows/daily-brief.yml`이 매일 한국 시간 07:30에 `run.py --send`를 실행하고, 보낸 목록과 실행 기록을 저장소에 다시 커밋합니다. 저장소 Settings → Secrets and variables → Actions에 위 키 네 개를 같은 이름으로 등록해야 합니다. Gemini를 쓰려면 `GEMINI_API_KEY`도 등록합니다. 전송이 실패하면 기록은 남기고 실행은 실패로 끝나서 GitHub 알림으로 알 수 있습니다.
+`.github/workflows/daily-brief.yml`이 매일 한국 시간 03:47 예약으로 `run.py --send`를 실행하고(GitHub 예약이 3~5시간 늦게 돌아서 실제 도착은 아침 무렵), 보낸 목록과 실행 기록을 저장소에 다시 커밋합니다. 저장소 Settings → Secrets and variables → Actions에 위 키 네 개를 같은 이름으로 등록해야 합니다. Gemini를 쓰려면 `GEMINI_API_KEY`도 등록합니다. 어느 단계에서든 실패하면 기록은 남기고 실행은 실패로 끝나며, 마지막 오류 줄과 로그 링크를 Telegram으로 따로 보냅니다.

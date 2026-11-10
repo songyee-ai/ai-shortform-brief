@@ -2,7 +2,9 @@ name: daily-brief
 
 on:
   schedule:
-    - cron: "30 22 * * *"   # UTC 22:30 = 한국 시간 07:30 (GitHub 예약은 몇 분~수십 분 늦을 수 있다)
+    # UTC 18:47 = 한국 시간 03:47. GitHub 예약은 실제로 3~5시간 늦게 돌아서(10-30~11-09: 2시간 52분~5시간 9분)
+    # 07:30 예약이 낮 12시 무렵에 왔다 → 미리 걸어 아침에 오게 한다. 붐비는 정각·30분은 피한다
+    - cron: "47 18 * * *"
   workflow_dispatch:          # Actions 화면에서 직접 실행
 
 permissions:
@@ -33,7 +35,8 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python -B run.py --send
+        shell: bash                 # pipefail이 켜져 있어 tee를 거쳐도 실패가 실패로 남는다
+        run: python -B run.py --send 2>&1 | tee run.log   # 실패 알림에 마지막 오류 줄을 넣으려고 남긴다
 
       # 전송이 실패해도 실행 기록은 남긴다. 보낸 목록이 저장소에 있어야 다음 날 같은 소식을 다시 보내지 않는다
       - name: 기록 커밋
@@ -46,3 +49,19 @@ jobs:
           git commit -m "브리핑 실행 기록 $(TZ=Asia/Seoul date +%F)"
           git pull --rebase
           git push
+
+      # 실패해도 알림이 없어 11-04~11-09 엿새 동안 브리핑이 멈춘 걸 몰랐다 → 어느 단계에서 실패하든 Telegram으로 알린다
+      - name: 실패 알림
+        if: failure()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          reason=$(grep -E "Error|error|실패" run.log 2>/dev/null | tail -1 | cut -c1-300)
+          [ -n "$reason" ] || reason="브리핑 단계 전에 멈췄거나 오류 줄이 없습니다"
+          text="⚠️ $(TZ=Asia/Seoul date +%-m/%-d) 브리핑 실패
+          ${reason}
+          로그: ${RUN_URL}"
+          curl -sS -o /dev/null -w "Telegram 응답 %{http_code}\n" "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" --data-urlencode "text=${text}"
