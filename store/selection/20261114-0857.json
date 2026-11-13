@@ -1,0 +1,570 @@
+{
+  "tools": {
+    "batches": [
+      {
+        "batch": 1,
+        "size": 12,
+        "passed": [
+          "How to Make AI Videos Directly in ChatGPT (Full Guide)",
+          "Show HN: I built a Rick and Morty explainer video generator",
+          "Gemini Decisions API: Fast, calibrated multimodal decisions",
+          "Build a Robot Pick-and-Place Simulation with SimReady Assets"
+        ],
+        "dropped": [
+          "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "8 Best AI Tools for Creating Micro-Dramas in 2026",
+          "Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life",
+          "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+          "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
+          "XYBench: Helping with the problem behind the question",
+          "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet",
+          "OpenAI board member worries an AI \"takeover\" of society could be months away"
+        ]
+      },
+      {
+        "batch": 2,
+        "size": 12,
+        "passed": [
+          "Show HN: AxiomStory – Keep stories consistent across AI text, images, video",
+          "How to Scale AI Video Production for Clients (Full Guide)",
+          "Higgsfield Talent Contest: $1,000,000 in Cash Prizes for AI Films",
+          "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem"
+        ],
+        "dropped": [
+          "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+          "Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls",
+          "AI Bubble: 'Circular financing is over' – Ed Zitron [video]",
+          "Experience the art and legacy of Dr. Esther Mahlangu",
+          "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
+          "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+          "9 Best Image-to-Video AI Generators in 2026"
+        ]
+      },
+      {
+        "batch": 3,
+        "size": 12,
+        "passed": [
+          "Higgsfield Completes SOC 2 Type II Audit and Independent GDPR Assessment",
+          "Meta's Muse now calls businesses for you, but many companies might just hang up on the AI",
+          "Nearly 70 percent of US agencies use generative AI, and unions are finally catching up with guardrails",
+          "Anthropic's IPO is six times oversubscribed and on track to become the largest public offering in history"
+        ],
+        "dropped": [
+          "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+          "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+          "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models",
+          "Show HN: Obeya, a spatial canvas for directing coding agents",
+          "Show HN: Rystic – Stateful Local Simulators of Slack, GitHub and Linear",
+          "Show HN: Langfuse AI Gateway, open source rust gateway to trace every LLM call",
+          "OpenAI enters the cybersecurity market with two Daybreak products",
+          "Show HN: EtherPK – Fast Markdown Notes with Agent Integrated Task Kanban Board"
+        ]
+      },
+      {
+        "batch": 4,
+        "size": 4,
+        "passed": [
+          "Show HN: Klad, a paint app your coding agent can drive (source-available)",
+          "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+          "Gmail's AI summary presented a phishing email as a USPTO appointment",
+          "Show HN: mib – A 300KiB Vim-Style Markdown Scratchpad for Linux / Wayland"
+        ],
+        "dropped": []
+      }
+    ],
+    "survivors": 16,
+    "final_skipped": [
+      {
+        "title": "Show HN: I built a Rick and Morty explainer video generator",
+        "why": "본문 부족(336자)"
+      },
+      {
+        "title": "Higgsfield Talent Contest: $1,000,000 in Cash Prizes for AI Films",
+        "why": "Higgsfield 하루 상한"
+      },
+      {
+        "title": "How to Scale AI Video Production for Clients (Full Guide)",
+        "why": "Higgsfield 하루 상한"
+      },
+      {
+        "title": "Gmail's AI summary presented a phishing email as a USPTO appointment",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "Nearly 70 percent of US agencies use generative AI, and unions are finally catching up with guardrails",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Higgsfield Completes SOC 2 Type II Audit and Independent GDPR Assessment",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Anthropic's IPO is six times oversubscribed and on track to become the largest public offering in history",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Show HN: mib – A 300KiB Vim-Style Markdown Scratchpad for Linux / Wayland",
+        "why": "본선 탈락"
+      }
+    ],
+    "chosen": [
+      {
+        "title": "How to Make AI Videos Directly in ChatGPT (Full Guide)",
+        "event": "Higgsfield ChatGPT Video Guide",
+        "reason": "ChatGPT 내에서 AI 영상을 직접 생성하는 구체적인 가이드로 숏폼 창작자가 즉시 적용하기 좋습니다."
+      },
+      {
+        "title": "Show HN: AxiomStory – Keep stories consistent across AI text, images, video",
+        "event": "AxiomStory Tool",
+        "reason": "AI 텍스트, 이미지, 비디오 간 스토리 및 캐릭터 일관성을 유지해 주는 제작 도구 소식입니다."
+      },
+      {
+        "title": "Meta's Muse now calls businesses for you, but many companies might just hang up on the AI",
+        "event": "Meta Muse Agent Call Feature",
+        "reason": "메타의 신규 AI 에이전트 서비스 기능 출시 소식입니다."
+      }
+    ]
+  },
+  "trend": {
+    "prelim": 30,
+    "unlabeled": 0,
+    "meme_rule_fixed": 0,
+    "info_rule_fixed": 0,
+    "chosen": [
+      {
+        "title": "상견례에서 사돈을 직원 취급한 시어머니 | 밥은 잘하겠네",
+        "channel": "DENO PICTURES",
+        "views": 1739352,
+        "genre": "작품",
+        "reason": "설명에 'DenoVerse의 AI 창작 드라마입니다'라고 명시되어 있음"
+      },
+      {
+        "title": "이 영상 제가 1초도 편집 안했어요! #claude #higgsfield",
+        "channel": "게으른빌더",
+        "views": 8613,
+        "genre": "정보 전달",
+        "reason": "설명에 AI 도구 'higgsfield(힉스필드)' 연결 사용법 및 '클로드' 언급"
+      }
+    ],
+    "labels": [
+      {
+        "title": "상견례에서 사돈을 직원 취급한 시어머니 | 밥은 잘하겠네",
+        "channel": "DENO PICTURES",
+        "views": 1739352,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 'DenoVerse의 AI 창작 드라마입니다'라고 명시되어 있음",
+        "kept": true
+      },
+      {
+        "title": "월세 사는 사돈을 무시하는 줄 알았던 상견례의 반전 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "훈작가의 숏드라마",
+        "views": 1286034,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목 및 태그에 '#AI가상인물'이 표기되어 있음",
+        "kept": true
+      },
+      {
+        "title": "미친 거 아니냐는 젠슨 황 AI밈 ㅋㅋㅋㅋㅋ",
+        "channel": "아우리",
+        "views": 1165505,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목에 'AI밈' 표현이 있음",
+        "kept": false
+      },
+      {
+        "title": "#shorts #쇼츠 #젠슨황 #엔비디아 #NVIDIA #AI합성 #패러디 #유머 #웃긴영상 #이슈",
+        "channel": "바람과 구름",
+        "views": 903512,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목 및 태그에 '#AI합성'이 포함되어 있음",
+        "kept": false
+      },
+      {
+        "title": "키스캠부터 김치 따귀까지…'불륜 고백' 젠슨 황 SNS 밈 도배 / KNN",
+        "channel": "KNN NEWS",
+        "views": 845741,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "AI와 직접 관련된 근거가 없음",
+        "kept": false
+      },
+      {
+        "title": "[뉴스'픽'] AI 영상, CG 아닙니다… 실시간으로 감탄 쏟아지고 있다는 KF-21 영상",
+        "channel": "OBS뉴스",
+        "views": 812487,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "근거 없음",
+        "kept": false
+      },
+      {
+        "title": "결혼식 날 사돈 앞에서 시어머니가 말했다 \"집은 우리 아들이 다 해 왔잖아\" | 몸만 온 며느리",
+        "channel": "DENO PICTURES",
+        "views": 681066,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 'DenoVerse의 AI 창작 드라마입니다'라고 명시되어 있음",
+        "kept": true
+      },
+      {
+        "title": "상견례 오지 말라 던 딸, 사돈을 만나고 딸은 오열을 하는데..ㅣ숏드라마ㅣ사연드라마ㅣAI드라마ㅣ인생사연ㅣ감동ㅣ휴먼드라마",
+        "channel": "인생공감사연",
+        "views": 679181,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 설명에 'AI드라마', '본 영상은 AI로 제작된 창작영상 입니다'라고 명시됨",
+        "kept": true
+      },
+      {
+        "title": "남편이 다른 여자에게 준 스카프의 반전비밀 #시니어쇼츠 #반전드라마",
+        "channel": "막장두스푼",
+        "views": 670190,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '본 영상은 AI를 활용한 허구의 창작'이라고 명시됨",
+        "kept": true
+      },
+      {
+        "title": "천만명이 속은 이 영상, 선장이 말하는 AI인 4가지 이유",
+        "channel": "비타민씨",
+        "views": 657789,
+        "slot": "조회수",
+        "ai_made": "AI를 다룸",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목에 '선장이 말하는 AI인 4가지 이유' 언급",
+        "kept": false
+      },
+      {
+        "title": "돈 보내라는 아들의 충격적인 실체  #시니어 #감동드라마  #ai드라마 #반전드라마",
+        "channel": "스낵단편",
+        "views": 601627,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '이 영상은 AI를 활용하여 제작된 창작 이야기입니다'라고 명시됨",
+        "kept": true
+      },
+      {
+        "title": "개백수의 기묘한 일상생활 물귀신 상대법 #ai영상 #코미디 #개그 #ai영화 #ai드라마",
+        "channel": "백일당",
+        "views": 494092,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목 및 설명에 '#ai영상', 'ai드라마'가 언급되어 있음",
+        "kept": true
+      },
+      {
+        "title": "5년 돌본 딸 앞에서 아버지가 말했다 \"이 집, 재훈이 준다\" | 출가외인",
+        "channel": "DENO PICTURES",
+        "views": 472032,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 'DenoVerse의 AI 창작 드라마입니다'라고 명시됨",
+        "kept": true
+      },
+      {
+        "title": "남편이 모르는 여자와 운동을 같이한다!?? #ai드라마 #시니어드라마 #시니어공감",
+        "channel": "웃음가득",
+        "views": 423322,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목에 '#ai드라마' 태그가 명시됨",
+        "kept": true
+      },
+      {
+        "title": "엄마 몰래 집을 팔려고 한 아들 #시니어 #반전드라마 #사이다",
+        "channel": "ai방송국",
+        "views": 313656,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목 및 태그에 '#AI드라마'가 명시됨",
+        "kept": true
+      },
+      {
+        "title": "부모 은혜를 권리로 아는 자식들에게 꼭 보여줘야 할 영상 #shorts #드라마 #자녀 #drama",
+        "channel": "그날의속사정",
+        "views": 311011,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 영상 생성 모델(MiniMax H3) 사용 승인 및 영상 제작 내역이 명시됨",
+        "kept": true
+      },
+      {
+        "title": "「썩은 김치를 판다고?!」 시장에서 김치를 쏟아 버린 남자 #드라마",
+        "channel": "사이다 한방",
+        "views": 294874,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '이 영상은 AI로 제작한 창작 드라마입니다'라고 명시됨",
+        "kept": true
+      },
+      {
+        "title": "알바생에게 메뉴판 던진 단골 회장, 사장님이 한 말",
+        "channel": "사는맛 사연",
+        "views": 286608,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 'AI로 제작한 이미지와 음성을 사용합니다'라고 명시됨",
+        "kept": true
+      },
+      {
+        "title": "남대문 스카프사장님 한류 월드스타 AI변신",
+        "channel": "슬기로운오팔생활",
+        "views": 269796,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 'AI 기술을 활용해 제작한 가상의 콘서트 패러디' 및 'AI 영상으로 재해석' 언급",
+        "kept": true
+      },
+      {
+        "title": "엄마를 내쫓으려던 아들 #시니어드라마 #드라마 #쇼츠 #drama #인생드라마 #가족돌봄 #자녀 #가족갈등",
+        "channel": "꼬라지테레비",
+        "views": 260639,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '본 영상은 AI 기술로 제작한 가상의 드라마입니다'라고 명시됨",
+        "kept": true
+      },
+      {
+        "title": "이 영상 제가 1초도 편집 안했어요! #claude #higgsfield",
+        "channel": "게으른빌더",
+        "views": 8613,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI 도구 'higgsfield(힉스필드)' 연결 사용법 및 '클로드' 언급",
+        "kept": true
+      },
+      {
+        "title": "AI는 캥거루도 비행기에 태우는데, 학원 후기는 믿으세요?",
+        "channel": "어셔어학원 _ TV USHER",
+        "views": 3525,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명 및 제목에 'AI가 만든 캥거루 영상' 해설이 다루어짐",
+        "kept": true
+      },
+      {
+        "title": "아니 거 말로 합시다 말로...!",
+        "channel": "구니까효 [9NICCAHYO]",
+        "views": 2636,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "태그에 AI 영상 생성 도구 '힉스필드'가 포함됨",
+        "kept": true
+      },
+      {
+        "title": "열심히 크래딧 쓰고 있는 주인장2 #storm  #힉스필드 #higgsfield",
+        "channel": "유익한욱[우기]_UikhanuK[Ugi]",
+        "views": 1680,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "태그에 AI 영상 생성 도구 '힉스필드', 'higgsfield'가 명시됨",
+        "kept": false
+      },
+      {
+        "title": "영상판 포토샵이 나왔습니다… 찍은 영상, 다시 안 찍고 고친다 (힉스필드 미라클)",
+        "channel": "디자인 엔지니어",
+        "views": 1581,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목 및 설명에 AI 생성 도구 '힉스필드(Higgsfield)' 공식 기능 소개",
+        "kept": true
+      },
+      {
+        "title": "힉스필드 결제 전에 꼭 보세요, 1000번 만들며 망친 장면들",
+        "channel": "AI쌉파써블",
+        "views": 1534,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목에 AI 영상 생성 도구 이름인 '힉스필드'가 포함됨",
+        "kept": true
+      },
+      {
+        "title": "AI 영상 몇 번 클릭에 5만 원? 힉스필드 vs 하이퍼프레임",
+        "channel": "AX빌더 빅터",
+        "views": 1439,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목 및 설명에 AI 영상 생성 도구 '힉스필드' 언급 및 비교 설명",
+        "kept": true
+      },
+      {
+        "title": "염이 힉스필드 동영상",
+        "channel": "사주팔자 신살",
+        "views": 1434,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI 도구 이름인 '힉스필드'와 '챗지티피'가 명시됨",
+        "kept": false
+      },
+      {
+        "title": "💃몸치가 춤 잘 추는 방법 (Tip! 힉스필드 Genjutsu)",
+        "channel": "그로우리 | AI • 숏폼 • 자동화",
+        "views": 1420,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI 영상 생성 기능 '힉스필드 Genjutsu' 활용법 안내",
+        "kept": true
+      },
+      {
+        "title": "모델 촬영 없이 뮤비 주인공을 AI로 바꿨습니다 | 힉스필드 Genjutsu",
+        "channel": "레인 | AI 바이브코딩",
+        "views": 1417,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목 및 설명에 AI 영상 생성 기술 '힉스필드 Genjutsu' 및 AI 가상 인물 생성 명시",
+        "kept": true
+      }
+    ]
+  },
+  "checks": [
+    {
+      "title": "How to Make AI Videos Directly in ChatGPT (Full Guide)",
+      "source": "Higgsfield",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "Show HN: AxiomStory – Keep stories consistent across AI text, images, video",
+      "source": "Hacker News",
+      "first_ok": false,
+      "first_problems": [
+        "why 항목에서 무료 플랜으로 비디오를 만들 수 있다고 했으나, 근거의 Pricing 및 FAQ에 따르면 무료 플랜은 'Start free. Upgrade for pictures and video.'로 되어 있어 비디오는 유료 요금제에서만 가능합니다."
+      ],
+      "rewritten": true,
+      "final_ok": true,
+      "final_problems": []
+    },
+    {
+      "title": "Meta's Muse now calls businesses for you, but many companies might just hang up on the AI",
+      "source": "The Decoder",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "상견례에서 사돈을 직원 취급한 시어머니 | 밥은 잘하겠네",
+      "source": "YouTube",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "이 영상 제가 1초도 편집 안했어요! #claude #higgsfield",
+      "source": "YouTube",
+      "first_ok": true,
+      "first_problems": []
+    }
+  ]
+}
