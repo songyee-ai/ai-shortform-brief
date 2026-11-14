@@ -1,0 +1,510 @@
+{
+  "tools": {
+    "batches": [
+      {
+        "batch": 1,
+        "size": 12,
+        "passed": [
+          "Higgsfield Talent Contest: $1,000,000 in Cash Prizes for AI Films",
+          "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
+          "Keeping video layers in place across aspect ratios",
+          "Vyrma – Herhlaup (100% AI music/visuals/audio showing what's possible) [video]"
+        ],
+        "dropped": [
+          "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "Higgsfield Becomes the Most Adopted Image & Video AI Platform on Ramp",
+          "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
+          "XYBench: Helping with the problem behind the question",
+          "8 Best AI Tools for Creating Micro-Dramas in 2026",
+          "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
+          "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem"
+        ]
+      },
+      {
+        "batch": 2,
+        "size": 12,
+        "passed": [
+          "How to Scale AI Video Production for Clients (Full Guide)",
+          "Show HN: I built a Rick and Morty explainer video generator",
+          "Runway's open-source Praxis-1 turns video AI into a robot controller",
+          "Every Way to Get 192GB for Local AI (Without a $9,500 Mac) [video]"
+        ],
+        "dropped": [
+          "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
+          "DSPy vs. LangGraph: AI Agent Frameworks Explained – Stanford CS329Z [video]",
+          "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
+          "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+          "AI Bubble: 'Circular financing is over' – Ed Zitron [video]",
+          "Show HN: Langfuse AI Gateway, open source rust gateway to trace every LLM call",
+          "Show HN: EtherPK – Fast Markdown Notes with Agent Integrated Task Kanban Board"
+        ]
+      },
+      {
+        "batch": 3,
+        "size": 1,
+        "passed": [],
+        "dropped": [
+          "Show HN: Isometric SF – A pixel-art map of the SF Bay Area"
+        ]
+      }
+    ],
+    "survivors": 8,
+    "final_skipped": [
+      {
+        "title": "How to Scale AI Video Production for Clients (Full Guide)",
+        "why": "Higgsfield 하루 상한"
+      },
+      {
+        "title": "Show HN: I built a Rick and Morty explainer video generator",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "Vyrma – Herhlaup (100% AI music/visuals/audio showing what's possible) [video]",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "Runway's open-source Praxis-1 turns video AI into a robot controller",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "Every Way to Get 192GB for Local AI (Without a $9,500 Mac) [video]",
+        "why": "본선 순위 밖"
+      }
+    ],
+    "chosen": [
+      {
+        "title": "Higgsfield Talent Contest: $1,000,000 in Cash Prizes for AI Films",
+        "event": "Higgsfield AI 영화 콘테스트 개최",
+        "reason": "AI 영상 제작으로 총 100만 달러의 상금을 노려볼 수 있는 Higgsfield의 탤런트 콘테스트 소식입니다."
+      },
+      {
+        "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
+        "event": "앤트로픽 클로드 모델 프롬프트 작성 가이드 발표",
+        "reason": "최신 텍스트 및 콘텐츠 기획에 활용되는 앤트로픽 모델의 프롬프트 작성 요령 업데이트 소식입니다."
+      },
+      {
+        "title": "Keeping video layers in place across aspect ratios",
+        "event": "화면 비율 변경 시 영상 레이어 유지 기법",
+        "reason": "숏폼 제작 시 필수적인 다양한 화면 비율 간 영상 레이어 유지 기법을 다룹니다."
+      }
+    ]
+  },
+  "trend": {
+    "prelim": 30,
+    "unlabeled": 0,
+    "meme_rule_fixed": 0,
+    "info_rule_fixed": 0,
+    "chosen": [
+      {
+        "title": "미친 거 아니냐는 젠슨 황 AI밈 ㅋㅋㅋㅋㅋ",
+        "channel": "아우리",
+        "views": 2105238,
+        "genre": "밈",
+        "reason": "태그에 #ai밈이 포함되어 있음."
+      },
+      {
+        "title": "AI는 캥거루도 비행기에 태우는데, 학원 후기는 믿으세요?",
+        "channel": "어셔어학원 _ TV USHER",
+        "views": 7034,
+        "genre": "정보 전달",
+        "reason": "AI가 만든 캥거루 영상 사례를 들며 학원 수기 신뢰성을 홍보하는 정보 내용임."
+      }
+    ],
+    "labels": [
+      {
+        "title": "미친 거 아니냐는 젠슨 황 AI밈 ㅋㅋㅋㅋㅋ",
+        "channel": "아우리",
+        "views": 2105238,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "태그에 #ai밈이 포함되어 있음.",
+        "kept": true
+      },
+      {
+        "title": "\"게임 화면인 줄 알았네\" 조종사 움직임까지 담긴 KF-21｜ TJB 대전·세종·충남뉴스",
+        "channel": "TJB NEWS",
+        "views": 2059626,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI 영상으로 오해받았으나 실제 촬영 영상이라고 밝힘.",
+        "kept": false
+      },
+      {
+        "title": "#shorts #쇼츠 #젠슨황 #엔비디아 #NVIDIA #AI합성 #패러디 #유머 #웃긴영상 #이슈",
+        "channel": "바람과 구름",
+        "views": 1545838,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "태그에 #AI합성이 포함되어 있음.",
+        "kept": true
+      },
+      {
+        "title": "월세 사는 사돈을 무시하는 줄 알았던 상견례의 반전 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "훈작가의 숏드라마",
+        "views": 1381860,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 태그에 #AI가상인물, #시니어드라마가 포함되어 있음.",
+        "kept": true
+      },
+      {
+        "title": "혜유니가 꽃을 드려요💓🌼 #아기 #아기쇼츠 #ai",
+        "channel": "혜유니입니다 ",
+        "views": 954158,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명과 태그에 아기 ai, #힉스필드가 포함되어 있음.",
+        "kept": true
+      },
+      {
+        "title": "천만명이 속은 이 영상, 선장이 말하는 AI인 4가지 이유",
+        "channel": "비타민씨",
+        "views": 874778,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "AI 관련 근거 명시 없음.",
+        "kept": false
+      },
+      {
+        "title": "[뉴스'픽'] AI 영상, CG 아닙니다… 실시간으로 감탄 쏟아지고 있다는 KF-21 영상",
+        "channel": "OBS뉴스",
+        "views": 854616,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "AI 영상 관련 소식을 다루는 뉴스 설명임.",
+        "kept": false
+      },
+      {
+        "title": "키스캠부터 김치 따귀까지…'불륜 고백' 젠슨 황 SNS 밈 도배 / KNN",
+        "channel": "KNN NEWS",
+        "views": 850457,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "젠슨 황의 밈 이슈를 전달하는 뉴스임.",
+        "kept": false
+      },
+      {
+        "title": "개백수의 기묘한 일상생활 물귀신 상대법 #ai영상 #코미디 #개그 #ai영화 #ai드라마",
+        "channel": "백일당",
+        "views": 718461,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "태그에 #ai영상, #ai드라마가 포함되어 있음.",
+        "kept": true
+      },
+      {
+        "title": "상견례 오지 말라 던 딸, 사돈을 만나고 딸은 오열을 하는데..ㅣ숏드라마ㅣ사연드라마ㅣAI드라마ㅣ인생사연ㅣ감동ㅣ휴먼드라마",
+        "channel": "인생공감사연",
+        "views": 688853,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '본 영상은 AI로 제작된 창작영상 입니다'라고 밝힘.",
+        "kept": true
+      },
+      {
+        "title": "이 비열한 자식아!!!!💥 #야인시대 #명장면",
+        "channel": "SBS 옛날 드라마 - 빽드",
+        "views": 674203,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 무단 AI학습 이용 금지 문구만 있으며 AI 제작 근거 없음.",
+        "kept": false
+      },
+      {
+        "title": "돈 보내라는 아들의 충격적인 실체  #시니어 #감동드라마  #ai드라마 #반전드라마",
+        "channel": "스낵단편",
+        "views": 620247,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 'AI를 활용하여 제작된 창작 이야기'라고 밝힘.",
+        "kept": true
+      },
+      {
+        "title": "[실화바탕] 장례식장으로 칼국수 한 그릇을 주문했습니다 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "훈작가의 숏드라마",
+        "views": 605638,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목에 #AI가상인물이 포함되어 있음.",
+        "kept": true
+      },
+      {
+        "title": "남편이 모르는 여자와 운동을 같이한다!?? #ai드라마 #시니어드라마 #시니어공감",
+        "channel": "웃음가득",
+        "views": 542542,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 태그에 #ai드라마가 포함되어 있음.",
+        "kept": true
+      },
+      {
+        "title": "부모 은혜를 권리로 아는 자식들에게 꼭 보여줘야 할 영상 #shorts #드라마 #자녀 #drama",
+        "channel": "그날의속사정",
+        "views": 436985,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 영상 생성 모델 MiniMax H3 라이선스를 이용해 제작했다고 밝힘.",
+        "kept": true
+      },
+      {
+        "title": "「썩은 김치를 판다고?!」 시장에서 김치를 쏟아 버린 남자 #드라마",
+        "channel": "사이다 한방",
+        "views": 391503,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 'AI로 제작한 창작 드라마'라고 밝힘.",
+        "kept": true
+      },
+      {
+        "title": "[현장영상] 뒤집어진 세무사 시험 'AI 안경' 짚은 한동훈… 교육부 장관에게 꺼낸 말",
+        "channel": "OBS뉴스",
+        "views": 373096,
+        "slot": "조회수",
+        "ai_made": "AI를 다룸",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "AI 안경 관련 시험 논란에 대한 현장 뉴스임.",
+        "kept": false
+      },
+      {
+        "title": "엄마 몰래 집을 팔려고 한 아들 #시니어 #반전드라마 #사이다",
+        "channel": "ai방송국",
+        "views": 323001,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "태그에 #AI드라마가 포함되어 있음.",
+        "kept": true
+      },
+      {
+        "title": "남대문 스카프사장님 한류 월드스타 AI변신",
+        "channel": "슬기로운오팔생활",
+        "views": 284992,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 'AI 영상으로 재해석해 봤습니다' 및 'AI 기술을 활용해 제작한 가상의 콘서트'라고 밝힘.",
+        "kept": true
+      },
+      {
+        "title": "개백수의 기묘한 일상생활 설녀 요괴,귀신 상대법 #ai영상 #코미디 #개그 #ai영화 #ai드라마",
+        "channel": "백일당",
+        "views": 272676,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "태그에 #ai영상, #ai드라마가 포함되어 있음.",
+        "kept": true
+      },
+      {
+        "title": "AI는 캥거루도 비행기에 태우는데, 학원 후기는 믿으세요?",
+        "channel": "어셔어학원 _ TV USHER",
+        "views": 7034,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "AI가 만든 캥거루 영상 사례를 들며 학원 수기 신뢰성을 홍보하는 정보 내용임.",
+        "kept": true
+      },
+      {
+        "title": "아니 거 말로 합시다 말로...!",
+        "channel": "구니까효 [9NICCAHYO]",
+        "views": 3301,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "태그에 생성 도구 이름인 #힉스필드가 포함되어 있음.",
+        "kept": true
+      },
+      {
+        "title": "💃몸치가 춤 잘 추는 방법 (Tip! 힉스필드 Genjutsu)",
+        "channel": "그로우리 | AI • 숏폼 • 자동화",
+        "views": 1780,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "생성 도구인 힉스필드 젠주츠 이용 방법을 설명함.",
+        "kept": true
+      },
+      {
+        "title": "열심히 크래딧 쓰고 있는 주인장2 #storm  #힉스필드 #higgsfield",
+        "channel": "유익한욱[우기]_UikhanuK[Ugi]",
+        "views": 1727,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "태그에 생성 도구 이름인 #힉스필드가 포함되어 있음.",
+        "kept": false
+      },
+      {
+        "title": "힉스필드 결제 전에 꼭 보세요, 1000번 만들며 망친 장면들",
+        "channel": "AI쌉파써블",
+        "views": 1666,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "생성 도구인 힉스필드 사용 시 실패 장면 고치는 법에 관한 정보 전달임.",
+        "kept": true
+      },
+      {
+        "title": "AI 영상 몇 번 클릭에 5만 원? 힉스필드 vs 하이퍼프레임",
+        "channel": "AX빌더 빅터",
+        "views": 1611,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "AI 영상 생성 도구 사용료 비교 및 제작 방식 정보 전달임.",
+        "kept": true
+      },
+      {
+        "title": "Kling 3.0, AI 영상 무료 생성",
+        "channel": "AI Freemium",
+        "views": 1527,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목에 AI 영상 생성 도구 이름인 Kling이 포함되어 있음.",
+        "kept": true
+      },
+      {
+        "title": "모델 촬영 없이 뮤비 주인공을 AI로 바꿨습니다 | 힉스필드 Genjutsu",
+        "channel": "레인 | AI 바이브코딩",
+        "views": 1449,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 'AI로 생성한 가상 인물입니다' 및 힉스필드(higgsfield), 시댄스(seedance) 언급이 있음.",
+        "kept": true
+      },
+      {
+        "title": "힉스필드 결제하고 신나서 AI 돌리는 중인 주인장",
+        "channel": "유익한욱[우기]_UikhanuK[Ugi]",
+        "views": 1412,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목에 AI 돌리는 중이라고 적혀 있으나 영상 생성 도구명이 포함되어 있음.",
+        "kept": false
+      },
+      {
+        "title": "유행하는 거 다 따라해봄ㅋㅋ #힉스필드 #힉스필드젠주츠 #higgsfieldgenjutsu",
+        "channel": "숨마리",
+        "views": 1401,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 태그에 생성 도구 이름인 #힉스필드가 포함되어 있음.",
+        "kept": true
+      }
+    ]
+  },
+  "checks": [
+    {
+      "title": "Higgsfield Talent Contest: $1,000,000 in Cash Prizes for AI Films",
+      "source": "Higgsfield",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
+      "source": "The Decoder",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "Keeping video layers in place across aspect ratios",
+      "source": "Hacker News",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "미친 거 아니냐는 젠슨 황 AI밈 ㅋㅋㅋㅋㅋ",
+      "source": "YouTube",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "AI는 캥거루도 비행기에 태우는데, 학원 후기는 믿으세요?",
+      "source": "YouTube",
+      "first_ok": true,
+      "first_problems": []
+    }
+  ]
+}
