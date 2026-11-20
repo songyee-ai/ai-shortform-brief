@@ -1,32 +1,32 @@
-🗞️ <b>AI 숏폼 아침 브리핑 · 11월 19일</b>
+🗞️ <b>AI 숏폼 아침 브리핑 · 11월 20일</b>
 
 <b>① 요즘 뜨는 AI 숏폼</b>
 
-<b>메소 주문 쌀숭이 패러디 AI 보컬 영상 공개</b> [밈]
-맥도날드 주문 관련 원곡 비트를 일렉트로닉 스윙 스타일로 어레인지한 영상이 올라왔습니다. 2절 가사는 수제로 작성되었으나 보컬에는 AI 기술이 활용되었습니다. 영상 후반부는 다른 모델을 사용해 AI 영상의 완성도에 차이가 존재합니다.
-👉 AI 보컬과 수제 가사를 결합해 독창적인 패러디 숏폼 콘텐츠를 제작해 보세요.
-<a href="https://www.youtube.com/watch?v=P155LYory5g">이딴게 · 조회 2,258,283</a>
+<b>AI 가상인물이 출연하는 시니어 반전 숏드라마</b> [작품]
+완벽해 보이는 딸의 남자친구를 의심하는 아버지의 이야기를 다룬 시니어 숏드라마 영상입니다. AI 가상인물 기술을 활용하여 제작되었으며 반전 요소가 포함되어 있습니다. 5060 및 6070 세대의 공감을 겨냥한 인생 교훈 내용을 전달합니다.
+👉 AI 가상인물 도구를 활용해 장년층이 공감할 만한 반전 있는 숏폼 드라마 콘텐츠를 직접 제작해 보세요.
+<a href="https://www.youtube.com/watch?v=pHnTNkc1Imc">훈작가의 숏드라마 · 조회 2,461,552</a>
 
-<b>진짜 일하는 AI 도구 5가지 추천</b> [정보 전달]
-수백 개의 AI 도구 중 실제 업무에 유용한 5가지 도구를 소개합니다. Claude Code, OpenRouter, Grok, Glaido, Kie.ai가 포함되어 있습니다. 각 도구는 상상한 내용 구현, 여러 모델 사용, 루틴 실행, 음성 입력, 사용량 기반 영상 AI 결제 등의 기능을 제공합니다.
-👉 OpenRouter나 Kie.ai에 접속해 필요한 AI 모델을 바로 사용해 보세요.
-<a href="https://www.youtube.com/watch?v=1HttGuHZM3I">작심만일 : 성공 마인드 동반자 · 조회 5,849</a>
+<b>AI 맨발 댄스 영상 만드는 방법 공개</b> [정보 전달]
+사진 한 장과 레퍼런스 영상으로 AI 맨발 댄스 영상을 만들 수 있습니다. 힉스필드 프로그램의 Genjutsu 메뉴에서 무료 체험을 선택해 진행합니다. 레퍼런스 영상과 선명한 얼굴 사진을 업로드하고 프롬프트를 입력하면 완성됩니다.
+👉 힉스필드 무료 체험을 활용해 얼굴이 크게 나온 사진과 댄스 영상으로 AI 댄스 숏폼을 만들어 보세요.
+<a href="https://www.youtube.com/watch?v=0qNgb7G4oR8">피티원 PT ONE · 조회 4,527</a>
 
 <b>② 제작 도구 소식</b>
 
-<b>대화형 지연 시간의 영상 생성 모델 FastFrames 공개</b>
-FastFrames 공식 구현 저장소를 통해 FastFrames-S와 FastFrames-L 모델이 공개되었습니다. 두 모델은 autoregressive 방식의 2단계 비디오 확산 모델로 480p 영상을 대화형 지연 시간 수준으로 생성합니다. 또한 기존 모델보다 16배 빠른 LingBot 1.3B 최적화 버전도 함께 제공됩니다.
-👉 지켜볼 점: 초고속 비디오 생성 모델 FastFrames의 오픈소스 공개로 향후 창작 툴의 실시간 영상 생성 기능 탑재 여부를 지켜볼 필요가 있습니다.
-<a href="https://huggingface.co/apple/FastFrames-L">Hacker News</a>
+<b>구글, 더 빠르고 저렴한 Gemini 4 Neon 공개</b>
+구글 딥마인드가 기존 모델보다 처리 속도가 빠르고 가격이 저렴한 신규 AI 모델 Gemini 4 Neon을 공개했습니다. 이 모델은 텍스트, 이미지, 오디오, 비디오 분석을 지원하는 100만 토큰 컨텍스트 창을 제공합니다. 초당 약 110토큰을 생성하여 기존 Carbon 모델 대비 생성 속도가 약 두 배 빠릅니다.
+👉 비디오와 이미지 분석이 가능하고 기존보다 빠른 Gemini 4 Neon을 Google AI Studio에서 직접 사용해 보세요.
+<a href="https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/">The Decoder</a>
 
-<b>AI 프롬프트 스타일 라이브러리 출시</b>
-directorslookbook.app은 감정이나 장소, 트렌드를 입력하면 AI 이미지, 비디오, 음악 도구용 프롬프트를 생성해 주는 무료 서비스입니다. 계정 생성 없이 사용할 수 있으며 챗GPT, 미드저니, 런웨이, 클링 등 다양한 도구에 복사해 붙여넣을 수 있는 단어를 제공합니다. 선택한 스타일 카드는 기기에 저장되어 언제든 다시 불러올 수 있습니다.
-👉 무료로 계정 없이 사이트에 접속해 원하는 감정 키워드를 입력하고 숏폼 영상 제작용 AI 프롬프트를 만들어 보세요.
-<a href="https://directorslookbook.app/">Hacker News</a>
+<b>클로드에서 힉스필드로 AI 영상 생성 가능해져</b>
+클로드에 커스텀 MCP 커넥터 URL을 추가하고 힉스필드 계정을 연동하면 대화창에서 AI 영상을 바로 생성할 수 있습니다. 자격 조건을 갖춘 신규 사용자는 3일 무료 체험을 시작할 수 있으며 체험 종료 후 유료 플랜으로 자동 갱신됩니다. 무료 체험 외에 모든 생성 기능은 힉스필드 크레딧을 차용하며 영상 외에도 이미지와 음성 생성을 지원합니다.
+👉 클로드 커스텀 커넥터 설정에서 힉스필드 URL을 등록하고 3일 무료 체험으로 첫 AI 영상을 만들어 보세요.
+<a href="https://higgsfield.ai/blog/Generate-AI-Videos-From-Claude-with-Higgsfield-MCP">Higgsfield</a>
 
-<b>힉스필드, 대본 기반 AI 숏폼 드라마 제작 스튜디오 공개</b>
-힉스필드 숏드라마 스튜디오는 대본 업로드부터 에피소드 제작까지 지원하는 스크립트 기반 제작 도구입니다. 대본 분석 후 캐스팅과 장소 같은 시각적 요소를 준비하며 K-드라마, 애니메이션 등 15가지 비주얼 스타일을 제공합니다. 에피소드 기획과 영상 생성 단계가 분리되어 있어 미리보기를 확인한 뒤 480p, 720p, 1080p 해상도로 영상을 만들 수 있습니다.
-👉 지켜볼 점: 대본과 연출 스타일에 맞춰 에피소드별 AI 영상이 어떻게 구성되고 출력되는지 확인해 보세요.
-<a href="https://higgsfield.ai/blog/how-to-make-ai-short-drama-series">Higgsfield</a>
+<b>제미나이, 에이전틱 비디오 이해 기능 출시</b>
+구글이 제미나이 3.7 Flash 등 최신 모델에 에이전틱 비디오 이해 기능을 출시했습니다. 이 기능은 비디오 분석 시 토큰 사용량을 최대 88% 줄이고 정확도를 최대 7% 향상합니다. 별도의 기능 수수료 없이 표준 제미나이 API 토큰 가격으로 Google AI Studio 등에서 제공됩니다.
+👉 Google AI Studio에서 제미나이 API 설정의 영상 처리를 &#x27;agentic&#x27;으로 지정해 수초 단위 구간 찾기나 정확한 편집 시점을 테스트해 보세요.
+<a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/">Hacker News</a>
 
 <i>영상은 제목·설명만 보고 요약했습니다. 모든 요약은 원문과 AI 대조 검수를 통과했습니다.</i>
