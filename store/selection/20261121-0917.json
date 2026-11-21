@@ -1,0 +1,568 @@
+{
+  "tools": {
+    "batches": [
+      {
+        "batch": 1,
+        "size": 12,
+        "passed": [
+          "Higgsfield Black Friday Market: Bonus Seconds, Credit Packs and Unlimited Images",
+          "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+          "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+          "Introducing Tool Retrieval in the Gemini API"
+        ],
+        "dropped": [
+          "OpenAI makes it much harder for attackers to extract how its latest AI models think",
+          "Google rolls out new search homepage with AI chat history and no search button",
+          "AI Memorized the Internet. That's Not Intelligence. – Yann LeCun [video]",
+          "Walter Isaacson on curiosity and creativity in the AI age.",
+          "8 Best AI Tools for Game Trailers in 2026",
+          "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
+          "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+          "Show HN: Relic – An AI that only answers from what you've saved"
+        ]
+      },
+      {
+        "batch": 2,
+        "size": 12,
+        "passed": [
+          "The Gemini app is now available on lower-memory Android devices.",
+          "Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working",
+          "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+          "Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others"
+        ],
+        "dropped": [
+          "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+          "Higgsfield MCP Moves to CIMD: What Developers Need to Know",
+          "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+          "Why your fine-tuning job takes longer than the FLOPs say",
+          "13 Best AI Ad Generators in 2026",
+          "Will AI Coding Eat Video Game Engines?",
+          "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "8 Best AI Tools for Beauty Ads in 2026"
+        ]
+      },
+      {
+        "batch": 3,
+        "size": 12,
+        "passed": [
+          "How to Make Restaurant Video Ads with AI (Full Guide)",
+          "I Cloned Adobe with AI – Brandon Thomas, ArtCraft [video]",
+          "Google's latest homepage update pushes its search engine further toward an AI answer engine",
+          "Apple joins the race for AI agents that control your device while raising new barriers for competitors"
+        ],
+        "dropped": [
+          "\"Independent\" AI Safety Groups Are Pumping Anthropic's IPO [video]",
+          "12 Best AI Face Swap Tools in 2026",
+          "Nvidia bets at least $500 million on Inception's diffusion models to strengthen its open-source Nemotron lineup",
+          "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
+          "10 Best Enterprise AI Video Platforms in 2026",
+          "Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill",
+          "CEO discovers AI costs more than humans [video]",
+          "9 Best AI Tools for Restaurant Ads in 2026"
+        ]
+      },
+      {
+        "batch": 4,
+        "size": 6,
+        "passed": [
+          "Jeveration, a model that generates a 512 × 512 image in just 78 ms",
+          "Optimizing AI Agents: Prompts vs. Weights (GEPA, GRPO) – Stanford CS329Z [video]",
+          "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+          "Best Artlist Alternatives for AI Video Generation in 2026"
+        ],
+        "dropped": [
+          "Show HN: LarpLess, open-source study tracker detecting distractions locally",
+          "Show HN: erXos – a microkernel OS in Erlang based on Genera/Plan 9/QNX ideas"
+        ]
+      }
+    ],
+    "survivors": 16,
+    "final_skipped": [
+      {
+        "title": "How to Make Restaurant Video Ads with AI (Full Guide)",
+        "why": "Higgsfield 하루 상한"
+      },
+      {
+        "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "Introducing Tool Retrieval in the Gemini API",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "I Cloned Adobe with AI – Brandon Thomas, ArtCraft [video]",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Google's latest homepage update pushes its search engine further toward an AI answer engine",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Apple joins the race for AI agents that control your device while raising new barriers for competitors",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Optimizing AI Agents: Prompts vs. Weights (GEPA, GRPO) – Stanford CS329Z [video]",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Best Artlist Alternatives for AI Video Generation in 2026",
+        "why": "본선 탈락"
+      }
+    ],
+    "chosen": [
+      {
+        "title": "Higgsfield Black Friday Market: Bonus Seconds, Credit Packs and Unlimited Images",
+        "event": "Higgsfield 블랙프라이데이 할인",
+        "reason": "AI 영상 제작 도구인 Higgsfield의 크레딧 할인 및 무제한 이미지 생성 혜택으로 창작 비용을 절감할 수 있습니다."
+      },
+      {
+        "title": "Jeveration, a model that generates a 512 × 512 image in just 78 ms",
+        "event": "Jeveration 초고속 이미지 생성 모델 공개",
+        "reason": "78ms라는 초고속으로 이미지를 생성하는 새로운 AI 모델 소식으로 빠른 이미지 작업 흐름에 도움이 됩니다."
+      },
+      {
+        "title": "The Gemini app is now available on lower-memory Android devices.",
+        "event": "제미나이 앱 저사양 안드로이드 기기 지원",
+        "reason": "저사양 안드로이드 기기에서도 제미나이를 통한 맞춤형 이미지 생성이 가능해져 접근성이 확대되었습니다."
+      }
+    ]
+  },
+  "trend": {
+    "prelim": 30,
+    "unlabeled": 0,
+    "meme_rule_fixed": 0,
+    "info_rule_fixed": 0,
+    "chosen": [
+      {
+        "title": "비싼 저녁을 먹고도 허전했던 그날, 남자를 미소 짓게 한 떡볶이 한 접시 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "훈작가의 숏드라마",
+        "views": 1438514,
+        "genre": "작품",
+        "reason": "제목과 태그에 #AI가상인물 표기가 있음"
+      },
+      {
+        "title": "Kling 3.0, AI 영상 무료 생성",
+        "channel": "AI Freemium",
+        "views": 2618,
+        "genre": "정보 전달",
+        "reason": "제목에 Kling 3.0 AI 영상 생성 도구명이 포함되어 있음"
+      }
+    ],
+    "labels": [
+      {
+        "title": "\"이제 진짜 수석?\"...'AI 자수' 뒤 차석 합격자 재조명 [앵커리포트] / YTN",
+        "channel": " YTN",
+        "views": 3510881,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "근거 없음",
+        "kept": false
+      },
+      {
+        "title": "콩국수 집에 찾은 수상한 손님 #쇼츠드라마 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "김치스매시",
+        "views": 2200993,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "근거 없음",
+        "kept": false
+      },
+      {
+        "title": "AI 안경까지 예측한 무한도전ㅋㅋㅋ👓.jpg",
+        "channel": "똘킹",
+        "views": 1457887,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "근거 없음",
+        "kept": false
+      },
+      {
+        "title": "비싼 저녁을 먹고도 허전했던 그날, 남자를 미소 짓게 한 떡볶이 한 접시 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "훈작가의 숏드라마",
+        "views": 1438514,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 태그에 #AI가상인물 표기가 있음",
+        "kept": true
+      },
+      {
+        "title": "지독한 시집살이… 시어머니 앞에서 벌벌 떠는 며느리 #시니어 #시니어드라마 #시니어쇼츠 #반전드라마 #감동드라마",
+        "channel": "이야기쿵",
+        "views": 1438366,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명의 태그에 #AI숏드라마 표기가 있음",
+        "kept": true
+      },
+      {
+        "title": "이번 수능을 포기해버린 가족",
+        "channel": "원정상",
+        "views": 1433523,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "근거 없음",
+        "kept": false
+      },
+      {
+        "title": "[오늘 이 뉴스] \"AI 부정행위 인정 자수했다\"..세무사 수석 '급자백 영상' (2026.11.15/MBC뉴스)",
+        "channel": "MBCNEWS",
+        "views": 1420696,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "근거 없음",
+        "kept": false
+      },
+      {
+        "title": "국경에서 달려와 귀족들 기선 제압해 버린 김유신 (KBS_2026.11.15.방송)",
+        "channel": "KBS 히스토리",
+        "views": 1361673,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "근거 없음",
+        "kept": false
+      },
+      {
+        "title": "국밥 한 그릇 대접했더니 벌어진 일   #감동드라마 #ai드라마 #휴먼스토리 #반전드라마  #기막힌",
+        "channel": "스낵단편",
+        "views": 1336756,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목의 태그에 #ai드라마 표기가 있음",
+        "kept": true
+      },
+      {
+        "title": "\"국밥 냄새나니까 카페 차리자!\" 20년 만에 나타나 가게 열쇠부터 달라는 아들에게 어머니가 한 말 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "울컥한방",
+        "views": 1163235,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI로 제작한 창작 드라마라는 문구가 있음",
+        "kept": true
+      },
+      {
+        "title": "현 시점 AI안경 논란 제일 짜증나는 사람 #shorts #수능 #ai안경",
+        "channel": "레블 ReBL ASMR",
+        "views": 1136767,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "근거 없음",
+        "kept": false
+      },
+      {
+        "title": "면접 가는 길에 만난 조금 특별한 할머니 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "훈작가의 숏드라마",
+        "views": 919907,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 태그에 #AI가상인물 표기가 있음",
+        "kept": true
+      },
+      {
+        "title": "김정은 남한 적응기(로또편)",
+        "channel": "노어이TV",
+        "views": 896895,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "근거 없음",
+        "kept": false
+      },
+      {
+        "title": "현재 AI 안경 때문에 수능날 피해볼 사람들 1순위ㄷㄷ",
+        "channel": "제로부터백까지",
+        "views": 864957,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "근거 없음",
+        "kept": false
+      },
+      {
+        "title": "AI 사태 터지자 소름돋게 재평가된 강성태",
+        "channel": "이슈냥",
+        "views": 828567,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "근거 없음",
+        "kept": false
+      },
+      {
+        "title": "“사장님, 한 번만 안아봐도 될까요” 매일 국밥 먹으러 오던 손님의 마지막 부탁  #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "훈작가의 숏드라마",
+        "views": 723754,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 태그에 #AI가상인물 표기가 있음",
+        "kept": true
+      },
+      {
+        "title": "김여정이 청담동 미용실에 가면 생기는 일ㅋㅋ | AI 패러디",
+        "channel": "패러디왕국",
+        "views": 565409,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 설명에 AI 패러디, AI로 제작한 코미디라는 표기가 있음",
+        "kept": true
+      },
+      {
+        "title": "개백수의 기묘한 일상생활 설녀 요괴,귀신 상대법 #ai영상 #코미디 #개그 #ai영화 #ai드라마",
+        "channel": "백일당",
+        "views": 542725,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 태그에 #ai영상, #ai드라마 표기가 있음",
+        "kept": true
+      },
+      {
+        "title": "AI안경 논란에 미미미누가 운 진짜 이유 #수능",
+        "channel": "그분이 알고싶다",
+        "views": 506850,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "근거 없음",
+        "kept": false
+      },
+      {
+        "title": "\"AI 안경이 아니었다\"...부정행위 자백한 '세무사 수석 합격자' 그 수법이 [뉴스브리핑]",
+        "channel": "서울신문 ",
+        "views": 496583,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "근거 없음",
+        "kept": false
+      },
+      {
+        "title": "[최애 북부대공의 장모님이 되었습니다] 20화 | AI 코믹 로판",
+        "channel": "천만원 스튜디오",
+        "views": 9415,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목, 설명, 태그에 #ai영상, #ai드라마, 힉스필드, 시댄스 표기가 있음",
+        "kept": true
+      },
+      {
+        "title": "Kling 3.0, AI 영상 무료 생성",
+        "channel": "AI Freemium",
+        "views": 2618,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목에 Kling 3.0 AI 영상 생성 도구명이 포함되어 있음",
+        "kept": true
+      },
+      {
+        "title": "[힉스필드 젠주추#2] 빗자루도 면허가 필요한가요? ㅋㅋ #tech #ai #higgsfieldgenjutsu",
+        "channel": "AI TECH LAB",
+        "views": 2266,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 설명에 힉스필드, AI로 만든 영상이라는 표기가 있음",
+        "kept": true
+      },
+      {
+        "title": "AI 로봇 댄스 챌린지 원본 비교 힉스필드 모션 변환 #AI로봇 #댄스챌린지",
+        "channel": "람다에이아이 #5",
+        "views": 1949,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 설명에 AI 생성 도구인 힉스필드 기술 적용 표기가 있음",
+        "kept": true
+      },
+      {
+        "title": "TOP 모델의 개쩌는 프로의식",
+        "channel": "버즈숏",
+        "views": 1621,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI 패션 모델, 디지털 런웨이 영상 표기가 있음",
+        "kept": false
+      },
+      {
+        "title": "같은 프롬프트, 완전 다른 결과물 😱 힉스필드 엔진 전격 비교 #higgsfield",
+        "channel": "YeomPD | 여미티비",
+        "views": 1514,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목 및 태그에 AI 생성 도구인 힉스필드가 사용됨",
+        "kept": true
+      },
+      {
+        "title": "AI 영상 한 편, 진짜 얼마 들까? 133.5크레딧 공개",
+        "channel": "Turtle Buff",
+        "views": 1495,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명과 태그에 클로드 및 힉스필드 사용 비용 공개 표기가 있음",
+        "kept": true
+      },
+      {
+        "title": "힉스필드 ai무료 딱1번인데, 실수로 프롬포트 생성못해서 본의아니게 글래머로 변한 내몸매 ㅋㅋㅋ.. ai이지만 갖고싶다 저몸매~😁😁🫠 #힉스필드 #ai  #댄스 #유행릴스 #40대",
+        "channel": "윤블리의 해피데이💕",
+        "views": 1489,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 태그에 AI 생성 도구 힉스필드로 제작했다는 표기가 있음",
+        "kept": true
+      },
+      {
+        "title": "AI 영상, 말로 설명하기 어려운 카메라 움직임. 클로드와 힉스필드 조합으로 해결가능 #힉스필드 #ai영상 #higgsfield",
+        "channel": "디자인편집샵 / Beyond Better Brand / BBB",
+        "views": 1473,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목 및 설명에 클로드와 힉스필드 사용 법 해설이 있음",
+        "kept": true
+      },
+      {
+        "title": "나능 왜 힉스필드 무료 안돼? 캡컷으로 도전! 크래딧 있으시면 캡컷으로 해보세요~",
+        "channel": "J상담실장 | 일산피부과",
+        "views": 1396,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목에 AI 영상 도구 힉스필드와 캡컷 사용법 관련 언급이 있음",
+        "kept": true
+      }
+    ]
+  },
+  "checks": [
+    {
+      "title": "Higgsfield Black Friday Market: Bonus Seconds, Credit Packs and Unlimited Images",
+      "source": "Higgsfield",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "Jeveration, a model that generates a 512 × 512 image in just 78 ms",
+      "source": "Hacker News",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "source": "Google AI",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "비싼 저녁을 먹고도 허전했던 그날, 남자를 미소 짓게 한 떡볶이 한 접시 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+      "source": "YouTube",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "Kling 3.0, AI 영상 무료 생성",
+      "source": "YouTube",
+      "first_ok": true,
+      "first_problems": []
+    }
+  ]
+}
