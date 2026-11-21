@@ -1,0 +1,544 @@
+{
+  "tools": {
+    "batches": [
+      {
+        "batch": 1,
+        "size": 12,
+        "passed": [
+          "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions",
+          "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+          "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+          "Introducing Tool Retrieval in the Gemini API"
+        ],
+        "dropped": [
+          "10 Best Text-to-Video AI Generators in 2026",
+          "Nvidia researchers argue huge AI context windows are a dead end",
+          "AI Memorized the Internet. That's Not Intelligence. – Yann LeCun [video]",
+          "Walter Isaacson on curiosity and creativity in the AI age.",
+          "Where to Get Unlimited Seedance 2.5",
+          "Silicon Valley's growing obsession with AI doomsday is turning parts of the tech industry toward cult-like devotion",
+          "Show HN: Relic – An AI that only answers from what you've saved",
+          "8 Best AI Tools for Game Trailers in 2026"
+        ]
+      },
+      {
+        "batch": 2,
+        "size": 12,
+        "passed": [
+          "I Cloned Adobe with AI – Brandon Thomas, ArtCraft [video]",
+          "12 Best AI Face Swap Tools in 2026",
+          "Higgsfield MCP Moves to CIMD: What Developers Need to Know",
+          "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop"
+        ],
+        "dropped": [
+          "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+          "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
+          "Will AI Coding Eat Video Game Engines?",
+          "13 Best AI Ad Generators in 2026",
+          "\"Independent\" AI Safety Groups Are Pumping Anthropic's IPO [video]",
+          "8 Best AI Tools for Beauty Ads in 2026",
+          "US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up",
+          "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model"
+        ]
+      },
+      {
+        "batch": 3,
+        "size": 6,
+        "passed": [
+          "How to Make Restaurant Video Ads with AI (Full Guide)",
+          "Images of Canada's most wanted are AI-generated"
+        ],
+        "dropped": [
+          "Show HN: LarpLess, open-source study tracker detecting distractions locally",
+          "10 Best Enterprise AI Video Platforms in 2026",
+          "Show HN: erXos – a microkernel OS in Erlang based on Genera/Plan 9/QNX ideas",
+          "Launch HN: Onlook (YC W25) – An open-source developer tool for designers"
+        ]
+      }
+    ],
+    "survivors": 10,
+    "final_skipped": [
+      {
+        "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "Introducing Tool Retrieval in the Gemini API",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "Images of Canada's most wanted are AI-generated",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "I Cloned Adobe with AI – Brandon Thomas, ArtCraft [video]",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "12 Best AI Face Swap Tools in 2026",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Higgsfield MCP Moves to CIMD: What Developers Need to Know",
+        "why": "본선 탈락"
+      }
+    ],
+    "chosen": [
+      {
+        "title": "How to Make Restaurant Video Ads with AI (Full Guide)",
+        "event": "AI 레스토랑 영상 광고 제작 가이드",
+        "reason": "AI를 활용한 숏폼 비디오 광고 실전 제작 가이드를 제공하여 독자가 바로 영상 제작에 적용할 수 있습니다."
+      },
+      {
+        "title": "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions",
+        "event": "OpenAI 최신 프롬프트 작성 팁 공개",
+        "reason": "AI 프롬프트 작성 시 짧은 답변이나 불필요한 질문 문제를 해결할 수 있는 최신 프롬프트 팁을 담고 있습니다."
+      },
+      {
+        "title": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop",
+        "event": "Inkling 2 Mini 모델 출시",
+        "reason": "개인 컴퓨터에서 로컬로 실행 가능한 고성능 오픈 소스 신규 모델 출시 소식입니다."
+      }
+    ]
+  },
+  "trend": {
+    "prelim": 30,
+    "unlabeled": 0,
+    "meme_rule_fixed": 0,
+    "info_rule_fixed": 1,
+    "chosen": [
+      {
+        "title": "국밥 한 그릇 대접했더니 벌어진 일   #감동드라마 #ai드라마 #휴먼스토리 #반전드라마  #기막힌",
+        "channel": "스낵단편",
+        "views": 1434254,
+        "genre": "작품",
+        "reason": "태그에 #ai드라마 가 포함되어 있다."
+      },
+      {
+        "title": "Ai 티 안 나는 애니메이션 키워드 8가지 알려드릴게요!",
+        "channel": "디자이너지인",
+        "views": 6500,
+        "genre": "정보 전달",
+        "reason": "AI 생성 도구 힉스필드(Higgsfield)와 시댄스(Seedance) 사용법 및 키워드를 안내하는 영상이다."
+      }
+    ],
+    "labels": [
+      {
+        "title": "\"이제 진짜 수석?\"...'AI 자수' 뒤 차석 합격자 재조명 [앵커리포트] / YTN",
+        "channel": " YTN",
+        "views": 3712513,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "AI 안경 의혹과 관련된 부정행위 사건에 대한 뉴스 보도 영상이다.",
+        "kept": false
+      },
+      {
+        "title": "\"주문부터 해\" 쫓아낸 여고생이 들고 온 것 #시니어드라마 #반전드라마",
+        "channel": "별 : ★잡도리",
+        "views": 2938937,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목·설명·태그에 AI로 만들었다는 근거 없음",
+        "kept": false
+      },
+      {
+        "title": "콩국수 집에 찾은 수상한 손님 #쇼츠드라마 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "김치스매시",
+        "views": 2253889,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목·설명·태그에 AI로 만들었다는 근거 없음",
+        "kept": false
+      },
+      {
+        "title": "AI 안경까지 예측한 무한도전ㅋㅋㅋ👓.jpg",
+        "channel": "똘킹",
+        "views": 1533023,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "AI 안경 논란 관련 내용을 언급하는 예능 유머 영상이다.",
+        "kept": false
+      },
+      {
+        "title": "이번 수능을 포기해버린 가족",
+        "channel": "원정상",
+        "views": 1467708,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "태그에 #ai안경 등이 포함되어 있으나 부정행위 이슈 관련 언급일 뿐 영상 자체를 AI로 만든 근거는 없다.",
+        "kept": false
+      },
+      {
+        "title": "국밥 한 그릇 대접했더니 벌어진 일   #감동드라마 #ai드라마 #휴먼스토리 #반전드라마  #기막힌",
+        "channel": "스낵단편",
+        "views": 1434254,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "태그에 #ai드라마 가 포함되어 있다.",
+        "kept": true
+      },
+      {
+        "title": "국경에서 달려와 귀족들 기선 제압해 버린 김유신 (KBS_2026.11.15.방송)",
+        "channel": "KBS 히스토리",
+        "views": 1425707,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "저작권 문구에 AI 학습 금지가 포함되어 있을 뿐 AI 제작 근거 없음",
+        "kept": false
+      },
+      {
+        "title": "[오늘 이 뉴스] \"AI 부정행위 인정 자수했다\"..세무사 수석 '급자백 영상' (2026.11.15/MBC뉴스)",
+        "channel": "MBCNEWS",
+        "views": 1421570,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "AI 부정행위 자백 사건을 다룬 뉴스 보도 영상이다.",
+        "kept": false
+      },
+      {
+        "title": "사법고시 합격하자 여친을 버린 남자, 면접장에서 내려진 천벌 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "훈작가의 숏드라마",
+        "views": 1109095,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "태그에 #AI가상인물 이 포함되어 있다.",
+        "kept": true
+      },
+      {
+        "title": "면접 가는 길에 만난 조금 특별한 할머니 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "훈작가의 숏드라마",
+        "views": 945876,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "태그에 #AI가상인물 이 포함되어 있다.",
+        "kept": true
+      },
+      {
+        "title": "AI 사태 터지자 소름돋게 재평가된 강성태",
+        "channel": "이슈냥",
+        "views": 841030,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "AI 안경 이슈 관련 사태를 해설하는 영상이다.",
+        "kept": false
+      },
+      {
+        "title": "“사장님, 한 번만 안아봐도 될까요” 매일 국밥 먹으러 오던 손님의 마지막 부탁  #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "훈작가의 숏드라마",
+        "views": 755142,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "태그에 #AI가상인물 이 포함되어 있다.",
+        "kept": true
+      },
+      {
+        "title": "Ai 없이 피지컬로 부정행위 레전드",
+        "channel": "김준표",
+        "views": 733143,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목·설명·태그에 AI 제작 근거 없음",
+        "kept": false
+      },
+      {
+        "title": "김여정이 청담동 미용실에 가면 생기는 일ㅋㅋ | AI 패러디",
+        "channel": "평양비밀극장",
+        "views": 647249,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 설명에 AI 패러디 및 AI로 제작한 가상의 코미디라고 명시되어 있다.",
+        "kept": true
+      },
+      {
+        "title": "'새댁은 안줘!' 김장김치 한 포기도 안주던 야박한 할머니가 석달뒤에.. #숏드라마 #사연드라마 #AI드라마 #인생사연 #감동 #휴먼드라마 #김장 #김치",
+        "channel": "인생공감사연",
+        "views": 548612,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "태그와 설명에 #AI드라마 및 AI로 제작된 창작영상이라고 밝히고 있다.",
+        "kept": true
+      },
+      {
+        "title": "대표인 줄 모르고 며느리 무시한 시어머니의 최후 | AI드라마 | 참교육",
+        "channel": "악연의 끝",
+        "views": 525124,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목, 태그, 설명에 #AI드라마 및 AI 제작 창작물이라고 밝히고 있다.",
+        "kept": true
+      },
+      {
+        "title": "손목을 자르라던 마님… 그 노비가 저택을 사들였다 #쇼츠드라마 #사극쇼츠 #사이다드라마 #반전드라마 #권선징악",
+        "channel": "인생르네상스",
+        "views": 520524,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI 기반으로 직접 기획/제작했다고 명시되어 있다.",
+        "kept": true
+      },
+      {
+        "title": "AI안경 논란에 미미미누가 운 진짜 이유 #수능",
+        "channel": "그분이 알고싶다",
+        "views": 518053,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "AI 안경 논란 관련 인터넷 밈/이슈 영상이다.",
+        "kept": false
+      },
+      {
+        "title": "\"AI 안경이 아니었다\"...부정행위 자백한 '세무사 수석 합격자' 그 수법이 [뉴스브리핑]",
+        "channel": "서울신문 ",
+        "views": 497047,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "AI 안경 관련 수석 합격자 부정행위 자백 사건 뉴스 영상이다.",
+        "kept": false
+      },
+      {
+        "title": "세무사 시험 수석 합격 논란 당사자입니다. 부정행위를 했습니다.",
+        "channel": "이돈호 변호사",
+        "views": 484763,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "세무사 시험 부정행위 자백 관련 해설/입장 발표 영상이다.",
+        "kept": false
+      },
+      {
+        "title": "[최애 북부대공의 장모님이 되었습니다] 20화 | AI 코믹 로판",
+        "channel": "천만원 스튜디오",
+        "views": 13491,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "태그와 설명에 #ai영상, #ai드라마 및 AI 도구 힉스필드(Higgsfield)가 명시되어 있다.",
+        "kept": true
+      },
+      {
+        "title": "Ai 티 안 나는 애니메이션 키워드 8가지 알려드릴게요!",
+        "channel": "디자이너지인",
+        "views": 6500,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "AI 생성 도구 힉스필드(Higgsfield)와 시댄스(Seedance) 사용법 및 키워드를 안내하는 영상이다.",
+        "kept": true
+      },
+      {
+        "title": "[힉스필드 젠주추#2] 빗자루도 면허가 필요한가요? ㅋㅋ #tech #ai #higgsfieldgenjutsu",
+        "channel": "AI TECH LAB",
+        "views": 4477,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI로 만든 영상이라고 명시되어 있으며 AI 도구 힉스필드 태그가 포함되어 있다.",
+        "kept": true
+      },
+      {
+        "title": "TOP 모델의 개쩌는 프로의식",
+        "channel": "버즈숏",
+        "views": 3373,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 게시자가 AI 모델·AI 패션으로 표기한 디지털 런웨이 영상이라고 기재되어 있다.",
+        "kept": false
+      },
+      {
+        "title": "AI 로봇 댄스 챌린지 원본 비교 힉스필드 모션 변환 #AI로봇 #댄스챌린지",
+        "channel": "람다에이아이 #5",
+        "views": 1950,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": true,
+        "reason": "설명에 힉스필드 AI 기술을 적용하여 만든 휴머노이드 로봇 변환 영상이라고 밝히고 있다.",
+        "kept": true
+      },
+      {
+        "title": "같은 프롬프트, 완전 다른 결과물 😱 힉스필드 엔진 전격 비교 #higgsfield",
+        "channel": "YeomPD | 여미티비",
+        "views": 1598,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 태그에 AI 도구 힉스필드(higgsfield) 엔진 비교 내용을 담고 있다.",
+        "kept": true
+      },
+      {
+        "title": "AI 영상, 말로 설명하기 어려운 카메라 움직임. 클로드와 힉스필드 조합으로 해결가능 #힉스필드 #ai영상 #higgsfield",
+        "channel": "디자인편집샵 / Beyond Better Brand / BBB",
+        "views": 1543,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "AI 도구 힉스필드와 클로드를 활용한 영상 제작 및 무빙 기법을 알려주는 광고/정보 영상이다.",
+        "kept": true
+      },
+      {
+        "title": "힉스필드 ai무료 딱1번인데, 실수로 프롬포트 생성못해서 본의아니게 글래머로 변한 내몸매 ㅋㅋㅋ.. ai이지만 갖고싶다 저몸매~😁😁🫠 #힉스필드 #ai  #댄스 #유행릴스 #40대",
+        "channel": "윤블리의 해피데이💕",
+        "views": 1516,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 태그에 AI 생성 도구 힉스필드 사용 및 AI 댄스 영상임을 밝히고 있다.",
+        "kept": true
+      },
+      {
+        "title": "나능 왜 힉스필드 무료 안돼? 캡컷으로 도전! 크래딧 있으시면 캡컷으로 해보세요~",
+        "channel": "J상담실장 | 일산피부과",
+        "views": 1399,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "AI 영상 도구 힉스필드 무료 이용 관련 팁을 나누는 영상이다.",
+        "kept": true
+      },
+      {
+        "title": "‘신경’ 수어 배우기｜또또마가린의 오늘의 수어 / 힉스필드ai 넘 비싸서 여러분의 안구 보호를 위해 필터카메라 사용했습니다. 실물은 쭈글 #Shorts #수어 #수화 #병원수어",
+        "channel": "또또마가린",
+        "views": 1270,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 태그에 힉스필드ai 및 #aishorts, #ai가 언급되어 있으나 본문상 인물 필터 활용이며 수어 학습 정보를 제공한다.",
+        "kept": true
+      }
+    ]
+  },
+  "checks": [
+    {
+      "title": "How to Make Restaurant Video Ads with AI (Full Guide)",
+      "source": "Higgsfield",
+      "first_ok": false,
+      "first_problems": [
+        "why 항목의 '무료 체험으로'라는 표현은 근거에 없는 내용입니다."
+      ],
+      "rewritten": true,
+      "final_ok": true,
+      "final_problems": []
+    },
+    {
+      "title": "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions",
+      "source": "The Decoder",
+      "first_ok": false,
+      "first_problems": [
+        "why 항목에서 숏폼 영상 제작용 대본과 소재 추출 효율에 미치는 영향이라는 근거에 없는 내용을 언급했습니다."
+      ],
+      "rewritten": true,
+      "final_ok": true,
+      "final_problems": []
+    },
+    {
+      "title": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop",
+      "source": "The Decoder",
+      "first_ok": false,
+      "first_problems": [
+        "why 항목에서 '팅커 플레이그라운드에서 무료로'라고 하였으나, 근거에는 무료라는 언급이 없습니다."
+      ],
+      "rewritten": true,
+      "final_ok": true,
+      "final_problems": []
+    },
+    {
+      "title": "국밥 한 그릇 대접했더니 벌어진 일   #감동드라마 #ai드라마 #휴먼스토리 #반전드라마  #기막힌",
+      "source": "YouTube",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "Ai 티 안 나는 애니메이션 키워드 8가지 알려드릴게요!",
+      "source": "YouTube",
+      "first_ok": false,
+      "first_problems": [
+        "요약에서 힉스필드가 블랙프라이데이를 맞아 65% 할인 이벤트를 진행 중이라고 하였으나, 근거에는 65% 할인 링크를 DM으로 보내준다는 내용만 있을 뿐 직접 이벤트를 진행 중이라는 표현은 명시되어 있지 않습니다."
+      ],
+      "rewritten": true,
+      "final_ok": true,
+      "final_problems": []
+    }
+  ]
+}
