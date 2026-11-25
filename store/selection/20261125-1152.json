@@ -1,0 +1,540 @@
+{
+  "tools": {
+    "batches": [
+      {
+        "batch": 1,
+        "size": 12,
+        "passed": [
+          "Higgsfield GPU Harness: Cloud GPUs, Supported Apps and Pricing",
+          "Anthropic turns Claude Artifacts into standalone desktop apps for macOS and Windows",
+          "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents",
+          "Quit Internet Videos Before AI Perfects Them"
+        ],
+        "dropped": [
+          "How Gemini is changing the game for Golden State's organization and fans.",
+          "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+          "What's going on with the Riemann hypothesis?",
+          "A more tailored Google Search that’s uniquely yours",
+          "RoboTrack: Point tracking for real-world robotic manipulation",
+          "7 Best Google Veo Alternatives in 2026",
+          "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+          "Sovereign skills: Porting an AI code audit to Inkling 2 Mini and Qwen3.8"
+        ]
+      },
+      {
+        "batch": 2,
+        "size": 12,
+        "passed": [
+          "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+          "Higgsfield Opens the $14 Billion Microdrama Market to Western Studios",
+          "OpenAI o1 co-creator Noam Brown urges promising students to drop out as AI enters a \"very steep rate of progress\"",
+          "How to build and maintain an agentic evaluation"
+        ],
+        "dropped": [
+          "Novartis CEO says AI will shave four years off drug development, not cure all disease",
+          "AI Fire Detection System Mistakes Image for Blaze [video]",
+          "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+          "Amodei reportedly suggested games could pacify masses after AI took their jobs (2015)",
+          "Anthropic researcher stands by his AI-assisted Riemann proof but owns up to \"stupid things\" in the rollout",
+          "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+          "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
+          "Dozens of insiders say OpenAI and Anthropic's unreleased models have outgrown their safety measures"
+        ]
+      },
+      {
+        "batch": 3,
+        "size": 9,
+        "passed": [
+          "A new image upscaler with up to 36K resolution",
+          "Show HN: A narrated map tour of the events leading up to the Texas Revolution",
+          "Anthropic's Claude Ship lets AI agents review, fix, and approve pull requests on their own",
+          "Show HN: Wakeshift – Open-Source MCP Events for Claude Code, Codex and More"
+        ],
+        "dropped": [
+          "How to Implement AI with .NET",
+          "German researchers call for computer science to reinvent itself as \"Computer and AI Science\"",
+          "I know who's popping the AI bubble now [video]",
+          "Show HN: ModelXare – Decentralized AI Models",
+          "Video Games: the new 'local' for a generation of disillusioned young men"
+        ]
+      }
+    ],
+    "survivors": 12,
+    "final_skipped": [
+      {
+        "title": "Higgsfield GPU Harness: Cloud GPUs, Supported Apps and Pricing",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "Anthropic turns Claude Artifacts into standalone desktop apps for macOS and Windows",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "Show HN: A narrated map tour of the events leading up to the Texas Revolution",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "Quit Internet Videos Before AI Perfects Them",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "OpenAI o1 co-creator Noam Brown urges promising students to drop out as AI enters a \"very steep rate of progress\"",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "How to build and maintain an agentic evaluation",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Anthropic's Claude Ship lets AI agents review, fix, and approve pull requests on their own",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "Show HN: Wakeshift – Open-Source MCP Events for Claude Code, Codex and More",
+        "why": "본선 탈락"
+      }
+    ],
+    "chosen": [
+      {
+        "title": "A new image upscaler with up to 36K resolution",
+        "event": "new_image_upscaler",
+        "reason": "최대 36K 해상도를 지원하는 새로운 이미지 업스케일러 소식으로, AI 숏폼 영상 제작에 필요한 고화질 이미지 리소스 제작에 즉시 활용할 수 있습니다."
+      },
+      {
+        "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+        "event": "tidal_ai_music_ban",
+        "reason": "타이달이 AI 생성 음악을 전면 금지하고 대규모 삭제 조치를 발표함에 따라, AI 음원을 사용하는 숏폼 창작자들의 저작권 및 음원 플랫폼 정책 대비가 필요합니다."
+      },
+      {
+        "title": "Higgsfield Opens the $14 Billion Microdrama Market to Western Studios",
+        "event": "higgsfield_microdrama",
+        "reason": "AI 기반 숏폼의 대표적 모바일 콘텐츠인 마이크로드라마 시장 개척 소식으로, 숏폼 창작자들에게 새로운 연출 형식과 기회를 제시합니다."
+      }
+    ]
+  },
+  "trend": {
+    "prelim": 30,
+    "unlabeled": 0,
+    "meme_rule_fixed": 1,
+    "info_rule_fixed": 1,
+    "chosen": [
+      {
+        "title": "트레이닝복 입고 나란히 앉은 두 형님의 현실 근황 😂 #shorts #쇼츠 #트럼프 #푸틴 #AI영상 #웃긴영상 #유머 #일상유머",
+        "channel": "바람과 구름",
+        "views": 2668034,
+        "genre": "밈",
+        "reason": "제목과 설명에 '#AI영상' 태그가 포함되어 AI로 제작되었음을 밝힘"
+      },
+      {
+        "title": "[KLING 4.0] AI가 만든 아이돌 챌린지, 진짜 같나요? #tech #ai #neon #a2o",
+        "channel": "AI TECH LAB",
+        "views": 2799,
+        "genre": "정보 전달",
+        "reason": "제목에 Kling 도구 명시 및 설명에 'AI로 만든 영상입니다' 및 '#AI영상' 명시"
+      }
+    ],
+    "labels": [
+      {
+        "title": "랩1위 김하온을 학습한 AI로봇의 랩 노래",
+        "channel": "강컷 : The movie",
+        "views": 3161620,
+        "slot": "조회수",
+        "ai_made": "AI를 다룸",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목에서 '랩1위 김하온을 학습한 AI로봇의 랩 노래'라고 기술하며 AI 학습 및 생성 관련 소식을 다루는 내용임",
+        "kept": false
+      },
+      {
+        "title": "트레이닝복 입고 나란히 앉은 두 형님의 현실 근황 😂 #shorts #쇼츠 #트럼프 #푸틴 #AI영상 #웃긴영상 #유머 #일상유머",
+        "channel": "바람과 구름",
+        "views": 2668034,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 설명에 '#AI영상' 태그가 포함되어 AI로 제작되었음을 밝힘",
+        "kept": true
+      },
+      {
+        "title": "이번 수능을 포기해버린 가족",
+        "channel": "원정상",
+        "views": 1703214,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 태그에 #ai안경, #수능ai 등이 사용되었으나 영상 자체를 AI 도구로 만들었다는 근거 없음",
+        "kept": false
+      },
+      {
+        "title": "AI 안경까지 예측한 무한도전ㅋㅋㅋ👓.jpg",
+        "channel": "똘킹",
+        "views": 1696816,
+        "slot": "조회수",
+        "ai_made": "AI를 다룸",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목에 'AI 안경' 키워드가 들어가며 AI 안경 관련 내용을 다루지만 영상 자체는 사람이 찍음",
+        "kept": false
+      },
+      {
+        "title": "면접 포기하고 도운 할머니… 알고 보니 회장님??",
+        "channel": "보름달 필름",
+        "views": 1307373,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 'AI로 제작한 창작 드라마이며' 및 '#AI드라마' 태그가 포함되어 있음",
+        "kept": true
+      },
+      {
+        "title": "\"돈 없으면 먹지 마!\" 시식코너 직원의 막말과 사장의 참교육#AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "훈작가의 숏드라마",
+        "views": 1284332,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목 및 태그에 '#AI가상인물'이 기재되어 있어 AI 생성을 밝힘",
+        "kept": true
+      },
+      {
+        "title": "드라마에서 무대로‥'보살춤'으로 돌아온 채시라 (2026.11.18/뉴스데스크/MBC)",
+        "channel": "MBCNEWS",
+        "views": 1236185,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목 및 설명에 AI 관련 언급이 없음",
+        "kept": false
+      },
+      {
+        "title": "대게 무게를 속인 상인, 입구 공용 저울 앞에서 #AI드라마",
+        "channel": "골목극장",
+        "views": 1141204,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '생성형 AI로 제작했습니다', 'Made with Higgsfield AI' 및 '#AI드라마' 태그가 있음",
+        "kept": true
+      },
+      {
+        "title": "낡은 가방보고 무시한 사돈... 알고보니 그 정체가",
+        "channel": "보름달 필름",
+        "views": 1079941,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 'AI 기술을 활용해 제작한 창작 드라마' 및 '#AI드라마' 태그가 명시됨",
+        "kept": true
+      },
+      {
+        "title": "상견례 내내 신부 아버지만 뚫어져라 쳐다보던 신랑 아버지 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "훈작가의 숏드라마",
+        "views": 1077545,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목 및 태그에 '#AI가상인물'이 명시되어 AI 제작을 나타냄",
+        "kept": true
+      },
+      {
+        "title": "면접 가는 길에 만난 조금 특별한 할머니 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "훈작가의 숏드라마",
+        "views": 1019389,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목 및 태그에 '#AI가상인물'이 기재되어 AI 생성을 밝힘",
+        "kept": true
+      },
+      {
+        "title": "아버지가 저를 밀었습니다 #조선시대 #오백냥 #밀었습니다#사극 #은혜 #배신 #옥노리개 #현감 #의리 #감동 #한국드라마 #숏드라마 #AI드라마 #물귀신 #역모",
+        "channel": "hb q",
+        "views": 959201,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목 및 태그에 '#AI드라마'가 포함되어 있음",
+        "kept": true
+      },
+      {
+        "title": "'새댁은 안줘!' 김장김치 한 포기도 안주던 야박한 할머니가 석달뒤에.. #숏드라마 #사연드라마 #AI드라마 #인생사연 #감동 #휴먼드라마 #김장 #김치",
+        "channel": "인생공감사연",
+        "views": 930619,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '본 영상은 AI로 제작된 각색/창작영상 입니다' 및 '#AI드라마' 태그 명시",
+        "kept": true
+      },
+      {
+        "title": "깁스 한 번 더 해 드릴까? 다친 팔을 또 비튼 놈의 최후 | 참교육 | AI드라마 | 조선제일검",
+        "channel": "홈런드라마",
+        "views": 903536,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '이 영상은 AI로 만든 창작 드라마입니다' 및 '#AI드라마' 태그 명시",
+        "kept": true
+      },
+      {
+        "title": "\"나 바쁘니까 먼저할게요!\" 새치기 하던 진상...  #ai드라마 #시니어공감 #시니어",
+        "channel": "웃음가득",
+        "views": 883391,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목 및 태그에 '#ai드라마'가 기재됨",
+        "kept": true
+      },
+      {
+        "title": "25년 만에 나타나 부양료를 달라는 친아빠 #AI드라마",
+        "channel": "골목극장",
+        "views": 804887,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '영상은 생성형 AI로 제작했습니다' 및 '#AI드라마' 태그 명시",
+        "kept": true
+      },
+      {
+        "title": "미미미누도 놀란 리트냥이 충격적 공부법 #shorts #공부",
+        "channel": "숏디렉터",
+        "views": 768457,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명 태그에 #ai가 포함되어 있으나 영상 자체가 AI 도구로 만들어졌다는 근거 부족",
+        "kept": false
+      },
+      {
+        "title": "웨이터에게 와인 부은 본부장, 복도에서 벌어진 일 #Shorts",
+        "channel": "TWIST DRAMA",
+        "views": 756728,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 'AI로 제작된 가상의 드라마이며' 및 '#AI드라마' 태그가 명시됨",
+        "kept": true
+      },
+      {
+        "title": "참다참다 터지면 벌어지는 일  #시니어드라마 #막장드라마 #ai드라마 #기막힌",
+        "channel": "스낵단편",
+        "views": 708693,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '이 영상은 ai를 도구로 활용하여 만든 창작 드라마입니다' 및 '#ai드라마' 태그 명시",
+        "kept": true
+      },
+      {
+        "title": "웰시코기 배신의 현장 🤣🐶",
+        "channel": "조아",
+        "views": 671884,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목 및 태그에 '#AI영상'이 명시되어 AI로 제작되었음을 나타냄",
+        "kept": true
+      },
+      {
+        "title": "TOP 모델의 개쩌는 프로의식",
+        "channel": "버즈숏",
+        "views": 7384,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 '게시자가 AI 모델·AI 패션으로 표기한 디지털 런웨이 영상입니다' 및 '#AI모델' 명시",
+        "kept": false
+      },
+      {
+        "title": "[KLING 4.0] AI가 만든 아이돌 챌린지, 진짜 같나요? #tech #ai #neon #a2o",
+        "channel": "AI TECH LAB",
+        "views": 2799,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": true,
+        "reason": "제목에 Kling 도구 명시 및 설명에 'AI로 만든 영상입니다' 및 '#AI영상' 명시",
+        "kept": true
+      },
+      {
+        "title": "A2O LITE 'NEON' AI 춤 챌린지, 카피바라한테 시켰더니..ㅋㅋ",
+        "channel": "카피바라 AI",
+        "views": 2322,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 챗GPT 및 Kling AI 도구 사용 및 프롬프트 제작 과정이 명시되어 AI 제작 및 사용법을 전달함",
+        "kept": true
+      },
+      {
+        "title": "이혼하자는 불독 황제에게 고양이 황후가 내건 조건｜개혼황후 #재혼황후 #AI드라마 #shorts",
+        "channel": "AI Bulldog ",
+        "views": 2285,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 Kling 4.0으로 제작 및 '#AI드라마', '#AI쇼츠' 태그 명시",
+        "kept": true
+      },
+      {
+        "title": "클링 8K로 끝까지 확대하면 생기는 일",
+        "channel": "AI크래프터",
+        "views": 2077,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 설명에서 Kling 및 힉스필드 도구를 다루며 성능과 기능을 설명하는 정보 전달 영상임",
+        "kept": true
+      },
+      {
+        "title": "힉스필드로 감정 안 적으면 생기는 일",
+        "channel": "AI크래프터",
+        "views": 1845,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": true,
+        "info_rule": false,
+        "reason": "제목과 설명에서 힉스필드(Higgsfield) AI 생성 도구 프롬프트 활용법 및 기능을 다룸",
+        "kept": true
+      },
+      {
+        "title": "AI 영상, 말로 설명하기 어려운 카메라 움직임. 클로드와 힉스필드 조합으로 해결가능 #힉스필드 #ai영상 #higgsfield",
+        "channel": "디자인편집샵 / Beyond Better Brand / BBB",
+        "views": 1693,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에서 클로드와 힉스필드(Higgsfield) 도구 연동 및 활용 제작법을 다룸",
+        "kept": true
+      },
+      {
+        "title": "클로드에 힉스필드 연결하는 법, 1분이면 됩니다",
+        "channel": "신동댕동 Shindongdengdong",
+        "views": 1524,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에서 클로드에 힉스필드(Higgsfield)를 연결하는 방법을 알려주는 정보 전달 영상임",
+        "kept": true
+      },
+      {
+        "title": "폭포에서 걸어나온 퓨전 한복 여신? 반전 런웨이 패션쇼",
+        "channel": "elfleekr",
+        "views": 1415,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 Gemini 사용 및 'AI 이미지 시각화 & 영상 제작', '#AI아트' 명시됨",
+        "kept": false
+      },
+      {
+        "title": "대본 하나로 3분 드라마 만드는 법 | 챗GPT + 힉스필드 숏드라마 5단계 #숏드라마 #힉스필드",
+        "channel": "유리병극장",
+        "views": 1405,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 챗GPT + 힉스필드 숏드라마 만드는 법 5단계를 알려주는 제작 정보 전달 영상임",
+        "kept": true
+      }
+    ]
+  },
+  "checks": [
+    {
+      "title": "A new image upscaler with up to 36K resolution",
+      "source": "Hacker News",
+      "first_ok": false,
+      "first_problems": [
+        "why에 '숏폼 영상용 크롭 컷'이라는 근거에 없는 내용이 포함되어 있습니다."
+      ],
+      "rewritten": true,
+      "final_ok": true,
+      "final_problems": []
+    },
+    {
+      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "source": "Ars Technica",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "Higgsfield Opens the $14 Billion Microdrama Market to Western Studios",
+      "source": "Higgsfield",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "트레이닝복 입고 나란히 앉은 두 형님의 현실 근황 😂 #shorts #쇼츠 #트럼프 #푸틴 #AI영상 #웃긴영상 #유머 #일상유머",
+      "source": "YouTube",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "[KLING 4.0] AI가 만든 아이돌 챌린지, 진짜 같나요? #tech #ai #neon #a2o",
+      "source": "YouTube",
+      "first_ok": true,
+      "first_problems": []
+    }
+  ]
+}
