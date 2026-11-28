@@ -1,0 +1,538 @@
+{
+  "tools": {
+    "batches": [
+      {
+        "batch": 1,
+        "size": 12,
+        "passed": [
+          "Higgsfield Black Friday 2026: Plan Discounts and Credit Pack Offers",
+          "How to Make an Animated Video with AI (Step-by-Step Guide)",
+          "Which AI Video Platforms Allow Commercial Use and How It Works?",
+          "Taking Trainium3 to the Track: Generating Videos with LTX-2.5"
+        ],
+        "dropped": [
+          "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
+          "Is Lisp Still Relevant in the New Age of AI? [video]",
+          "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports",
+          "AI Keeps Asking If It's Conscious [video]",
+          "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models",
+          "Show HN: Sidelong – read-it-later and highlighting for every type of content"
+        ]
+      },
+      {
+        "batch": 2,
+        "size": 12,
+        "passed": [
+          "10 Best Free AI Video Generators",
+          "10 Best AI Lip Sync Tools for Any Language 2026",
+          "5 Best Platforms to Use Nano Banana 2 in 2026",
+          "An Indic Voice Agent with CUGA"
+        ],
+        "dropped": [
+          "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+          "Hackers breached the US Air Force's flagship Cloud One platform, report says",
+          "VCs complain startups are spamming them with AI slop [video]",
+          "Where scientists draw the line on AI agents",
+          "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork",
+          "Alice Huang-linked firms helped fund China AI sector, probe shows",
+          "Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents?",
+          "I have not seen my patients improve with AI [video]"
+        ]
+      },
+      {
+        "batch": 3,
+        "size": 5,
+        "passed": [
+          "Show HN: Telegram image bot – 3 free AI images a day, 1 USDT = 10",
+          "Best Ways to Access MAGI-2 in 2026",
+          "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "SAP plans to cut at least 10,000 jobs as it pivots to AI"
+        ],
+        "dropped": [
+          "Show HN: Open-Sourced Code Mode to Cut ~60% of My Rust Agent's Token Burn"
+        ]
+      }
+    ],
+    "survivors": 12,
+    "final_skipped": [
+      {
+        "title": "Which AI Video Platforms Allow Commercial Use and How It Works?",
+        "why": "Higgsfield 하루 상한"
+      },
+      {
+        "title": "Higgsfield Black Friday 2026: Plan Discounts and Credit Pack Offers",
+        "why": "Higgsfield 하루 상한"
+      },
+      {
+        "title": "Best Ways to Access MAGI-2 in 2026",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "An Indic Voice Agent with CUGA",
+        "why": "본선 순위 밖"
+      },
+      {
+        "title": "10 Best Free AI Video Generators",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "10 Best AI Lip Sync Tools for Any Language 2026",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "5 Best Platforms to Use Nano Banana 2 in 2026",
+        "why": "본선 탈락"
+      },
+      {
+        "title": "SAP plans to cut at least 10,000 jobs as it pivots to AI",
+        "why": "본선 탈락"
+      }
+    ],
+    "chosen": [
+      {
+        "title": "How to Make an Animated Video with AI (Step-by-Step Guide)",
+        "event": "AI 애니메이션 제작 가이드",
+        "reason": "AI를 활용해 애니메이션 영상을 제작하는 단계별 가이드를 제공하여 숏폼 제작에 즉시 활용할 수 있습니다."
+      },
+      {
+        "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+        "event": "LTX-2.5 영상 생성",
+        "reason": "Trainium3 기반에서 LTX-2.5를 활용해 영상을 생성하는 최신 실습 및 모델 적용 소식을 다룹니다."
+      },
+      {
+        "title": "Show HN: Telegram image bot – 3 free AI images a day, 1 USDT = 10",
+        "event": "텔레그램 무료 AI 이미지 봇",
+        "reason": "매일 무료 3장 및 저렴한 가격으로 AI 이미지를 생성할 수 있는 텔레그램 봇 소식을 공유합니다."
+      }
+    ]
+  },
+  "trend": {
+    "prelim": 30,
+    "unlabeled": 0,
+    "meme_rule_fixed": 1,
+    "info_rule_fixed": 1,
+    "chosen": [
+      {
+        "title": "대게 무게를 속인 상인, 입구 공용 저울 앞에서 #AI드라마",
+        "channel": "골목극장",
+        "views": 1208045,
+        "genre": "작품",
+        "reason": "설명에 영상은 생성형 AI로 제작했습니다 및 Made with Higgsfield AI로 명시됨"
+      },
+      {
+        "title": "Ai 영상 여러 번 뽑기 전에, 이 방법부터 싸보세요! #Higgsfield #claude",
+        "channel": "디자이너지인",
+        "views": 2993,
+        "genre": "정보 전달",
+        "reason": "설명에 힉스필드 AI 영화 콘테스트 및 AI 영상 제작 방법 소개 명시"
+      }
+    ],
+    "labels": [
+      {
+        "title": "Ai에게 질수 없다는 김하온,,,하지만,,,입이 떡 벌어지는데...",
+        "channel": "강컷 : The movie",
+        "views": 2215562,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "근거 없음",
+        "kept": false
+      },
+      {
+        "title": "AI가 만든 노래, 음원차트 정상…사람 커버 영상도 화제 [자막뉴스] / 채널A",
+        "channel": "채널A News",
+        "views": 1594896,
+        "slot": "조회수",
+        "ai_made": "AI를 다룸",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 설명에서 AI가 만든 노래 및 AI 기술로 구현되었다고 명시됨",
+        "kept": false
+      },
+      {
+        "title": "리센느 With 칼군무 일치율 분석",
+        "channel": "AI돌 분석가",
+        "views": 1495486,
+        "slot": "조회수",
+        "ai_made": "AI를 다룸",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 AI가 직접 판독했다고 명시됨",
+        "kept": false
+      },
+      {
+        "title": "AI 원곡보다 좋다는 와인바 사장님 라이브",
+        "channel": "온:잇",
+        "views": 1382733,
+        "slot": "조회수",
+        "ai_made": "AI를 다룸",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 설명에 AI 원곡, AI가 부른 곡으로 명시됨",
+        "kept": false
+      },
+      {
+        "title": "대게 무게를 속인 상인, 입구 공용 저울 앞에서 #AI드라마",
+        "channel": "골목극장",
+        "views": 1208045,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 영상은 생성형 AI로 제작했습니다 및 Made with Higgsfield AI로 명시됨",
+        "kept": true
+      },
+      {
+        "title": "\"나 바쁘니까 먼저할게요!\" 새치기 하던 진상...  #ai드라마 #시니어공감 #시니어",
+        "channel": "웃음가득",
+        "views": 1198999,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목의 #ai드라마 태그",
+        "kept": true
+      },
+      {
+        "title": "상견례 내내 신부 아버지만 뚫어져라 쳐다보던 신랑 아버지 #AI가상인물 #시니어드라마 #시니어쇼츠 #시니어 #반전드라마",
+        "channel": "훈작가의 숏드라마",
+        "views": 1151682,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목의 #AI가상인물 태그",
+        "kept": true
+      },
+      {
+        "title": "아버지의 은인을 거지라며 쫓아낸 아들 #shorts  #드라마",
+        "channel": "사이다 한방",
+        "views": 1118191,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 이 채널의 모든 영상은 재미와 오락을 위해 AI로 제작한 창작 드라마입니다라고 명시됨",
+        "kept": true
+      },
+      {
+        "title": "맥도날드에서 랩으로 주문하는 아스피날 (with 시릴 간)",
+        "channel": "옥타곤 모먼트",
+        "views": 996082,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 사용된 AI 노래: Suno로 제작, 영상: 힉스필드로 명시됨",
+        "kept": true
+      },
+      {
+        "title": "죽은 친정엄마 김치 비법 빼앗은 시어머니의 최후 #숏드라마 #사이다",
+        "channel": "감동온",
+        "views": 901295,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 이 영상은 AI로 제작한 창작 드라마입니다라고 명시됨",
+        "kept": true
+      },
+      {
+        "title": "AI보다 무서운 로버트패틴슨?",
+        "channel": "TV JOSIS티비조씨",
+        "views": 815484,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "근거 없음",
+        "kept": false
+      },
+      {
+        "title": "김장날 김치만 쏙 가져가는 얄미운 시누이... #시니어사연 #시니어 #ai드라마",
+        "channel": "웃음가득",
+        "views": 741366,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목의 #ai드라마 태그",
+        "kept": true
+      },
+      {
+        "title": "참다참다 터지면 벌어지는 일  #시니어드라마 #막장드라마 #ai드라마 #기막힌",
+        "channel": "스낵단편",
+        "views": 724317,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 이 영상은 ai를 도구로 활용하여 만든 창작 드라마입니다라고 명시됨",
+        "kept": true
+      },
+      {
+        "title": "예의 없는 부잣집 사모님 참교육 #명장면 #드라마 #shorts",
+        "channel": "지금이거봐",
+        "views": 716329,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 태그의 #AI드라마",
+        "kept": true
+      },
+      {
+        "title": "알바 시켜 달라던 학생을 내쫓은 분식집 사장… #ai드라마 #시니어드라마 #시니어",
+        "channel": "감동가득",
+        "views": 710384,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목의 #ai드라마 태그",
+        "kept": true
+      },
+      {
+        "title": "노부부 설렁탕집을 차지한 건물주 아들의 개업 첫날 #AI드라마",
+        "channel": "골목극장",
+        "views": 648548,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 영상은 생성형 AI로 제작했습니다라고 명시됨",
+        "kept": true
+      },
+      {
+        "title": "2분 만에 울린 'AI 애니메이션' 아빠 두더지와 고양이의 사연 / KNN",
+        "channel": "KNN NEWS",
+        "views": 616427,
+        "slot": "조회수",
+        "ai_made": "AI를 다룸",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목에 'AI 애니메이션'으로 명시됨",
+        "kept": false
+      },
+      {
+        "title": "걸레를 쥐여줬던 할머니의 충격적인 반전 #드라마 #복수 #사이다",
+        "channel": "안방 AI 극장",
+        "views": 609568,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "채널명의 안방 AI 극장",
+        "kept": true
+      },
+      {
+        "title": "등산중 만난 부부, 부부가 맞는거같아?  #ai드라마 #시니어공감 #시니어",
+        "channel": "웃음가득",
+        "views": 590439,
+        "slot": "조회수",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목의 #ai드라마 태그",
+        "kept": true
+      },
+      {
+        "title": "AI 영상 아니냐는 로제 스모크 추는 모습",
+        "channel": "돌바라기",
+        "views": 589600,
+        "slot": "조회수",
+        "ai_made": "AI 무관",
+        "genre": "기타",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목에 AI 영상 아니냐는 표현이 있으나 직접 만든 근거 없음",
+        "kept": false
+      },
+      {
+        "title": "비 오는 서울, 신경 1도 안 쓰는 남자 #ai영화 #seedance #ai드라마",
+        "channel": "AI Trend Future",
+        "views": 125304,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목과 설명에 #ai영화, #Seedance, #AI영상, Higgsfield 등의 태그 및 표현 명시",
+        "kept": true
+      },
+      {
+        "title": "역주행 '디워' 다시 태어난다…'심형래 야심작' 예고편 최초 공개 [이 장면]",
+        "channel": " YTN",
+        "views": 122397,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "뉴스·해설",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 힉스필드AI 및 AI 기술로 실사 촬영 없이 AI 기술만으로 제작됐다고 명시됨",
+        "kept": false
+      },
+      {
+        "title": "⭐ 케이팝 데몬 헌터스 Vol.3 Soda Pop (AI 실사화) / KPop Demon Hunters K-POP デーモン・ハンターズ 케데헌",
+        "channel": "안젤로 ANGELO",
+        "views": 10115,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "작품",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 팬이 제작한 AI 실사 컨셉 영상입니다라고 명시됨",
+        "kept": true
+      },
+      {
+        "title": "포기를 모르는 학생과 철벽방어 선생님 ㅋㅋㅋ #소림축구 #ShaolinSoccer #shaolin #kungfu #kungfusoccer #쿵푸 #쿵푸축구 #소림 #힉스필드",
+        "channel": "예체능클래스",
+        "views": 8269,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 힉스필드 ai로 제작했습니다라고 명시됨",
+        "kept": true
+      },
+      {
+        "title": "Ai 영상 여러 번 뽑기 전에, 이 방법부터 싸보세요! #Higgsfield #claude",
+        "channel": "디자이너지인",
+        "views": 2993,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 힉스필드 AI 영화 콘테스트 및 AI 영상 제작 방법 소개 명시",
+        "kept": true
+      },
+      {
+        "title": "[Quick SLASH] 그래픽카드까지 채팅으로 빌린다…Claude 3D 시연, 그런데 숨겨진 사실은?",
+        "channel": "AI 슬래시",
+        "views": 2699,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": true,
+        "reason": "설명에 AI 영상 회사 힉스필드(Higgsfield) 시연 해설 내용 명시",
+        "kept": true
+      },
+      {
+        "title": "힉스필드 쓰기 전에 꼭 해야 하는 설정 3개",
+        "channel": "AI크래프터",
+        "views": 2377,
+        "slot": "도구 검색어",
+        "ai_made": "AI로 만듦",
+        "genre": "밈",
+        "meme_rule": true,
+        "info_rule": false,
+        "reason": "제목 및 설명에 힉스필드 크레딧 아끼며 AI 영상을 만드는 설정 및 사용법 소개 명시",
+        "kept": true
+      },
+      {
+        "title": "189만 뷰 AI 영화 장면 딱 두 번 생성해서 똑같이 만듭니다 #힉스필드 #AI영상",
+        "channel": "문외인 Layperson",
+        "views": 2273,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목 및 설명에 힉스필드 모델과 클로드 코드를 조합한 AI 영화 장면 재현 실전 분석법 명시",
+        "kept": true
+      },
+      {
+        "title": "AI툴 조합만 잘하면 영상 퀄리티 진심 장난 아님 l . 이번주 AI 업데이트! 지금 당장 확인 (힉스필드X아스트라X블렌더, 클링, 매그너픽, 구글 플로우) 11월3주차 업데이트",
+        "channel": "알면좋을AI공학 AIEDU",
+        "views": 2204,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "설명에 Higgsfield, Kling 4.0, 구글 플로우 등 AI 툴 업데이트 및 활용 정보 명시",
+        "kept": true
+      },
+      {
+        "title": "클링 8K로 끝까지 확대하면 생기는 일",
+        "channel": "AI크래프터",
+        "views": 2107,
+        "slot": "도구 검색어",
+        "ai_made": "AI를 다룸",
+        "genre": "정보 전달",
+        "meme_rule": false,
+        "info_rule": false,
+        "reason": "제목 및 설명에 Kling Image 4.0 및 힉스필드 언급과 AI 툴 기능 정리 명시",
+        "kept": true
+      }
+    ]
+  },
+  "checks": [
+    {
+      "title": "How to Make an Animated Video with AI (Step-by-Step Guide)",
+      "source": "Higgsfield",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "source": "Hugging Face",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "Show HN: Telegram image bot – 3 free AI images a day, 1 USDT = 10",
+      "source": "Hacker News",
+      "first_ok": true,
+      "first_problems": []
+    },
+    {
+      "title": "대게 무게를 속인 상인, 입구 공용 저울 앞에서 #AI드라마",
+      "source": "YouTube",
+      "first_ok": false,
+      "first_problems": [
+        "why 항목에서 근거에 없는 무료 체험이라는 표현을 사용했습니다."
+      ],
+      "rewritten": true,
+      "final_ok": false,
+      "final_problems": [
+        "why에 '숏폼'이라는 단어가 언급되어 있으나 근거에는 관련 내용이 없습니다."
+      ]
+    },
+    {
+      "title": "Ai 영상 여러 번 뽑기 전에, 이 방법부터 싸보세요! #Higgsfield #claude",
+      "source": "YouTube",
+      "first_ok": true,
+      "first_problems": []
+    }
+  ]
+}
